@@ -1,1241 +1,2401 @@
 #EXTM3U
-#EXTINF:-1,Discovery SC HD
-http://m-iptv.net:6204/mme/123/13502
-#EXTINF:-1,Star Movies HD
-http://m-iptv.net:6204/mme/123/13504
-#EXTINF:-1,Star World HD
-http://m-iptv.net:6204/mme/123/13503
-#EXTINF:-1,FightBox HD
-http://m-iptv.net:6204/mme/123/2694
-#EXTINF:-1,Nat Geo AD HD
-http://m-iptv.net:6204/mme/123/605
-#EXTINF:-1,Quest HD
-http://m-iptv.net:6204/mme/123/3236
-#EXTINF:-1,AD Drama HD
-http://m-iptv.net:6204/mme/123/161
-#EXTINF:-1,DUBAI ONE
-http://m-iptv.net:6204/mme/123/10028
-#EXTINF:-1,Dubai Zaman
-http://m-iptv.net:6204/mme/123/10026
-#EXTINF:-1,DUBAI TV
-http://m-iptv.net:6204/mme/123/10027
-#EXTINF:-1,NOOR DUBAI
-http://m-iptv.net:6204/mme/123/10025
-#EXTINF:-1,SAMA DUBAI
-http://m-iptv.net:6204/mme/123/10024
-#EXTINF:-1,Rotana Clip HD
-http://m-iptv.net:6204/mme/123/2743
-#EXTINF:-1,Rotana Masriah HD
-http://m-iptv.net:6204/mme/123/182
-#EXTINF:-1,Rotana Khalijiah HD
-http://m-iptv.net:6204/mme/123/181
-#EXTINF:-1,Rotana Classic HD
-http://m-iptv.net:6204/mme/123/183
-#EXTINF:-1,Rotana Aflam HD
-http://m-iptv.net:6204/mme/123/985
-#EXTINF:-1,Rotana Cinema KSA HD
-http://m-iptv.net:6204/mme/123/180
-#EXTINF:-1,LBC HD
-http://m-iptv.net:6204/mme/123/2264
-#EXTINF:-1,LDC
-http://m-iptv.net:6204/mme/123/6907
-#EXTINF:-1,MTV Lebanon HD
-http://m-iptv.net:6204/mme/123/2677
-#EXTINF:-1,OTV Lebnan
-http://m-iptv.net:6204/mme/123/1177
-#EXTINF:-1,Tel Lebanon
-http://m-iptv.net:6204/mme/123/2737
-#EXTINF:-1,Manar TV
-http://m-iptv.net:6204/mme/123/5870
-#EXTINF:-1,Al Jadeed
-http://m-iptv.net:6204/mme/123/2242
-#EXTINF:-1,Aghapy TV
-http://m-iptv.net:6204/mme/123/10171
-#EXTINF:-1,Charity TV
-http://m-iptv.net:6204/mme/123/10690
-#EXTINF:-1,Suroyo TV
-http://m-iptv.net:6204/mme/123/7663
-#EXTINF:-1,Suryoyo Sat
-http://m-iptv.net:6204/mme/123/10608
-#EXTINF:-1,Nour Al Sharq
-http://m-iptv.net:6204/mme/123/8256
-#EXTINF:-1,Nour Koddass
-http://m-iptv.net:6204/mme/123/8255
-#EXTINF:-1,Alkarma
-http://m-iptv.net:6204/mme/123/8260
-#EXTINF:-1,Al Karama TV
-http://m-iptv.net:6204/mme/123/8262
-#EXTINF:-1,Mariam TV
-http://m-iptv.net:6204/mme/123/8258
-#EXTINF:-1,Bahreen tv HD
-http://m-iptv.net:6204/mme/123/2671
-#EXTINF:-1,Kuwait Plus HD
-http://m-iptv.net:6204/mme/123/2734
-#EXTINF:-1,Kuwait TV HD
-http://m-iptv.net:6204/mme/123/2730
-#EXTINF:-1,KTV Ethraa HD
-http://m-iptv.net:6204/mme/123/2731
-#EXTINF:-1,Kuwait Alarabi HD
-http://m-iptv.net:6204/mme/123/2729
-#EXTINF:-1,Quran TV
-http://m-iptv.net:6204/mme/123/11113
-#EXTINF:-1,Al-Quran TV
-http://m-iptv.net:6204/mme/123/11170
-#EXTINF:-1,Iqraa TV
-http://m-iptv.net:6204/mme/123/11001
-#EXTINF:-1,Huda TV
-http://m-iptv.net:6204/mme/123/3235
-#EXTINF:-1,Mecca
-http://m-iptv.net:6204/mme/123/2269
-#EXTINF:-1,Majd One
-http://m-iptv.net:6204/mme/123/3053
-#EXTINF:-1,Majd Two
-http://m-iptv.net:6204/mme/123/3052
-#EXTINF:-1,Majd Three
-http://m-iptv.net:6204/mme/123/3051
-#EXTINF:-1,Majd Four
-http://m-iptv.net:6204/mme/123/3050
-#EXTINF:-1,Imaging Movies
-http://m-iptv.net:6204/mme/123/3049
-#EXTINF:-1,Saudia 1 HD
-http://m-iptv.net:6204/mme/123/3043
-#EXTINF:-1,Saudia Quran HD
-http://m-iptv.net:6204/mme/123/3041
-#EXTINF:-1,Saudia Sunna HD
-http://m-iptv.net:6204/mme/123/3042
-#EXTINF:-1,SBC TV HD
-http://m-iptv.net:6204/mme/123/13718
-#EXTINF:-1,<<<<<< Iraq Channels >>>>>>
-http://m-iptv.net:6204/mme/123/9753
-#EXTINF:-1,Alsharqiya HD
-http://m-iptv.net:6204/mme/123/2292
-#EXTINF:-1,Al Sumaria
-http://m-iptv.net:6204/mme/123/5273
-#EXTINF:-1,Iraqya TV
-http://m-iptv.net:6204/mme/123/8959
-#EXTINF:-1,OWS TV HD
-http://m-iptv.net:6204/mme/123/13494
-#EXTINF:-1,Iraq Now
-http://m-iptv.net:6204/mme/123/4756
-#EXTINF:-1,Sama Almousel
-http://m-iptv.net:6204/mme/123/8417
-#EXTINF:-1,Al Falujah HD
-http://m-iptv.net:6204/mme/123/4758
-#EXTINF:-1,Al Rasheed TV
-http://m-iptv.net:6204/mme/123/168
-#EXTINF:-1,Hona Baghdad
-http://m-iptv.net:6204/mme/123/7054
-#EXTINF:-1,Baghdadiya Now
-http://m-iptv.net:6204/mme/123/7192
-#EXTINF:-1,Al Rafiden
-http://m-iptv.net:6204/mme/123/6532
-#EXTINF:-1,Dijlah TV
-http://m-iptv.net:6204/mme/123/3508
-#EXTINF:-1,Al Diyar
-http://m-iptv.net:6204/mme/123/1938
-#EXTINF:-1,Al Iman TV
-http://m-iptv.net:6204/mme/123/7659
-#EXTINF:-1,Imam Reda
-http://m-iptv.net:6204/mme/123/7657
-#EXTINF:-1,Ishtar TV
-http://m-iptv.net:6204/mme/123/2293
-#EXTINF:-1,AL MUSTAKILA
-http://m-iptv.net:6204/mme/123/1987
-#EXTINF:-1,Afaq TV
-http://m-iptv.net:6204/mme/123/10978
-#EXTINF:-1,Sammara
-http://m-iptv.net:6204/mme/123/10976
-#EXTINF:-1,Al Wifaq
-http://m-iptv.net:6204/mme/123/13452
-#EXTINF:-1,Asia TV
-http://m-iptv.net:6204/mme/123/10977
-#EXTINF:-1,Al Ghader
-http://m-iptv.net:6204/mme/123/10975
-#EXTINF:-1,Turkmania TV
-http://m-iptv.net:6204/mme/123/2738
-#EXTINF:-1,Al Khadir
-http://m-iptv.net:6204/mme/123/1957
-#EXTINF:-1,Al Aqila TV
-http://m-iptv.net:6204/mme/123/11172
-#EXTINF:-1,Al Ebaa TV
-http://m-iptv.net:6204/mme/123/11171
-#EXTINF:-1,Al-Shaaer TV
-http://m-iptv.net:6204/mme/123/11169
-#EXTINF:-1,ALFARQADAYN
-http://m-iptv.net:6204/mme/123/11168
-#EXTINF:-1,Al Rahma
-http://m-iptv.net:6204/mme/123/2247
-#EXTINF:-1,Manhaj
-http://m-iptv.net:6204/mme/123/11166
-#EXTINF:-1,Anwar TV2
-http://m-iptv.net:6204/mme/123/10691
-#EXTINF:-1,Iraq Future TV
-http://m-iptv.net:6204/mme/123/10688
-#EXTINF:-1,Syria TV
-http://m-iptv.net:6204/mme/123/7186
-#EXTINF:-1,Syria FM
-http://m-iptv.net:6204/mme/123/7187
-#EXTINF:-1,Sama Syria TV
-http://m-iptv.net:6204/mme/123/7189
-#EXTINF:-1,Syria Drama
-http://m-iptv.net:6204/mme/123/7188
-#EXTINF:-1,M Chabi
-http://m-iptv.net:6204/mme/123/14378
-#EXTINF:-1,M Music
-http://m-iptv.net:6204/mme/123/14377
-#EXTINF:-1,Manga  HD
-http://m-iptv.net:6204/mme/123/14376
-#EXTINF:-1,S7T Aflam
-http://m-iptv.net:6204/mme/123/14388
-#EXTINF:-1,S7T Animi
-http://m-iptv.net:6204/mme/123/14387
-#EXTINF:-1,S7T Bollywood
-http://m-iptv.net:6204/mme/123/14386
-#EXTINF:-1,S7T Cartoon
-http://m-iptv.net:6204/mme/123/14385
-#EXTINF:-1,S7T Classic
-http://m-iptv.net:6204/mme/123/14384
-#EXTINF:-1,S7T Movies
-http://m-iptv.net:6204/mme/123/14383
-#EXTINF:-1,S7T Music
-http://m-iptv.net:6204/mme/123/14382
-#EXTINF:-1,S7T Series
-http://m-iptv.net:6204/mme/123/14381
-#EXTINF:-1,S7T Sport
-http://m-iptv.net:6204/mme/123/14380
-#EXTINF:-1,Hala Bollywood HD
-http://m-iptv.net:6204/mme/123/14374
-#EXTINF:-1,Hala Drama HD
-http://m-iptv.net:6204/mme/123/14373
-#EXTINF:-1,Hala Mix HD
-http://m-iptv.net:6204/mme/123/14372
-#EXTINF:-1,Hala Movies HD
-http://m-iptv.net:6204/mme/123/14371
-#EXTINF:-1,Hala Series HD
-http://m-iptv.net:6204/mme/123/14370
-#EXTINF:-1,Hala Turk HD
-http://m-iptv.net:6204/mme/123/14369
-#EXTINF:-1,Lana Syria TV HD
-http://m-iptv.net:6204/mme/123/10980
-#EXTINF:-1,Nour El sham
-http://m-iptv.net:6204/mme/123/7191
-#EXTINF:-1,National Program
-http://m-iptv.net:6204/mme/123/8268
-#EXTINF:-1,Algeria 3 HD
-http://m-iptv.net:6204/mme/123/6440
-#EXTINF:-1,Echourouk TV
-http://m-iptv.net:6204/mme/123/5746
-#EXTINF:-1,Echrouk Pluss
-http://m-iptv.net:6204/mme/123/5747
-#EXTINF:-1,Ennahar TV
-http://m-iptv.net:6204/mme/123/5749
-#EXTINF:-1,El Bilad TV
-http://m-iptv.net:6204/mme/123/6541
-#EXTINF:-1,El Heddaf TV
-http://m-iptv.net:6204/mme/123/6540
-#EXTINF:-1,Dzair TV
-http://m-iptv.net:6204/mme/123/5743
-#EXTINF:-1,El Djazairia One
-http://m-iptv.net:6204/mme/123/6886
-#EXTINF:-1,Samira TV
-http://m-iptv.net:6204/mme/123/6524
-#EXTINF:-1,Beur TV
-http://m-iptv.net:6204/mme/123/6542
-#EXTINF:-1,Bahia TV
-http://m-iptv.net:6204/mme/123/6550
-#EXTINF:-1,Chams TV
-http://m-iptv.net:6204/mme/123/10623
-#EXTINF:-1,El Adjwaa
-http://m-iptv.net:6204/mme/123/8224
-#EXTINF:-1,2M Maroco
-http://m-iptv.net:6204/mme/123/5800
-#EXTINF:-1,Al Maghribia
-http://m-iptv.net:6204/mme/123/2747
-#EXTINF:-1,Magharibia
-http://m-iptv.net:6204/mme/123/10023
-#EXTINF:-1,Magharibia 2
-http://m-iptv.net:6204/mme/123/10022
-#EXTINF:-1,Al Ons TV
-http://m-iptv.net:6204/mme/123/14110
-#EXTINF:-1,Tchad
-http://m-iptv.net:6204/mme/123/14109
-#EXTINF:-1,Tele Maroc
-http://m-iptv.net:6204/mme/123/14108
-#EXTINF:-1,Al Anis TV
-http://m-iptv.net:6204/mme/123/14111
-#EXTINF:-1,Arriadia Maroc
-http://m-iptv.net:6204/mme/123/2746
-#EXTINF:-1,Assadissa
-http://m-iptv.net:6204/mme/123/2751
-#EXTINF:-1,Tamazigh Maroc
-http://m-iptv.net:6204/mme/123/2750
-#EXTINF:-1,Arabiaa 4
-http://m-iptv.net:6204/mme/123/2749
-#EXTINF:-1,Tv5 Monde
-http://m-iptv.net:6204/mme/123/2752
-#EXTINF:-1,Hannibal
-http://m-iptv.net:6204/mme/123/5752
-#EXTINF:-1,Tunisia Nat 1
-http://m-iptv.net:6204/mme/123/1942
-#EXTINF:-1,Tunisia Nat 2
-http://m-iptv.net:6204/mme/123/6916
-#EXTINF:-1,Zaytoona
-http://m-iptv.net:6204/mme/123/1977
-#EXTINF:-1,Roy'a HD
-http://m-iptv.net:6204/mme/123/11112
-#EXTINF:-1,Jordan TV
-http://m-iptv.net:6204/mme/123/2263
-#EXTINF:-1,Hala Jordan
-http://m-iptv.net:6204/mme/123/8266
-#EXTINF:-1,Libya TV
-http://m-iptv.net:6204/mme/123/6903
-#EXTINF:-1,LIBYA 218
-http://m-iptv.net:6204/mme/123/8227
-#EXTINF:-1,Libya Channel
-http://m-iptv.net:6204/mme/123/6558
-#EXTINF:-1,YEMEN TV
-http://m-iptv.net:6204/mme/123/2573
-#EXTINF:-1,YEMEN TODAY TV
-http://m-iptv.net:6204/mme/123/2572
-#EXTINF:-1,Aden TV
-http://m-iptv.net:6204/mme/123/10610
-#EXTINF:-1,ON E HD
-http://m-iptv.net:6204/mme/123/6932
-#EXTINF:-1,DMC HD
-http://m-iptv.net:6204/mme/123/10173
-#EXTINF:-1,DMC drama
-http://m-iptv.net:6204/mme/123/10174
-#EXTINF:-1,CBC
-http://m-iptv.net:6204/mme/123/173
-#EXTINF:-1,CBC Drama
-http://m-iptv.net:6204/mme/123/2903
-#EXTINF:-1,CBC Sofra
-http://m-iptv.net:6204/mme/123/2904
-#EXTINF:-1,CBC eXtra
-http://m-iptv.net:6204/mme/123/2902
-#EXTINF:-1,Nile Life
-http://m-iptv.net:6204/mme/123/4135
-#EXTINF:-1,Nile Family
-http://m-iptv.net:6204/mme/123/4136
-#EXTINF:-1,Nile Drama
-http://m-iptv.net:6204/mme/123/4137
-#EXTINF:-1,Nile Comedy
-http://m-iptv.net:6204/mme/123/4139
-#EXTINF:-1,Nile Cinema
-http://m-iptv.net:6204/mme/123/4140
-#EXTINF:-1,Panorama Drama
-http://m-iptv.net:6204/mme/123/2275
-#EXTINF:-1,Panorama Drama 2
-http://m-iptv.net:6204/mme/123/2276
-#EXTINF:-1,Panorama Film
-http://m-iptv.net:6204/mme/123/10029
-#EXTINF:-1,Panorama Food
-http://m-iptv.net:6204/mme/123/4750
-#EXTINF:-1,Al Kahera Wal Nas 1
-http://m-iptv.net:6204/mme/123/10480
-#EXTINF:-1,Al Kahera Wal Nas 2
-http://m-iptv.net:6204/mme/123/7198
-#EXTINF:-1,Star Cinema 1
-http://m-iptv.net:6204/mme/123/1945
-#EXTINF:-1,Cinema 1
-http://m-iptv.net:6204/mme/123/2255
-#EXTINF:-1,Cinema 2
-http://m-iptv.net:6204/mme/123/8096
-#EXTINF:-1,Cinema Pro
-http://m-iptv.net:6204/mme/123/1175
-#EXTINF:-1,Sada El Balad
-http://m-iptv.net:6204/mme/123/7200
-#EXTINF:-1,Sada ElBalad Drama
-http://m-iptv.net:6204/mme/123/7199
-#EXTINF:-1,Misr ELBald
-http://m-iptv.net:6204/mme/123/10687
-#EXTINF:-1,B4U Plus
-http://m-iptv.net:6204/mme/123/10630
-#EXTINF:-1,ZEE Alwan
-http://m-iptv.net:6204/mme/123/2287
-#EXTINF:-1,Zee Aflam
-http://m-iptv.net:6204/mme/123/2286
-#EXTINF:-1,Cima TV
-http://m-iptv.net:6204/mme/123/2254
-#EXTINF:-1,Dzair 24
-http://m-iptv.net:6204/mme/123/8226
-#EXTINF:-1,Noursat
-http://m-iptv.net:6204/mme/123/2273
-#EXTINF:-1,Melody Classic
-http://m-iptv.net:6204/mme/123/2270
-#EXTINF:-1,Imam Ali
-http://m-iptv.net:6204/mme/123/13456
-#EXTINF:-1,Med 1
-http://m-iptv.net:6204/mme/123/13997
-#EXTINF:-1,Qatar HD
-http://m-iptv.net:6204/mme/123/14047
-#EXTINF:-1,5 stars TV
-http://m-iptv.net:6204/mme/123/14172
+#EXTINF:-1,2m Monde
+http://landiptv.live:8080/live/marco/polo/89246.m3u8
 #EXTINF:-1,7BESHA
-http://m-iptv.net:6204/mme/123/14171
-#EXTINF:-1,AFRAH TV
-http://m-iptv.net:6204/mme/123/14170
-#EXTINF:-1,AHWAZNA TV
-http://m-iptv.net:6204/mme/123/14169
-#EXTINF:-1,AL AYAM TV
-http://m-iptv.net:6204/mme/123/14167
-#EXTINF:-1,AL ESHRAQ TV
-http://m-iptv.net:6204/mme/123/14166
-#EXTINF:-1,Al Fady
-http://m-iptv.net:6204/mme/123/13453
-#EXTINF:-1,AL HAQEQA AL DAWLIAH
-http://m-iptv.net:6204/mme/123/14165
-#EXTINF:-1,Al Hiwar TV
-http://m-iptv.net:6204/mme/123/9010
-#EXTINF:-1,AL KAWTHAR
-http://m-iptv.net:6204/mme/123/14164
-#EXTINF:-1,AL KING 1
-http://m-iptv.net:6204/mme/123/14161
-#EXTINF:-1,AL KING 2
-http://m-iptv.net:6204/mme/123/14160
-#EXTINF:-1,AL MALAKOOT SAT
-http://m-iptv.net:6204/mme/123/14159
-#EXTINF:-1,Al Mawqef
-http://m-iptv.net:6204/mme/123/1171
-#EXTINF:-1,AL OSTORA
-http://m-iptv.net:6204/mme/123/14158
-#EXTINF:-1,AL QAMAR
-http://m-iptv.net:6204/mme/123/14157
-#EXTINF:-1,AL RASED
-http://m-iptv.net:6204/mme/123/14156
-#EXTINF:-1,Hayat TV
-http://m-iptv.net:6204/mme/123/14414
-#EXTINF:-1,Hayat 2 TV
-http://m-iptv.net:6204/mme/123/14415
-#EXTINF:-1,AL SA3A MASRA7
-http://m-iptv.net:6204/mme/123/14155
-#EXTINF:-1,AL SA3AA CINEMA
-http://m-iptv.net:6204/mme/123/14154
-#EXTINF:-1,AL SA3AA CLASSIC
-http://m-iptv.net:6204/mme/123/14153
-#EXTINF:-1,AL SA3AA COMEDY
-http://m-iptv.net:6204/mme/123/14152
-#EXTINF:-1,AL SA3AA DRAMA
-http://m-iptv.net:6204/mme/123/14151
-#EXTINF:-1,AL SA3AA MOSALSALATE
-http://m-iptv.net:6204/mme/123/14150
-#EXTINF:-1,AL SAHSHA DRAMA
-http://m-iptv.net:6204/mme/123/14149
-#EXTINF:-1,AL SHASHA CLASSIC
-http://m-iptv.net:6204/mme/123/14148
-#EXTINF:-1,AL SHASHA MUSLSLAT
-http://m-iptv.net:6204/mme/123/14147
-#EXTINF:-1,APPLE AFLAM
-http://m-iptv.net:6204/mme/123/14206
-#EXTINF:-1,APPLE CINEMA
-http://m-iptv.net:6204/mme/123/14205
-#EXTINF:-1,APPLE COMEDY
-http://m-iptv.net:6204/mme/123/14204
-#EXTINF:-1,APPLE DRAMA
-http://m-iptv.net:6204/mme/123/14203
-#EXTINF:-1,APPLE HEKAYAT
-http://m-iptv.net:6204/mme/123/14202
-#EXTINF:-1,APPLE MOSLSALAT
-http://m-iptv.net:6204/mme/123/14201
-#EXTINF:-1,APPLE TODAY
-http://m-iptv.net:6204/mme/123/14200
-#EXTINF:-1,MOGA CINEMA
-http://m-iptv.net:6204/mme/123/14282
-#EXTINF:-1,MOGA AFLAM
-http://m-iptv.net:6204/mme/123/14413
-#EXTINF:-1,MOGA AL YOOM
-http://m-iptv.net:6204/mme/123/14412
-#EXTINF:-1,PYRAMID AFLAM
-http://m-iptv.net:6204/mme/123/14277
-#EXTINF:-1,PYRAMID CINEMA
-http://m-iptv.net:6204/mme/123/14276
-#EXTINF:-1,PYRAMID CLASSIC
-http://m-iptv.net:6204/mme/123/14275
-#EXTINF:-1,PYRAMID DRAMA
-http://m-iptv.net:6204/mme/123/14274
-#EXTINF:-1,PYRAMID MUSALSALAT
-http://m-iptv.net:6204/mme/123/14273
-#EXTINF:-1,NJOOM HOLLYWOOD
-http://m-iptv.net:6204/mme/123/14280
-#EXTINF:-1,MOSALSALAT TUBE
-http://m-iptv.net:6204/mme/123/14281
-#EXTINF:-1,PANORAMA YOM TV
-http://m-iptv.net:6204/mme/123/14279
-#EXTINF:-1,Al Shrooq News
-http://m-iptv.net:6204/mme/123/14146
-#EXTINF:-1,AL SIRAT
-http://m-iptv.net:6204/mme/123/14145
-#EXTINF:-1,AL TALEAA TV
-http://m-iptv.net:6204/mme/123/14144
-#EXTINF:-1,AL YOM 1
-http://m-iptv.net:6204/mme/123/14143
-#EXTINF:-1,AL-Anbar
-http://m-iptv.net:6204/mme/123/14142
-#EXTINF:-1,AL-SALAM TV
-http://m-iptv.net:6204/mme/123/14141
-#EXTINF:-1,AL-WAHA
-http://m-iptv.net:6204/mme/123/14140
-#EXTINF:-1,ALBAEENAH IRAQ
-http://m-iptv.net:6204/mme/123/14139
-#EXTINF:-1,ALDAWAA ALSHAFY
-http://m-iptv.net:6204/mme/123/14138
-#EXTINF:-1,ALFATH SONA
-http://m-iptv.net:6204/mme/123/14137
-#EXTINF:-1,ALHAQIQA
-http://m-iptv.net:6204/mme/123/14136
-#EXTINF:-1,ALL TV
-http://m-iptv.net:6204/mme/123/14134
-#EXTINF:-1,ALMASA
-http://m-iptv.net:6204/mme/123/14133
-#EXTINF:-1,ALMASIRAH TV
-http://m-iptv.net:6204/mme/123/14132
-#EXTINF:-1,ALNABAA HD
-http://m-iptv.net:6204/mme/123/14131
-#EXTINF:-1,ALNAEEM TV HD
-http://m-iptv.net:6204/mme/123/14130
-#EXTINF:-1,ALSAHA
-http://m-iptv.net:6204/mme/123/14129
-#EXTINF:-1,ALSALAM
-http://m-iptv.net:6204/mme/123/14128
-#EXTINF:-1,ALSeha Waljamal
-http://m-iptv.net:6204/mme/123/14127
-#EXTINF:-1,ALYOUM2
-http://m-iptv.net:6204/mme/123/14126
-#EXTINF:-1,ALYOUM3
-http://m-iptv.net:6204/mme/123/14125
-#EXTINF:-1,WANASAH
-http://m-iptv.net:6204/mme/123/10030
-#EXTINF:-1,ALHAWYAH TV
-http://m-iptv.net:6204/mme/123/14184
-#EXTINF:-1,Divine TV
-http://m-iptv.net:6204/mme/123/14183
-#EXTINF:-1,GMM TV
-http://m-iptv.net:6204/mme/123/14182
-#EXTINF:-1,Logos TV
-http://m-iptv.net:6204/mme/123/14181
-#EXTINF:-1,MBBC LAMSAT
-http://m-iptv.net:6204/mme/123/14180
-#EXTINF:-1,Misr ELBald 2
-http://m-iptv.net:6204/mme/123/14179
-#EXTINF:-1,Africa TV
-http://m-iptv.net:6204/mme/123/14188
-#EXTINF:-1,Al Wilayah
-http://m-iptv.net:6204/mme/123/14187
-#EXTINF:-1,Imam Hussein 2
-http://m-iptv.net:6204/mme/123/14186
-#EXTINF:-1,Junobna TV
-http://m-iptv.net:6204/mme/123/14185
-#EXTINF:-1,Baghdad HD
-http://m-iptv.net:6204/mme/123/7022
-#EXTINF:-1,BAIT BAITAK CINEMA
-http://m-iptv.net:6204/mme/123/14124
-#EXTINF:-1,DMC News
-http://m-iptv.net:6204/mme/123/10170
-#EXTINF:-1,Future TV
-http://m-iptv.net:6204/mme/123/2673
-#EXTINF:-1,MASRAWIA AFLAM
-http://m-iptv.net:6204/mme/123/14122
-#EXTINF:-1,Nile News
-http://m-iptv.net:6204/mme/123/4134
-#EXTINF:-1,Nile tv
-http://m-iptv.net:6204/mme/123/1960
-#EXTINF:-1,Omman Live HD
-http://m-iptv.net:6204/mme/123/2674
-#EXTINF:-1,Omman TV HD
-http://m-iptv.net:6204/mme/123/2675
-#EXTINF:-1,Saudia Al Thaqafa HD TV
-http://m-iptv.net:6204/mme/123/10589
-#EXTINF:-1,SHASHA FOOD
-http://m-iptv.net:6204/mme/123/14121
-#EXTINF:-1,Star Cinema 2
-http://m-iptv.net:6204/mme/123/1944
+http://landiptv.live:8080/live/marco/polo/75391.m3u8
+#EXTINF:-1,A3 Algerie
+http://landiptv.live:8080/live/marco/polo/148581.m3u8
+#EXTINF:-1,Aarabia
+http://landiptv.live:8080/live/marco/polo/135549.m3u8
+#EXTINF:-1,AB1
+http://landiptv.live:8080/live/marco/polo/145487.m3u8
+#EXTINF:-1,ABN Sat
+http://landiptv.live:8080/live/marco/polo/75390.m3u8
+#EXTINF:-1,Abu Dhabi Drama HD
+http://landiptv.live:8080/live/marco/polo/147484.m3u8
+#EXTINF:-1,Abu Dhabi HD
+http://landiptv.live:8080/live/marco/polo/63266.m3u8
+#EXTINF:-1,ABU DHABI NAT GEO HD
+http://landiptv.live:8080/live/marco/polo/193006.m3u8
+#EXTINF:-1,Abu Dhabi Sport 1
+http://landiptv.live:8080/live/marco/polo/147292.m3u8
+#EXTINF:-1,Abu Dhabi Sport 2 HD
+http://landiptv.live:8080/live/marco/polo/147482.m3u8
+#EXTINF:-1,Action
+http://landiptv.live:8080/live/marco/polo/145490.m3u8
+#EXTINF:-1,AD Al Emarat HD
+http://landiptv.live:8080/live/marco/polo/148586.m3u8
+#EXTINF:-1,AD Drama HD
+http://landiptv.live:8080/live/marco/polo/75387.m3u8
+#EXTINF:-1,AD Sport 5
+http://landiptv.live:8080/live/marco/polo/135985.m3u8
+#EXTINF:-1,AD Sports 1 HD
+http://landiptv.live:8080/live/marco/polo/134770.m3u8
+#EXTINF:-1,AD Sports 2 HD
+http://landiptv.live:8080/live/marco/polo/134771.m3u8
+#EXTINF:-1,AD Sports 3 HD
+http://landiptv.live:8080/live/marco/polo/113215.m3u8
+#EXTINF:-1,AD Sports 4 HD
+http://landiptv.live:8080/live/marco/polo/111591.m3u8
+#EXTINF:-1,Aden TV
+http://landiptv.live:8080/live/marco/polo/75384.m3u8
 #EXTINF:-1,Adiss TV
-http://m-iptv.net:6204/mme/123/14223
+http://landiptv.live:8080/live/marco/polo/135289.m3u8
+#EXTINF:-1,Afaq TV
+http://landiptv.live:8080/live/marco/polo/196432.m3u8
+#EXTINF:-1,AFLAM 2
+http://landiptv.live:8080/live/marco/polo/117502.m3u8
+#EXTINF:-1,Afrah TV
+http://landiptv.live:8080/live/marco/polo/147392.m3u8
+#EXTINF:-1,Aghanina Music
+http://landiptv.live:8080/live/marco/polo/75382.m3u8
+#EXTINF:-1,Aghapy TV HD
+http://landiptv.live:8080/live/marco/polo/196490.m3u8
 #EXTINF:-1,Ahel Al Quran
-http://m-iptv.net:6204/mme/123/14222
-#EXTINF:-1,Al Forat News
-http://m-iptv.net:6204/mme/123/14221
-#EXTINF:-1,Al Horreya
-http://m-iptv.net:6204/mme/123/14220
-#EXTINF:-1,Al Kahera Wal Nas  2
-http://m-iptv.net:6204/mme/123/14219
-#EXTINF:-1,Al Masar
-http://m-iptv.net:6204/mme/123/14218
-#EXTINF:-1,Al-Awhad TV
-http://m-iptv.net:6204/mme/123/14217
-#EXTINF:-1,Al-Teb AlNabawi
-http://m-iptv.net:6204/mme/123/14216
-#EXTINF:-1,AlAfasy
-http://m-iptv.net:6204/mme/123/14215
-#EXTINF:-1,Alhayat Muslsalat
-http://m-iptv.net:6204/mme/123/14214
-#EXTINF:-1,AlKarma Praise
-http://m-iptv.net:6204/mme/123/14213
-#EXTINF:-1,AlRafideen
-http://m-iptv.net:6204/mme/123/14212
-#EXTINF:-1,Alruqia TV
-http://m-iptv.net:6204/mme/123/14211
-#EXTINF:-1,Altaghier
-http://m-iptv.net:6204/mme/123/14210
-#EXTINF:-1,Alwadi TV
-http://m-iptv.net:6204/mme/123/14209
-#EXTINF:-1,Angel TV
-http://m-iptv.net:6204/mme/123/14208
-#EXTINF:-1,AL ALAM SYRIA TV
-http://m-iptv.net:6204/mme/123/14207
-#EXTINF:-1,Arabica TV
-http://m-iptv.net:6204/mme/123/14199
-#EXTINF:-1,Atfal & mawaheb
-http://m-iptv.net:6204/mme/123/14197
-#EXTINF:-1,Azhari
-http://m-iptv.net:6204/mme/123/14196
-#EXTINF:-1,Beladi
-http://m-iptv.net:6204/mme/123/14194
-#EXTINF:-1,Berbere TV
-http://m-iptv.net:6204/mme/123/14193
-#EXTINF:-1,C1 ACTION
-http://m-iptv.net:6204/mme/123/14192
-#EXTINF:-1,Cairo cinema
-http://m-iptv.net:6204/mme/123/14191
-#EXTINF:-1,Cairo Drama
-http://m-iptv.net:6204/mme/123/14190
-#EXTINF:-1,CIMA ALIBABA
-http://m-iptv.net:6204/mme/123/14189
-#EXTINF:-1,D Cinema
-http://m-iptv.net:6204/mme/123/14250
-#EXTINF:-1,Dawaah TV
-http://m-iptv.net:6204/mme/123/14249
-#EXTINF:-1,Dewan
-http://m-iptv.net:6204/mme/123/14248
-#EXTINF:-1,Dolly Musalsalat
-http://m-iptv.net:6204/mme/123/14247
-#EXTINF:-1,DR. ABO ELNASR
-http://m-iptv.net:6204/mme/123/14246
-#EXTINF:-1,Dzair 16
-http://m-iptv.net:6204/mme/123/14245
-#EXTINF:-1,Dzair 2
-http://m-iptv.net:6204/mme/123/14244
-#EXTINF:-1,Dzair 25
-http://m-iptv.net:6204/mme/123/14243
-#EXTINF:-1,Dzair Jannah
-http://m-iptv.net:6204/mme/123/14242
-#EXTINF:-1,El Sharq
-http://m-iptv.net:6204/mme/123/14241
-#EXTINF:-1,ELMoled
-http://m-iptv.net:6204/mme/123/14240
-#EXTINF:-1,EOTC
-http://m-iptv.net:6204/mme/123/14239
-#EXTINF:-1,Etihad TV
-http://m-iptv.net:6204/mme/123/14238
-#EXTINF:-1,Family cinema
-http://m-iptv.net:6204/mme/123/14237
-#EXTINF:-1,FAMILY HIKAYAT
-http://m-iptv.net:6204/mme/123/14236
-#EXTINF:-1,Hala TV
-http://m-iptv.net:6204/mme/123/14235
-#EXTINF:-1,Hareem Alsultan
-http://m-iptv.net:6204/mme/123/14234
-#EXTINF:-1,Hekaya TV
-http://m-iptv.net:6204/mme/123/14232
-#EXTINF:-1,HodHod  TV
-http://m-iptv.net:6204/mme/123/14231
-#EXTINF:-1,Hollywood Horror
-http://m-iptv.net:6204/mme/123/14230
-#EXTINF:-1,Iraqi EDU
-http://m-iptv.net:6204/mme/123/14227
-#EXTINF:-1,Jordan Alyoum
-http://m-iptv.net:6204/mme/123/14226
-#EXTINF:-1,Joshua TV
-http://m-iptv.net:6204/mme/123/14225
-#EXTINF:-1,KarbalaTV
-http://m-iptv.net:6204/mme/123/14224
-#EXTINF:-1,inta omri tv
-http://m-iptv.net:6204/mme/123/14292
-#EXTINF:-1,Khaleej Alarab 2
-http://m-iptv.net:6204/mme/123/14291
-#EXTINF:-1,lana pluse
-http://m-iptv.net:6204/mme/123/14290
-#EXTINF:-1,Libya 218 News
-http://m-iptv.net:6204/mme/123/14289
-#EXTINF:-1,LIBYAS CHANNEL
-http://m-iptv.net:6204/mme/123/14288
-#EXTINF:-1,Majan
-http://m-iptv.net:6204/mme/123/14287
-#EXTINF:-1,MARJAEYAT 2
-http://m-iptv.net:6204/mme/123/14286
-#EXTINF:-1,MASDAR TV
-http://m-iptv.net:6204/mme/123/14285
-#EXTINF:-1,MEDIA SLIDE
-http://m-iptv.net:6204/mme/123/14284
-#EXTINF:-1,MESat HD
-http://m-iptv.net:6204/mme/123/14283
-#EXTINF:-1,Praise Live
-http://m-iptv.net:6204/mme/123/14278
-#EXTINF:-1,Qamar Al Khaleej
-http://m-iptv.net:6204/mme/123/14272
-#EXTINF:-1,RDK
-http://m-iptv.net:6204/mme/123/14271
-#EXTINF:-1,SALAH
-http://m-iptv.net:6204/mme/123/14270
-#EXTINF:-1,SAT-7 ARABIC
-http://m-iptv.net:6204/mme/123/14269
-#EXTINF:-1,SAT-7 KIDS
-http://m-iptv.net:6204/mme/123/14268
-#EXTINF:-1,Sawt Al Jomhuria
-http://m-iptv.net:6204/mme/123/14267
-#EXTINF:-1,SAWT ALITRA TV
-http://m-iptv.net:6204/mme/123/14266
-#EXTINF:-1,SBH
-http://m-iptv.net:6204/mme/123/14265
-#EXTINF:-1,SCARE TV
-http://m-iptv.net:6204/mme/123/14264
-#EXTINF:-1,Sehaty
-http://m-iptv.net:6204/mme/123/14263
-#EXTINF:-1,SHARO5AN HINDI
-http://m-iptv.net:6204/mme/123/14262
-#EXTINF:-1,Sheba TV
-http://m-iptv.net:6204/mme/123/14261
-#EXTINF:-1,SOUT MASR
-http://m-iptv.net:6204/mme/123/14260
-#EXTINF:-1,SOWT ALARAB TV
-http://m-iptv.net:6204/mme/123/14259
-#EXTINF:-1,SYRIAN EDUCATION
-http://m-iptv.net:6204/mme/123/14258
-#EXTINF:-1,TATT7
-http://m-iptv.net:6204/mme/123/14257
-#EXTINF:-1,TeN TV
-http://m-iptv.net:6204/mme/123/14256
-#EXTINF:-1,TOKTOK AFLAM
-http://m-iptv.net:6204/mme/123/14255
-#EXTINF:-1,TOKTOK CIMA
-http://m-iptv.net:6204/mme/123/14254
-#EXTINF:-1,Yemen Sama
-http://m-iptv.net:6204/mme/123/14252
-#EXTINF:-1,Mukameelen TV
-http://m-iptv.net:6204/mme/123/14293
-#EXTINF:-1,Imagine Movies
-http://m-iptv.net:6204/mme/123/14228
-#EXTINF:-1,LCD MOVIES
-http://m-iptv.net:6204/mme/123/14368
-#EXTINF:-1,Animal HD
-http://m-iptv.net:6204/mme/123/14379
-#EXTINF:-1,GM Alwan
-http://m-iptv.net:6204/mme/123/14391
-#EXTINF:-1,GM Comedia
-http://m-iptv.net:6204/mme/123/14390
-#EXTINF:-1,GM Movies
-http://m-iptv.net:6204/mme/123/14389
-#EXTINF:-1,Sahara Tv
-http://m-iptv.net:6204/mme/123/7574
-#EXTINF:-1,Faraine
-http://m-iptv.net:6204/mme/123/9939
-#EXTINF:-1,Chifa
-http://m-iptv.net:6204/mme/123/14393
-#EXTINF:-1,Al Anwar
-http://m-iptv.net:6204/mme/123/14397
-#EXTINF:-1,Al Farat
-http://m-iptv.net:6204/mme/123/14396
-#EXTINF:-1,Al Mawsleya
-http://m-iptv.net:6204/mme/123/14395
-#EXTINF:-1,Khaleej Al Arab
-http://m-iptv.net:6204/mme/123/14398
-#EXTINF:-1,Salahaden Tv
-http://m-iptv.net:6204/mme/123/14399
-#EXTINF:-1,The Savior
-http://m-iptv.net:6204/mme/123/14400
-#EXTINF:-1,Shahed TV
-http://m-iptv.net:6204/mme/123/14443
-#EXTINF:-1,Palestine
-http://m-iptv.net:6204/mme/123/14449
-#EXTINF:-1,Palestine Live
-http://m-iptv.net:6204/mme/123/14456
-#EXTINF:-1,Palestine News
-http://m-iptv.net:6204/mme/123/14448
-#EXTINF:-1,Palestine Sport
-http://m-iptv.net:6204/mme/123/14447
-#EXTINF:-1,Al Falastiniah
-http://m-iptv.net:6204/mme/123/14454
-#EXTINF:-1,An-Najah NBC
-http://m-iptv.net:6204/mme/123/14453
-#EXTINF:-1,Awdeh
-http://m-iptv.net:6204/mme/123/14452
-#EXTINF:-1,Maan TV
-http://m-iptv.net:6204/mme/123/14451
-#EXTINF:-1,Aqsa Tv
-http://m-iptv.net:6204/mme/123/6890
-#EXTINF:-1,MUSAWA
-http://m-iptv.net:6204/mme/123/14450
-#EXTINF:-1,Alarabiya HD
-http://m-iptv.net:6204/mme/123/2288
-#EXTINF:-1,Sky News Arabia HD
-http://m-iptv.net:6204/mme/123/3522
-#EXTINF:-1,Al Jazeera HD
-http://m-iptv.net:6204/mme/123/2243
-#EXTINF:-1,Aljazeera English
-http://m-iptv.net:6204/mme/123/6940
-#EXTINF:-1,Aljazeera Mubasher
-http://m-iptv.net:6204/mme/123/13436
-#EXTINF:-1,Aljazeera Documents HD
-http://m-iptv.net:6204/mme/123/2586
-#EXTINF:-1,Al Hadath HD
-http://m-iptv.net:6204/mme/123/3523
-#EXTINF:-1,Al Ghad Al Araby HD
-http://m-iptv.net:6204/mme/123/6892
-#EXTINF:-1,Al Araby TV
-http://m-iptv.net:6204/mme/123/1989
-#EXTINF:-1,France 24 Arabic HD
-http://m-iptv.net:6204/mme/123/2748
-#EXTINF:-1,TRT Arabic HD
-http://m-iptv.net:6204/mme/123/13507
-#EXTINF:-1,BBC Arabic
-http://m-iptv.net:6204/mme/123/1063
-#EXTINF:-1,BBC World HD
-http://m-iptv.net:6204/mme/123/3239
-#EXTINF:-1,CNN HD
-http://m-iptv.net:6204/mme/123/3237
-#EXTINF:-1,Orient News
-http://m-iptv.net:6204/mme/123/10979
-#EXTINF:-1,RT Arabic HD
-http://m-iptv.net:6204/mme/123/2669
-#EXTINF:-1,Hurra HD
-http://m-iptv.net:6204/mme/123/8366
-#EXTINF:-1,NBN HD
-http://m-iptv.net:6204/mme/123/6893
-#EXTINF:-1,DW HD
-http://m-iptv.net:6204/mme/123/3241
-#EXTINF:-1,Alyaum TV
-http://m-iptv.net:6204/mme/123/10609
-#EXTINF:-1,Press TV HD
-http://m-iptv.net:6204/mme/123/1965
-#EXTINF:-1,Hurra Iraqiya HD
-http://m-iptv.net:6204/mme/123/1991
-#EXTINF:-1,Iraqia News HD
-http://m-iptv.net:6204/mme/123/1967
-#EXTINF:-1,Alsharqiya News HD
-http://m-iptv.net:6204/mme/123/2291
-#EXTINF:-1,Halab Today
-http://m-iptv.net:6204/mme/123/6939
-#EXTINF:-1,Syria News TV
-http://m-iptv.net:6204/mme/123/6887
+http://landiptv.live:8080/live/marco/polo/135216.m3u8
+#EXTINF:-1,Ahlulbayt tv English
+http://landiptv.live:8080/live/marco/polo/196433.m3u8
+#EXTINF:-1,Ajial
+http://landiptv.live:8080/live/marco/polo/135217.m3u8
+#EXTINF:-1,AJMAN TV
+http://landiptv.live:8080/live/marco/polo/135485.m3u8
+#EXTINF:-1,Ajyal
+http://landiptv.live:8080/live/marco/polo/193016.m3u8
+#EXTINF:-1,Al Aalam
+http://landiptv.live:8080/live/marco/polo/196406.m3u8
+#EXTINF:-1,AL AAN
+http://landiptv.live:8080/live/marco/polo/196530.m3u8
+#EXTINF:-1,Al Ahd
+http://landiptv.live:8080/live/marco/polo/148429.m3u8
+#EXTINF:-1,Al Ahd Iraqia
+http://landiptv.live:8080/live/marco/polo/196535.m3u8
+#EXTINF:-1,Al Amaken Drama
+http://landiptv.live:8080/live/marco/polo/75336.m3u8
+#EXTINF:-1,Al Anbar
+http://landiptv.live:8080/live/marco/polo/75335.m3u8
+#EXTINF:-1,Al Anis TV
+http://landiptv.live:8080/live/marco/polo/116739.m3u8
+#EXTINF:-1,Al Anwar 2 TV
+http://landiptv.live:8080/live/marco/polo/146192.m3u8
+#EXTINF:-1,Al Anwar TV
+http://landiptv.live:8080/live/marco/polo/135220.m3u8
+#EXTINF:-1,AL AOULA INTER 1 HD
+http://landiptv.live:8080/live/marco/polo/94419.m3u8
+#EXTINF:-1,Al Aqsa TV
+http://landiptv.live:8080/live/marco/polo/196524.m3u8
+#EXTINF:-1,Al Arabia News
+http://landiptv.live:8080/live/marco/polo/147468.m3u8
+#EXTINF:-1,AL ARABIYA AL HADATH
+http://landiptv.live:8080/live/marco/polo/89883.m3u8
+#EXTINF:-1,Al Araby HD
+http://landiptv.live:8080/live/marco/polo/121096.m3u8
+#EXTINF:-1,Al Asrar TV
+http://landiptv.live:8080/live/marco/polo/148566.m3u8
+#EXTINF:-1,Al Awhad
+http://landiptv.live:8080/live/marco/polo/147317.m3u8
+#EXTINF:-1,AL BAIT BAITAK CINEMA
+http://landiptv.live:8080/live/marco/polo/75372.m3u8
+#EXTINF:-1,Al Basira
+http://landiptv.live:8080/live/marco/polo/75371.m3u8
+#EXTINF:-1,AL BILAD
+http://landiptv.live:8080/live/marco/polo/121057.m3u8
+#EXTINF:-1,Al Diyar
+http://landiptv.live:8080/live/marco/polo/146195.m3u8
+#EXTINF:-1,Al Djazairia
+http://landiptv.live:8080/live/marco/polo/105318.m3u8
+#EXTINF:-1,Al Ekhbaria Saudi
+http://landiptv.live:8080/live/marco/polo/196405.m3u8
+#EXTINF:-1,Al Ekhbariya Al Soriya
+http://landiptv.live:8080/live/marco/polo/121093.m3u8
+#EXTINF:-1,Al Emarat HD
+http://landiptv.live:8080/live/marco/polo/75367.m3u8
+#EXTINF:-1,Al Eslah
+http://landiptv.live:8080/live/marco/polo/196454.m3u8
+#EXTINF:-1,Al Fady
+http://landiptv.live:8080/live/marco/polo/110226.m3u8
+#EXTINF:-1,AL FAJER
+http://landiptv.live:8080/live/marco/polo/113529.m3u8
+#EXTINF:-1,AL Falastenia
+http://landiptv.live:8080/live/marco/polo/105357.m3u8
+#EXTINF:-1,Al Fallujah Iraq
+http://landiptv.live:8080/live/marco/polo/196434.m3u8
+#EXTINF:-1,AL Falstiniah
+http://landiptv.live:8080/live/marco/polo/110223.m3u8
+#EXTINF:-1,Al Forat TV
+http://landiptv.live:8080/live/marco/polo/148554.m3u8
+#EXTINF:-1,AL GERIA 3
+http://landiptv.live:8080/live/marco/polo/193035.m3u8
+#EXTINF:-1,Al Ghad Mushreq TV
+http://landiptv.live:8080/live/marco/polo/148574.m3u8
+#EXTINF:-1,Al Ghad TV
+http://landiptv.live:8080/live/marco/polo/100146.m3u8
+#EXTINF:-1,Al Ghadeer
+http://landiptv.live:8080/live/marco/polo/135223.m3u8
+#EXTINF:-1,AL HADATH
+http://landiptv.live:8080/live/marco/polo/75363.m3u8
+#EXTINF:-1,Al Hadath Al Youm
+http://landiptv.live:8080/live/marco/polo/135296.m3u8
+#EXTINF:-1,Al Haqiqa
+http://landiptv.live:8080/live/marco/polo/135246.m3u8
+#EXTINF:-1,AL HAYAT 2 HD
+http://landiptv.live:8080/live/marco/polo/75316.m3u8
+#EXTINF:-1,AL HAYAT ALAAN
+http://landiptv.live:8080/live/marco/polo/89251.m3u8
+#EXTINF:-1,Al Hayat Cristian
+http://landiptv.live:8080/live/marco/polo/147363.m3u8
+#EXTINF:-1,Al Hayat HD
+http://landiptv.live:8080/live/marco/polo/94429.m3u8
+#EXTINF:-1,AL HAYAT MUSALSALAT
+http://landiptv.live:8080/live/marco/polo/114685.m3u8
+#EXTINF:-1,Al Hayat Muslsalat
+http://landiptv.live:8080/live/marco/polo/146178.m3u8
+#EXTINF:-1,Al Hiwar Ettounsi
+http://landiptv.live:8080/live/marco/polo/147444.m3u8
+#EXTINF:-1,Al Hiwar News
+http://landiptv.live:8080/live/marco/polo/110208.m3u8
+#EXTINF:-1,Al Horreya TV
+http://landiptv.live:8080/live/marco/polo/207299.m3u8
+#EXTINF:-1,Al Hurra Iraq
+http://landiptv.live:8080/live/marco/polo/89886.m3u8
+#EXTINF:-1,Al Ikhbaria Syria
+http://landiptv.live:8080/live/marco/polo/196394.m3u8
+#EXTINF:-1,Al IMAN TV
+http://landiptv.live:8080/live/marco/polo/75313.m3u8
+#EXTINF:-1,Al Iraqia News
+http://landiptv.live:8080/live/marco/polo/147318.m3u8
+#EXTINF:-1,Al Iraqia TV
+http://landiptv.live:8080/live/marco/polo/148555.m3u8
+#EXTINF:-1,Al Istiqama
+http://landiptv.live:8080/live/marco/polo/135247.m3u8
+#EXTINF:-1,Al Itejah TV
+http://landiptv.live:8080/live/marco/polo/135248.m3u8
+#EXTINF:-1,AL JADEED
+http://landiptv.live:8080/live/marco/polo/113291.m3u8
+#EXTINF:-1,Al Janoubia TV
+http://landiptv.live:8080/live/marco/polo/63147.m3u8
+#EXTINF:-1,AL JAZEERA DOCU
+http://landiptv.live:8080/live/marco/polo/103193.m3u8
+#EXTINF:-1,AL JAZEERA DOCUMENT
+http://landiptv.live:8080/live/marco/polo/118430.m3u8
+#EXTINF:-1,Al Jazeera English HD
+http://landiptv.live:8080/live/marco/polo/89876.m3u8
+#EXTINF:-1,Al Jazeera FHD
+http://landiptv.live:8080/live/marco/polo/63148.m3u8
+#EXTINF:-1,AL JAZEERA MUBASHER
+http://landiptv.live:8080/live/marco/polo/75353.m3u8
+#EXTINF:-1,Al Kahera Wal Nas 1
+http://landiptv.live:8080/live/marco/polo/75311.m3u8
+#EXTINF:-1,Al Kahera Wal Nas 2
+http://landiptv.live:8080/live/marco/polo/75350.m3u8
+#EXTINF:-1,Al Karma TV
+http://landiptv.live:8080/live/marco/polo/75310.m3u8
+#EXTINF:-1,Al Kass Sport 1 HD
+http://landiptv.live:8080/live/marco/polo/175827.m3u8
+#EXTINF:-1,Al Kass Sport 2 HD
+http://landiptv.live:8080/live/marco/polo/175828.m3u8
+#EXTINF:-1,Al Kass Sport 4 HD
+http://landiptv.live:8080/live/marco/polo/105379.m3u8
+#EXTINF:-1,Al Kass Sport 5 HD
+http://landiptv.live:8080/live/marco/polo/193039.m3u8
+#EXTINF:-1,Al Kawthar
+http://landiptv.live:8080/live/marco/polo/131052.m3u8
+#EXTINF:-1,Al Koufeya TV
+http://landiptv.live:8080/live/marco/polo/196438.m3u8
+#EXTINF:-1,Al Maaref TV
+http://landiptv.live:8080/live/marco/polo/147297.m3u8
+#EXTINF:-1,Al Maddinah
+http://landiptv.live:8080/live/marco/polo/196455.m3u8
+#EXTINF:-1,AL MAGHARABIA
+http://landiptv.live:8080/live/marco/polo/89802.m3u8
+#EXTINF:-1,AL MAGHARIBIA 2
+http://landiptv.live:8080/live/marco/polo/89803.m3u8
+#EXTINF:-1,Al Maher
+http://landiptv.live:8080/live/marco/polo/196458.m3u8
+#EXTINF:-1,AL MAJD
+http://landiptv.live:8080/live/marco/polo/89255.m3u8
+#EXTINF:-1,Al Majd 1
+http://landiptv.live:8080/live/marco/polo/105415.m3u8
+#EXTINF:-1,Al Majd 2
+http://landiptv.live:8080/live/marco/polo/105416.m3u8
+#EXTINF:-1,Al Majd 3
+http://landiptv.live:8080/live/marco/polo/105417.m3u8
+#EXTINF:-1,Al Majd 4
+http://landiptv.live:8080/live/marco/polo/135342.m3u8
+#EXTINF:-1,Al Majd 8
+http://landiptv.live:8080/live/marco/polo/135343.m3u8
+#EXTINF:-1,Al Majd Hadeeth
+http://landiptv.live:8080/live/marco/polo/116696.m3u8
+#EXTINF:-1,Al Majd Kids HD
+http://landiptv.live:8080/live/marco/polo/89874.m3u8
+#EXTINF:-1,Al Majd Quran
+http://landiptv.live:8080/live/marco/polo/94457.m3u8
+#EXTINF:-1,AL MANAR TV
+http://landiptv.live:8080/live/marco/polo/116704.m3u8
+#EXTINF:-1,Al Masrawia Aflam
+http://landiptv.live:8080/live/marco/polo/116695.m3u8
+#EXTINF:-1,Al Masriya
+http://landiptv.live:8080/live/marco/polo/148577.m3u8
+#EXTINF:-1,AL MASSAR AL OULA
+http://landiptv.live:8080/live/marco/polo/135496.m3u8
 #EXTINF:-1,AL MAYADEEN
-http://m-iptv.net:6204/mme/123/2281
-#EXTINF:-1,Al Alam News
-http://m-iptv.net:6204/mme/123/1949
-#EXTINF:-1,CNBC Arabiya
-http://m-iptv.net:6204/mme/123/13451
-#EXTINF:-1,Saudia Akhbarya HD
-http://m-iptv.net:6204/mme/123/3044
-#EXTINF:-1,Dzair
-http://m-iptv.net:6204/mme/123/5744
-#EXTINF:-1,Echourouk News
-http://m-iptv.net:6204/mme/123/6547
-#EXTINF:-1,Numidia
-http://m-iptv.net:6204/mme/123/6538
+http://landiptv.live:8080/live/marco/polo/145496.m3u8
+#EXTINF:-1,Al MEHWAR TV
+http://landiptv.live:8080/live/marco/polo/105343.m3u8
+#EXTINF:-1,Al Mergab
+http://landiptv.live:8080/live/marco/polo/148579.m3u8
+#EXTINF:-1,AL NABAA TV
+http://landiptv.live:8080/live/marco/polo/146160.m3u8
+#EXTINF:-1,Al Nada TV
+http://landiptv.live:8080/live/marco/polo/75347.m3u8
+#EXTINF:-1,AL NAHAR DRAMA
+http://landiptv.live:8080/live/marco/polo/75329.m3u8
+#EXTINF:-1,Al Nahar One
+http://landiptv.live:8080/live/marco/polo/75328.m3u8
+#EXTINF:-1,Al Nahar TV
+http://landiptv.live:8080/live/marco/polo/113305.m3u8
+#EXTINF:-1,Al Nass
+http://landiptv.live:8080/live/marco/polo/196486.m3u8
+#EXTINF:-1,Al Noujaba
+http://landiptv.live:8080/live/marco/polo/148552.m3u8
+#EXTINF:-1,AL ONS TV
+http://landiptv.live:8080/live/marco/polo/89764.m3u8
+#EXTINF:-1,AL OSTORA
+http://landiptv.live:8080/live/marco/polo/75305.m3u8
 #EXTINF:-1,Al Oula HD
-http://m-iptv.net:6204/mme/123/2745
-#EXTINF:-1,Babylon
-http://m-iptv.net:6204/mme/123/13432
-#EXTINF:-1,GM Musicana
-http://m-iptv.net:6204/mme/123/13437
-#EXTINF:-1,Music alremas
-http://m-iptv.net:6204/mme/123/11165
-#EXTINF:-1,AGHANI AGHANI
-http://m-iptv.net:6204/mme/123/10038
-#EXTINF:-1,AGHANINA TV
-http://m-iptv.net:6204/mme/123/10037
-#EXTINF:-1,Mazzika
-http://m-iptv.net:6204/mme/123/1947
-#EXTINF:-1,MAZAZIKH
-http://m-iptv.net:6204/mme/123/10032
-#EXTINF:-1,Sha3beyat
-http://m-iptv.net:6204/mme/123/10031
-#EXTINF:-1,Maestrotv
-http://m-iptv.net:6204/mme/123/10033
-#EXTINF:-1,K- KurdMax Music HD
-http://m-iptv.net:6204/mme/123/14375
-#EXTINF:-1,Rotana Music HD
-http://m-iptv.net:6204/mme/123/184
-#EXTINF:-1,In- Zing Music
-http://m-iptv.net:6204/mme/123/10373
-#EXTINF:-1,Bein Sport HD
-http://m-iptv.net:6204/mme/123/2568
-#EXTINF:-1,Bein Sport News HD
-http://m-iptv.net:6204/mme/123/2567
-#EXTINF:-1,Bein Sport HD1 1080i
-http://m-iptv.net:6204/mme/123/127
-#EXTINF:-1,Bein Sport HD2 1080i
-http://m-iptv.net:6204/mme/123/128
-#EXTINF:-1,Bein Sport HD3 1080i
-http://m-iptv.net:6204/mme/123/129
-#EXTINF:-1,Bein Sport HD4 1080i
-http://m-iptv.net:6204/mme/123/130
-#EXTINF:-1,Bein Sport HD5 1080i
-http://m-iptv.net:6204/mme/123/132
-#EXTINF:-1,Bein Sport HD6 1080i
-http://m-iptv.net:6204/mme/123/133
-#EXTINF:-1,Bein Sport HD7 1080i
-http://m-iptv.net:6204/mme/123/134
-#EXTINF:-1,Bein Sport HD8 1080i
-http://m-iptv.net:6204/mme/123/135
-#EXTINF:-1,Bein Sport HD9 1080i
-http://m-iptv.net:6204/mme/123/186
-#EXTINF:-1,Bein Sport HD10 1080i
-http://m-iptv.net:6204/mme/123/187
-#EXTINF:-1,Bein Sport HD11 EN 1080i
-http://m-iptv.net:6204/mme/123/188
-#EXTINF:-1,Bein Sport HD12 EN 1080i
-http://m-iptv.net:6204/mme/123/189
-#EXTINF:-1,Bein Sport HD13 EN 1080i
-http://m-iptv.net:6204/mme/123/1694
-#EXTINF:-1,Bein Sport HD14 Fr 1080i
-http://m-iptv.net:6204/mme/123/2555
-#EXTINF:-1,Bein Sport HD15 Fr 1080i
-http://m-iptv.net:6204/mme/123/4763
-#EXTINF:-1,Bein Sport HD16 Fr 1080i
-http://m-iptv.net:6204/mme/123/4762
-#EXTINF:-1,Bein Sport NBA HD
-http://m-iptv.net:6204/mme/123/6434
-#EXTINF:-1,Bein Sport HD1 720P
-http://m-iptv.net:6204/mme/123/9022
-#EXTINF:-1,Bein Sport HD2 720P
-http://m-iptv.net:6204/mme/123/9021
-#EXTINF:-1,Bein Sport HD3 720P
-http://m-iptv.net:6204/mme/123/9020
-#EXTINF:-1,Bein Sport HD4 720P
-http://m-iptv.net:6204/mme/123/9019
-#EXTINF:-1,Bein Sport HD5 720P
-http://m-iptv.net:6204/mme/123/9018
-#EXTINF:-1,Bein Sport HD6 720P
-http://m-iptv.net:6204/mme/123/9017
-#EXTINF:-1,Bein Sport HD7 720P
-http://m-iptv.net:6204/mme/123/9016
-#EXTINF:-1,Bein Sport HD8 720P
-http://m-iptv.net:6204/mme/123/9015
-#EXTINF:-1,Bein Sport HD9 720P
-http://m-iptv.net:6204/mme/123/9014
-#EXTINF:-1,Bein Sport HD10 720P
-http://m-iptv.net:6204/mme/123/9013
-#EXTINF:-1,Bein Sport HD11 EN 720P
-http://m-iptv.net:6204/mme/123/9012
-#EXTINF:-1,bein Sport SD1
-http://m-iptv.net:6204/mme/123/1913
-#EXTINF:-1,Bein Sport SD2
-http://m-iptv.net:6204/mme/123/1914
-#EXTINF:-1,Bein Sport SD3
-http://m-iptv.net:6204/mme/123/1915
-#EXTINF:-1,Bein Sport SD4
-http://m-iptv.net:6204/mme/123/1916
-#EXTINF:-1,Bein Sport SD5
-http://m-iptv.net:6204/mme/123/1917
-#EXTINF:-1,Bein Sport SD6
-http://m-iptv.net:6204/mme/123/1918
-#EXTINF:-1,Bein Sport SD7
-http://m-iptv.net:6204/mme/123/1919
-#EXTINF:-1,Bein Sport SD8
-http://m-iptv.net:6204/mme/123/1920
-#EXTINF:-1,Bein Sport SD9
-http://m-iptv.net:6204/mme/123/1921
-#EXTINF:-1,Bein Sport SD10
-http://m-iptv.net:6204/mme/123/1922
-#EXTINF:-1,Bein Sport SD11
-http://m-iptv.net:6204/mme/123/1923
-#EXTINF:-1,Bein Alkass 1 HD
-http://m-iptv.net:6204/mme/123/7045
-#EXTINF:-1,Bein Alkass 2 HD
-http://m-iptv.net:6204/mme/123/7046
-#EXTINF:-1,Bein Alkass 3 HD
-http://m-iptv.net:6204/mme/123/14446
-#EXTINF:-1,Bein Alkass 4 HD
-http://m-iptv.net:6204/mme/123/7047
-#EXTINF:-1,Bein Alkass 5 HD
-http://m-iptv.net:6204/mme/123/7050
-#EXTINF:-1,Bein Movies HD1
-http://m-iptv.net:6204/mme/123/2151
-#EXTINF:-1,Bein Movies HD2
-http://m-iptv.net:6204/mme/123/2303
-#EXTINF:-1,Bein Movies HD3
-http://m-iptv.net:6204/mme/123/4068
-#EXTINF:-1,Bein Movies HD4
-http://m-iptv.net:6204/mme/123/2712
-#EXTINF:-1,Bein Series 1 HD
-http://m-iptv.net:6204/mme/123/6560
-#EXTINF:-1,Bein Series 2 HD
-http://m-iptv.net:6204/mme/123/9028
-#EXTINF:-1,Bein Drama HD1
-http://m-iptv.net:6204/mme/123/9031
-#EXTINF:-1,Bein AMC HD
-http://m-iptv.net:6204/mme/123/7136
-#EXTINF:-1,Bein HGTV HD
-http://m-iptv.net:6204/mme/123/7138
-#EXTINF:-1,Bein Fox HD
-http://m-iptv.net:6204/mme/123/9024
-#EXTINF:-1,Bein Discovery Life HD
-http://m-iptv.net:6204/mme/123/9023
-#EXTINF:-1,Bein Discovery Turbo Xtra
-http://m-iptv.net:6204/mme/123/9025
-#EXTINF:-1,Bein Discovery Max HD
-http://m-iptv.net:6204/mme/123/9026
-#EXTINF:-1,Bein BBC earth HD
-http://m-iptv.net:6204/mme/123/10723
-#EXTINF:-1,Bein Fatafeat HD
-http://m-iptv.net:6204/mme/123/2714
-#EXTINF:-1,Bein Gourmet HD
-http://m-iptv.net:6204/mme/123/7541
-#EXTINF:-1,Bein Fine Living HD
-http://m-iptv.net:6204/mme/123/14426
-#EXTINF:-1,Bein Food Network HD
-http://m-iptv.net:6204/mme/123/14425
-#EXTINF:-1,KSA Sport 1 HD
-http://m-iptv.net:6204/mme/123/3039
-#EXTINF:-1,KSA Sport 2 HD
-http://m-iptv.net:6204/mme/123/6432
-#EXTINF:-1,KSA Sport +1 HD
-http://m-iptv.net:6204/mme/123/13738
-#EXTINF:-1,KSA Sport +2 HD
-http://m-iptv.net:6204/mme/123/13739
-#EXTINF:-1,Saudia Sport 24 HD
-http://m-iptv.net:6204/mme/123/10624
-#EXTINF:-1,AD Sport1 HD
-http://m-iptv.net:6204/mme/123/2582
-#EXTINF:-1,AD Sport2 HD
-http://m-iptv.net:6204/mme/123/2581
-#EXTINF:-1,AD Sport3 HD
-http://m-iptv.net:6204/mme/123/2718
-#EXTINF:-1,AD Sport4 HD
-http://m-iptv.net:6204/mme/123/2719
-#EXTINF:-1,AD Sport5 HD
-http://m-iptv.net:6204/mme/123/15798
-#EXTINF:-1,AD Sport6 HD
-http://m-iptv.net:6204/mme/123/15797
-#EXTINF:-1,Dubai Sport 1 HD
-http://m-iptv.net:6204/mme/123/2583
-#EXTINF:-1,Dubai Sport 2 HD
-http://m-iptv.net:6204/mme/123/10626
-#EXTINF:-1,Dubai Sport 3 HD
-http://m-iptv.net:6204/mme/123/10625
-#EXTINF:-1,Dubai Racing 1 HD
-http://m-iptv.net:6204/mme/123/2584
-#EXTINF:-1,Dubai Racing 2 HD
-http://m-iptv.net:6204/mme/123/10628
-#EXTINF:-1,Dubai Racing 3 HD
-http://m-iptv.net:6204/mme/123/10627
-#EXTINF:-1,ON Sport HD
-http://m-iptv.net:6204/mme/123/6556
-#EXTINF:-1,ON Sport 2 HD
-http://m-iptv.net:6204/mme/123/10168
-#EXTINF:-1,Nile Sport
-http://m-iptv.net:6204/mme/123/4133
-#EXTINF:-1,KTV Sport HD
-http://m-iptv.net:6204/mme/123/2733
-#EXTINF:-1,KTV Sport Plus HD
-http://m-iptv.net:6204/mme/123/2732
-#EXTINF:-1,Iraqiya Sport
-http://m-iptv.net:6204/mme/123/2740
-#EXTINF:-1,Omman Sport HD
-http://m-iptv.net:6204/mme/123/2676
-#EXTINF:-1,Kuwait Sport HD
-http://m-iptv.net:6204/mme/123/2735
-#EXTINF:-1,OSN Yahala HD
-http://m-iptv.net:6204/mme/123/10950
-#EXTINF:-1,OSN Yahala Oula HD
-http://m-iptv.net:6204/mme/123/152
-#EXTINF:-1,OSN Yahala Cinema HD
-http://m-iptv.net:6204/mme/123/5349
-#EXTINF:-1,OSN Movies HD
-http://m-iptv.net:6204/mme/123/248
-#EXTINF:-1,OSN Movies Action HD
-http://m-iptv.net:6204/mme/123/139
-#EXTINF:-1,OSN Movies First HD
-http://m-iptv.net:6204/mme/123/3519
-#EXTINF:-1,OSN Movies Disney HD
-http://m-iptv.net:6204/mme/123/9606
-#EXTINF:-1,OSN Movies Thriller HD
-http://m-iptv.net:6204/mme/123/147
-#EXTINF:-1,OSN Movies Comedy HD
-http://m-iptv.net:6204/mme/123/2152
-#EXTINF:-1,OSN First HBO HD
-http://m-iptv.net:6204/mme/123/4056
-#EXTINF:-1,OSN Series HD
-http://m-iptv.net:6204/mme/123/151
-#EXTINF:-1,OSN Series First HD
-http://m-iptv.net:6204/mme/123/131
-#EXTINF:-1,OSN Series Comedy HD
-http://m-iptv.net:6204/mme/123/7584
-#EXTINF:-1,OSN Paramount HD
-http://m-iptv.net:6204/mme/123/13028
-#EXTINF:-1,OSN BBC First HD
-http://m-iptv.net:6204/mme/123/14294
-#EXTINF:-1,OSN TLC HD
-http://m-iptv.net:6204/mme/123/13026
-#EXTINF:-1,OSN SYFY HD
-http://m-iptv.net:6204/mme/123/13027
-#EXTINF:-1,OSN Living HD
-http://m-iptv.net:6204/mme/123/11036
-#EXTINF:-1,OSN E! HD
-http://m-iptv.net:6204/mme/123/11174
-#EXTINF:-1,OSN ITV Choice
-http://m-iptv.net:6204/mme/123/7487
-#EXTINF:-1,OSN Star Movies HD
-http://m-iptv.net:6204/mme/123/7697
-#EXTINF:-1,OSN Star World HD
-http://m-iptv.net:6204/mme/123/250
-#EXTINF:-1,OSN Alfa Alyoum HD
-http://m-iptv.net:6204/mme/123/11189
-#EXTINF:-1,OSN Alfa Al Fann HD
-http://m-iptv.net:6204/mme/123/11190
-#EXTINF:-1,OSN Alfa Al Safwa HD
-http://m-iptv.net:6204/mme/123/11262
-#EXTINF:-1,OSN Alfa Cinema 1 HD
-http://m-iptv.net:6204/mme/123/11188
-#EXTINF:-1,OSN Alfa Cinema 2 HD
-http://m-iptv.net:6204/mme/123/13368
-#EXTINF:-1,OSN Alfa Musalsalat HD
-http://m-iptv.net:6204/mme/123/11173
-#EXTINF:-1,OSN Alfa Musalsalat 2 HD
-http://m-iptv.net:6204/mme/123/9060
-#EXTINF:-1,OSN Alfa Music Now HD
-http://m-iptv.net:6204/mme/123/13367
-#EXTINF:-1,OSN WWE HD
-http://m-iptv.net:6204/mme/123/6435
-#EXTINF:-1,OSN Ten Cricket HD
-http://m-iptv.net:6204/mme/123/11004
-#EXTINF:-1,OSN Sport Cricket HD
-http://m-iptv.net:6204/mme/123/11211
-#EXTINF:-1,OSN Sports Action 1 HD
-http://m-iptv.net:6204/mme/123/13449
-#EXTINF:-1,OSN Sports Action 2 HD
-http://m-iptv.net:6204/mme/123/13448
-#EXTINF:-1,OSN Travel HD
-http://m-iptv.net:6204/mme/123/2697
-#EXTINF:-1,OSN OutDoor HD
-http://m-iptv.net:6204/mme/123/9030
-#EXTINF:-1,OSN H2 HD
-http://m-iptv.net:6204/mme/123/11037
-#EXTINF:-1,OSN History HD
-http://m-iptv.net:6204/mme/123/13029
-#EXTINF:-1,OSN Discovery ID
-http://m-iptv.net:6204/mme/123/14430
-#EXTINF:-1,OSN Discovery HD
-http://m-iptv.net:6204/mme/123/7701
-#EXTINF:-1,OSN Discovery SC HD
-http://m-iptv.net:6204/mme/123/1162
-#EXTINF:-1,OSN Animal Planet HD
-http://m-iptv.net:6204/mme/123/2587
-#EXTINF:-1,OSN Nat Geo HD
-http://m-iptv.net:6204/mme/123/8999
-#EXTINF:-1,OSN Nat Geo Wild HD
-http://m-iptv.net:6204/mme/123/984
-#EXTINF:-1,OSN Nat People HD
-http://m-iptv.net:6204/mme/123/2711
-#EXTINF:-1,OSN Disney XD HD
-http://m-iptv.net:6204/mme/123/14442
-#EXTINF:-1,Art Aflam1
-http://m-iptv.net:6204/mme/123/603
-#EXTINF:-1,Art Aflam2
-http://m-iptv.net:6204/mme/123/604
+http://landiptv.live:8080/live/marco/polo/89750.m3u8
+#EXTINF:-1,Al Qahira Wa Nas 1
+http://landiptv.live:8080/live/marco/polo/121075.m3u8
+#EXTINF:-1,Al Qahira Wa Nas 2
+http://landiptv.live:8080/live/marco/polo/121076.m3u8
+#EXTINF:-1,Al Qanat
+http://landiptv.live:8080/live/marco/polo/148568.m3u8
+#EXTINF:-1,Al qanat 9
+http://landiptv.live:8080/live/marco/polo/75300.m3u8
+#EXTINF:-1,Al Quds
+http://landiptv.live:8080/live/marco/polo/75346.m3u8
+#EXTINF:-1,Al Qurain
+http://landiptv.live:8080/live/marco/polo/147324.m3u8
+#EXTINF:-1,Al Rahma TV
+http://landiptv.live:8080/live/marco/polo/75345.m3u8
+#EXTINF:-1,Al Rasheed TV
+http://landiptv.live:8080/live/marco/polo/122756.m3u8
+#EXTINF:-1,Al Rayan
+http://landiptv.live:8080/live/marco/polo/146157.m3u8
+#EXTINF:-1,AL Resala
+http://landiptv.live:8080/live/marco/polo/193023.m3u8
+#EXTINF:-1,Al Salam TV
+http://landiptv.live:8080/live/marco/polo/196488.m3u8
+#EXTINF:-1,Al Saudi 2 HD
+http://landiptv.live:8080/live/marco/polo/114693.m3u8
+#EXTINF:-1,AL SERAJ
+http://landiptv.live:8080/live/marco/polo/193026.m3u8
+#EXTINF:-1,Al Shabab TV
+http://landiptv.live:8080/live/marco/polo/148553.m3u8
+#EXTINF:-1,AL SHAREYYAH CHANNEL
+http://landiptv.live:8080/live/marco/polo/193033.m3u8
+#EXTINF:-1,Al Sharqiya FHD
+http://landiptv.live:8080/live/marco/polo/105659.m3u8
+#EXTINF:-1,Al Sharqiya News HD
+http://landiptv.live:8080/live/marco/polo/105386.m3u8
+#EXTINF:-1,AL Sharquia HD
+http://landiptv.live:8080/live/marco/polo/196445.m3u8
+#EXTINF:-1,Al Sirat TV
+http://landiptv.live:8080/live/marco/polo/89923.m3u8
+#EXTINF:-1,Al Sumaria TV
+http://landiptv.live:8080/live/marco/polo/110244.m3u8
+#EXTINF:-1,Al taghier
+http://landiptv.live:8080/live/marco/polo/196437.m3u8
+#EXTINF:-1,Al Thanya
+http://landiptv.live:8080/live/marco/polo/135298.m3u8
+#EXTINF:-1,Al Turkmenia Tv
+http://landiptv.live:8080/live/marco/polo/148557.m3u8
+#EXTINF:-1,Al Waad Channel
+http://landiptv.live:8080/live/marco/polo/148567.m3u8
+#EXTINF:-1,Al Waha TV
+http://landiptv.live:8080/live/marco/polo/148548.m3u8
+#EXTINF:-1,Alaan TV Lebanon
+http://landiptv.live:8080/live/marco/polo/75324.m3u8
+#EXTINF:-1,AlAfasy TV
+http://landiptv.live:8080/live/marco/polo/75323.m3u8
+#EXTINF:-1,AlAhly TV
+http://landiptv.live:8080/live/marco/polo/75378.m3u8
+#EXTINF:-1,ALALAM NEWS
+http://landiptv.live:8080/live/marco/polo/63137.m3u8
+#EXTINF:-1,Alarabi NEWS
+http://landiptv.live:8080/live/marco/polo/110157.m3u8
+#EXTINF:-1,AlARABIA ALHADATH
+http://landiptv.live:8080/live/marco/polo/108171.m3u8
+#EXTINF:-1,AlArabiya HD
+http://landiptv.live:8080/live/marco/polo/63140.m3u8
+#EXTINF:-1,AlASSEMA
+http://landiptv.live:8080/live/marco/polo/75373.m3u8
+#EXTINF:-1,ALBAEENAH IRAQ
+http://landiptv.live:8080/live/marco/polo/135295.m3u8
+#EXTINF:-1,AlBaghdadia
+http://landiptv.live:8080/live/marco/polo/107952.m3u8
+#EXTINF:-1,AlDijla
+http://landiptv.live:8080/live/marco/polo/105401.m3u8
+#EXTINF:-1,ALEKHBARIA NEWS
+http://landiptv.live:8080/live/marco/polo/63143.m3u8
+#EXTINF:-1,Alerth Alnabawi
+http://landiptv.live:8080/live/marco/polo/196457.m3u8
+#EXTINF:-1,Alerth Alnbawi
+http://landiptv.live:8080/live/marco/polo/75319.m3u8
+#EXTINF:-1,AlFadjr 1
+http://landiptv.live:8080/live/marco/polo/105351.m3u8
+#EXTINF:-1,AlFadjr 2
+http://landiptv.live:8080/live/marco/polo/105352.m3u8
+#EXTINF:-1,AlFAJR TV
+http://landiptv.live:8080/live/marco/polo/98391.m3u8
+#EXTINF:-1,ALFATH Quran
+http://landiptv.live:8080/live/marco/polo/135245.m3u8
+#EXTINF:-1,ALGERIA 5
+http://landiptv.live:8080/live/marco/polo/113477.m3u8
+#EXTINF:-1,Algerie
+http://landiptv.live:8080/live/marco/polo/110229.m3u8
+#EXTINF:-1,Algerie 3
+http://landiptv.live:8080/live/marco/polo/101908.m3u8
+#EXTINF:-1,Algerie 4
+http://landiptv.live:8080/live/marco/polo/63145.m3u8
+#EXTINF:-1,Algerie 5
+http://landiptv.live:8080/live/marco/polo/124937.m3u8
+#EXTINF:-1,AlGhad Al Mushreq
+http://landiptv.live:8080/live/marco/polo/75365.m3u8
+#EXTINF:-1,Alhadath Iraqia
+http://landiptv.live:8080/live/marco/polo/113443.m3u8
+#EXTINF:-1,Alhadath News
+http://landiptv.live:8080/live/marco/polo/110272.m3u8
+#EXTINF:-1,Alhayah
+http://landiptv.live:8080/live/marco/polo/110109.m3u8
+#EXTINF:-1,Alhayah 2
+http://landiptv.live:8080/live/marco/polo/110110.m3u8
+#EXTINF:-1,Alhayah Alaan
+http://landiptv.live:8080/live/marco/polo/196449.m3u8
+#EXTINF:-1,Alhayah Muslsalat
+http://landiptv.live:8080/live/marco/polo/110111.m3u8
+#EXTINF:-1,AlHayat Cinema
+http://landiptv.live:8080/live/marco/polo/95769.m3u8
+#EXTINF:-1,AlHayat Musalsalat (EGY)
+http://landiptv.live:8080/live/marco/polo/95768.m3u8
+#EXTINF:-1,Alhayat We Alnas
+http://landiptv.live:8080/live/marco/polo/135495.m3u8
+#EXTINF:-1,AlHiwar ElTounsi
+http://landiptv.live:8080/live/marco/polo/63100.m3u8
+#EXTINF:-1,AlInsen TV
+http://landiptv.live:8080/live/marco/polo/105335.m3u8
+#EXTINF:-1,AlJadeed (LEB)
+http://landiptv.live:8080/live/marco/polo/63152.m3u8
+#EXTINF:-1,AlJazaairia
+http://landiptv.live:8080/live/marco/polo/107969.m3u8
+#EXTINF:-1,AlJazeera Arabic
+http://landiptv.live:8080/live/marco/polo/135555.m3u8
+#EXTINF:-1,AlJazeera Documentary HD
+http://landiptv.live:8080/live/marco/polo/75355.m3u8
+#EXTINF:-1,AlJazeera Mobasher
+http://landiptv.live:8080/live/marco/polo/114430.m3u8
+#EXTINF:-1,AlJazeera NEWS (EN)
+http://landiptv.live:8080/live/marco/polo/145491.m3u8
+#EXTINF:-1,Aljessr
+http://landiptv.live:8080/live/marco/polo/146210.m3u8
+#EXTINF:-1,ALKAHERA WALNAS 2 (EGY)
+http://landiptv.live:8080/live/marco/polo/108208.m3u8
+#EXTINF:-1,Alkahera Welnas
+http://landiptv.live:8080/live/marco/polo/113523.m3u8
+#EXTINF:-1,Alkalema
+http://landiptv.live:8080/live/marco/polo/113378.m3u8
+#EXTINF:-1,AlKass 1 HD
+http://landiptv.live:8080/live/marco/polo/118533.m3u8
+#EXTINF:-1,AlKass 2 HD
+http://landiptv.live:8080/live/marco/polo/105378.m3u8
+#EXTINF:-1,AlKass Sport 3 HD
+http://landiptv.live:8080/live/marco/polo/84510.m3u8
+#EXTINF:-1,AlKhalij TV
+http://landiptv.live:8080/live/marco/polo/135349.m3u8
+#EXTINF:-1,ALKOFIYA
+http://landiptv.live:8080/live/marco/polo/135249.m3u8
+#EXTINF:-1,AlMaaly
+http://landiptv.live:8080/live/marco/polo/135350.m3u8
+#EXTINF:-1,AlMagharibia Two
+http://landiptv.live:8080/live/marco/polo/146979.m3u8
+#EXTINF:-1,Almajd Space
+http://landiptv.live:8080/live/marco/polo/196460.m3u8
+#EXTINF:-1,AlMalakoot
+http://landiptv.live:8080/live/marco/polo/110073.m3u8
+#EXTINF:-1,AlManar (LEB)
+http://landiptv.live:8080/live/marco/polo/75338.m3u8
+#EXTINF:-1,Almasriyah (EGY)
+http://landiptv.live:8080/live/marco/polo/105344.m3u8
+#EXTINF:-1,AlMawsleya TV
+http://landiptv.live:8080/live/marco/polo/110248.m3u8
+#EXTINF:-1,ALMAYADEEN (LEB)
+http://landiptv.live:8080/live/marco/polo/63154.m3u8
+#EXTINF:-1,AlMINBAR TV
+http://landiptv.live:8080/live/marco/polo/135233.m3u8
+#EXTINF:-1,ALMOURABITOUNE
+http://landiptv.live:8080/live/marco/polo/90110.m3u8
+#EXTINF:-1,AlMustakila TV
+http://landiptv.live:8080/live/marco/polo/110199.m3u8
+#EXTINF:-1,AlNaeem TV
+http://landiptv.live:8080/live/marco/polo/90048.m3u8
+#EXTINF:-1,AlNahar (ALG)
+http://landiptv.live:8080/live/marco/polo/105316.m3u8
+#EXTINF:-1,AlNahar (EGY)
+http://landiptv.live:8080/live/marco/polo/108204.m3u8
+#EXTINF:-1,Alnahar Cinema
+http://landiptv.live:8080/live/marco/polo/146082.m3u8
+#EXTINF:-1,Alnas Tv
+http://landiptv.live:8080/live/marco/polo/105420.m3u8
+#EXTINF:-1,Alnoor
+http://landiptv.live:8080/live/marco/polo/147465.m3u8
+#EXTINF:-1,Aloula Maroc
+http://landiptv.live:8080/live/marco/polo/94417.m3u8
+#EXTINF:-1,AlQAMAR
+http://landiptv.live:8080/live/marco/polo/135236.m3u8
+#EXTINF:-1,Alquran Mekka
+http://landiptv.live:8080/live/marco/polo/196463.m3u8
+#EXTINF:-1,Alrafiden
+http://landiptv.live:8080/live/marco/polo/110083.m3u8
+#EXTINF:-1,AlRahmah
+http://landiptv.live:8080/live/marco/polo/105387.m3u8
+#EXTINF:-1,ALRAI TV
+http://landiptv.live:8080/live/marco/polo/63155.m3u8
+#EXTINF:-1,ALRiadia
+http://landiptv.live:8080/live/marco/polo/63159.m3u8
+#EXTINF:-1,Alrisala
+http://landiptv.live:8080/live/marco/polo/196465.m3u8
+#EXTINF:-1,Alruqia TV
+http://landiptv.live:8080/live/marco/polo/135351.m3u8
+#EXTINF:-1,AlSA3A AFLAM
+http://landiptv.live:8080/live/marco/polo/135238.m3u8
+#EXTINF:-1,AlSaeedah
+http://landiptv.live:8080/live/marco/polo/75296.m3u8
+#EXTINF:-1,Alsafa
+http://landiptv.live:8080/live/marco/polo/113381.m3u8
+#EXTINF:-1,AlSeha Waljamal
+http://landiptv.live:8080/live/marco/polo/135537.m3u8
+#EXTINF:-1,ALSHARGIYA
+http://landiptv.live:8080/live/marco/polo/63151.m3u8
+#EXTINF:-1,ALSHARJAH
+http://landiptv.live:8080/live/marco/polo/122757.m3u8
+#EXTINF:-1,Alsharq
+http://landiptv.live:8080/live/marco/polo/146182.m3u8
+#EXTINF:-1,AlSHASHA CINEMA
+http://landiptv.live:8080/live/marco/polo/135240.m3u8
+#EXTINF:-1,Alshouroq Sudan
+http://landiptv.live:8080/live/marco/polo/113362.m3u8
+#EXTINF:-1,AlTounsia TV
+http://landiptv.live:8080/live/marco/polo/63188.m3u8
+#EXTINF:-1,altunisia
+http://landiptv.live:8080/live/marco/polo/63156.m3u8
+#EXTINF:-1,AlTurkmania TV
+http://landiptv.live:8080/live/marco/polo/113399.m3u8
+#EXTINF:-1,Alwan
+http://landiptv.live:8080/live/marco/polo/196365.m3u8
+#EXTINF:-1,Alyaum TV
+http://landiptv.live:8080/live/marco/polo/100148.m3u8
+#EXTINF:-1,Amhara TV
+http://landiptv.live:8080/live/marco/polo/135251.m3u8
+#EXTINF:-1,Amman TV
+http://landiptv.live:8080/live/marco/polo/121118.m3u8
+#EXTINF:-1,ANB iraq
+http://landiptv.live:8080/live/marco/polo/176129.m3u8
+#EXTINF:-1,ANIMAL PLANET HD
+http://landiptv.live:8080/live/marco/polo/78058.m3u8
+#EXTINF:-1,ANN News
+http://landiptv.live:8080/live/marco/polo/130935.m3u8
+#EXTINF:-1,Ann TV
+http://landiptv.live:8080/live/marco/polo/108174.m3u8
+#EXTINF:-1,ANNAJAH NBC
+http://landiptv.live:8080/live/marco/polo/75287.m3u8
+#EXTINF:-1,Aoula Maroc HD
+http://landiptv.live:8080/live/marco/polo/63132.m3u8
+#EXTINF:-1,ARABICA MUSIC
+http://landiptv.live:8080/live/marco/polo/146202.m3u8
+#EXTINF:-1,Arrabia TV
+http://landiptv.live:8080/live/marco/polo/63158.m3u8
+#EXTINF:-1,Arriadia
+http://landiptv.live:8080/live/marco/polo/105328.m3u8
+#EXTINF:-1,ARRIADIA TNT
+http://landiptv.live:8080/live/marco/polo/143734.m3u8
+#EXTINF:-1,Arryadia HD Live
+http://landiptv.live:8080/live/marco/polo/116690.m3u8
+#EXTINF:-1,ART Aflam 1 HD
+http://landiptv.live:8080/live/marco/polo/63164.m3u8
+#EXTINF:-1,ART AFLAM 2
+http://landiptv.live:8080/live/marco/polo/120707.m3u8
+#EXTINF:-1,ART Cinema
+http://landiptv.live:8080/live/marco/polo/63161.m3u8
+#EXTINF:-1,ART CINEMA 1
+http://landiptv.live:8080/live/marco/polo/89266.m3u8
 #EXTINF:-1,Art Hekayat
-http://m-iptv.net:6204/mme/123/601
-#EXTINF:-1,Art Hekayat2
-http://m-iptv.net:6204/mme/123/602
-#EXTINF:-1,Art Cinema
-http://m-iptv.net:6204/mme/123/600
-#EXTINF:-1,MBC1 HD
-http://m-iptv.net:6204/mme/123/46
-#EXTINF:-1,MBC2 HD
-http://m-iptv.net:6204/mme/123/26
-#EXTINF:-1,MBC3 HD
-http://m-iptv.net:6204/mme/123/47
-#EXTINF:-1,MBC4 HD
-http://m-iptv.net:6204/mme/123/27
-#EXTINF:-1,MBC Iraq HD
-http://m-iptv.net:6204/mme/123/14444
-#EXTINF:-1,MBC Max HD
-http://m-iptv.net:6204/mme/123/29
+http://landiptv.live:8080/live/marco/polo/101185.m3u8
+#EXTINF:-1,ART Hekayat 1 HD
+http://landiptv.live:8080/live/marco/polo/63163.m3u8
+#EXTINF:-1,ART Hekayat 2 HD
+http://landiptv.live:8080/live/marco/polo/63162.m3u8
+#EXTINF:-1,ART HIKAYAT
+http://landiptv.live:8080/live/marco/polo/75279.m3u8
+#EXTINF:-1,Arte
+http://landiptv.live:8080/live/marco/polo/145504.m3u8
+#EXTINF:-1,Asia TV
+http://landiptv.live:8080/live/marco/polo/110161.m3u8
+#EXTINF:-1,Assabiaa
+http://landiptv.live:8080/live/marco/polo/147497.m3u8
+#EXTINF:-1,Assadissa
+http://landiptv.live:8080/live/marco/polo/94421.m3u8
+#EXTINF:-1,Atfal & Mawaheb
+http://landiptv.live:8080/live/marco/polo/135352.m3u8
+#EXTINF:-1,Athagavia (MR)
+http://landiptv.live:8080/live/marco/polo/135572.m3u8
+#EXTINF:-1,Attassia TV
+http://landiptv.live:8080/live/marco/polo/105396.m3u8
+#EXTINF:-1,Atv Sat
+http://landiptv.live:8080/live/marco/polo/113383.m3u8
+#EXTINF:-1,Awdeh TV
+http://landiptv.live:8080/live/marco/polo/75278.m3u8
+#EXTINF:-1,AYAAT
+http://landiptv.live:8080/live/marco/polo/146162.m3u8
+#EXTINF:-1,Azhari TV
+http://landiptv.live:8080/live/marco/polo/75276.m3u8
+#EXTINF:-1,B4U AFLAM
+http://landiptv.live:8080/live/marco/polo/121119.m3u8
+#EXTINF:-1,B4U Plus
+http://landiptv.live:8080/live/marco/polo/113354.m3u8
+#EXTINF:-1,Baghdad TV
+http://landiptv.live:8080/live/marco/polo/103192.m3u8
+#EXTINF:-1,Bahia TV
+http://landiptv.live:8080/live/marco/polo/75151.m3u8
+#EXTINF:-1,Bahrain International HD
+http://landiptv.live:8080/live/marco/polo/129771.m3u8
+#EXTINF:-1,Bahrain Quran
+http://landiptv.live:8080/live/marco/polo/129772.m3u8
+#EXTINF:-1,Bahrain Sports
+http://landiptv.live:8080/live/marco/polo/110191.m3u8
+#EXTINF:-1,Bahrain Sports 1 HD
+http://landiptv.live:8080/live/marco/polo/148587.m3u8
+#EXTINF:-1,Bahrain Sports 2 HD
+http://landiptv.live:8080/live/marco/polo/148588.m3u8
+#EXTINF:-1,Bahrain TV HD
+http://landiptv.live:8080/live/marco/polo/63167.m3u8
+#EXTINF:-1,Baraem Kids
+http://landiptv.live:8080/live/marco/polo/94441.m3u8
+#EXTINF:-1,BBC Arabic
+http://landiptv.live:8080/live/marco/polo/116687.m3u8
+#EXTINF:-1,BBC World News
+http://landiptv.live:8080/live/marco/polo/148585.m3u8
+#EXTINF:-1,beIN BABY TV
+http://landiptv.live:8080/live/marco/polo/120713.m3u8
+#EXTINF:-1,beIN Baraem HD
+http://landiptv.live:8080/live/marco/polo/106919.m3u8
+#EXTINF:-1,beIN Be Junior
+http://landiptv.live:8080/live/marco/polo/110868.m3u8
+#EXTINF:-1,beIN BOOMERANG
+http://landiptv.live:8080/live/marco/polo/111058.m3u8
+#EXTINF:-1,beIN Cartoon Network HD
+http://landiptv.live:8080/live/marco/polo/175564.m3u8
+#EXTINF:-1,beIN DMAX
+http://landiptv.live:8080/live/marco/polo/94440.m3u8
+#EXTINF:-1,beIN Drama 1 HD
+http://landiptv.live:8080/live/marco/polo/120710.m3u8
+#EXTINF:-1,beIN Dream works HD
+http://landiptv.live:8080/live/marco/polo/110869.m3u8
+#EXTINF:-1,beIN DTX HD
+http://landiptv.live:8080/live/marco/polo/110870.m3u8
+#EXTINF:-1,beIN Fatafet HD
+http://landiptv.live:8080/live/marco/polo/144607.m3u8
+#EXTINF:-1,beIN Fox Movies HD
+http://landiptv.live:8080/live/marco/polo/106914.m3u8
+#EXTINF:-1,Bein Gourmet HD
+http://landiptv.live:8080/live/marco/polo/105436.m3u8
+#EXTINF:-1,beIN Jeem HD
+http://landiptv.live:8080/live/marco/polo/98332.m3u8
+#EXTINF:-1,beIN MOVIES 1 HD
+http://landiptv.live:8080/live/marco/polo/63273.m3u8
+#EXTINF:-1,beIN MOVIES 2 HD
+http://landiptv.live:8080/live/marco/polo/63271.m3u8
+#EXTINF:-1,beIN Movies 3 FHD
+http://landiptv.live:8080/live/marco/polo/63270.m3u8
+#EXTINF:-1,beIN Movies 4 HD
+http://landiptv.live:8080/live/marco/polo/197648.m3u8
+#EXTINF:-1,beIN MOVIES DRAMA
+http://landiptv.live:8080/live/marco/polo/94400.m3u8
+#EXTINF:-1,beIN Movies Drama HD 3
+http://landiptv.live:8080/live/marco/polo/110864.m3u8
+#EXTINF:-1,beIN Movies Family HD 4
+http://landiptv.live:8080/live/marco/polo/88422.m3u8
+#EXTINF:-1,beIN Movies Premiere HD 1
+http://landiptv.live:8080/live/marco/polo/111154.m3u8
+#EXTINF:-1,beIN Series 1 HD
+http://landiptv.live:8080/live/marco/polo/144614.m3u8
+#EXTINF:-1,beIN Series 2 HD
+http://landiptv.live:8080/live/marco/polo/130970.m3u8
+#EXTINF:-1,beIN Sports 1 FHD
+http://landiptv.live:8080/live/marco/polo/197923.m3u8
+#EXTINF:-1,beIN Sports 3 FHD
+http://landiptv.live:8080/live/marco/polo/164361.m3u8
+#EXTINF:-1,beIN Sports 4 FHD
+http://landiptv.live:8080/live/marco/polo/62750.m3u8
+#EXTINF:-1,beIN Sports 5 FHD
+http://landiptv.live:8080/live/marco/polo/62749.m3u8
+#EXTINF:-1,beIN Sports 6 FHD
+http://landiptv.live:8080/live/marco/polo/62748.m3u8
+#EXTINF:-1,beIN Sports 7 FHD
+http://landiptv.live:8080/live/marco/polo/62747.m3u8
+#EXTINF:-1,beIN Sports 8 FHD
+http://landiptv.live:8080/live/marco/polo/62746.m3u8
+#EXTINF:-1,beIN Sports 9 FHD
+http://landiptv.live:8080/live/marco/polo/62745.m3u8
+#EXTINF:-1,beIN Sports 1 HD
+http://landiptv.live:8080/live/marco/polo/62751.m3u8
+#EXTINF:-1,beIN Sports 10 FHD
+http://landiptv.live:8080/live/marco/polo/197924.m3u8
+#EXTINF:-1,beIN Sports 12 FHD
+http://landiptv.live:8080/live/marco/polo/145599.m3u8
+#EXTINF:-1,beIN Sports 2 HD
+http://landiptv.live:8080/live/marco/polo/77965.m3u8
+#EXTINF:-1,beIN Sports 3 HD
+http://landiptv.live:8080/live/marco/polo/62259.m3u8
+#EXTINF:-1,beIN Sports 4 HD
+http://landiptv.live:8080/live/marco/polo/93261.m3u8
+#EXTINF:-1,beIN Sports 5 HD
+http://landiptv.live:8080/live/marco/polo/198058.m3u8
+#EXTINF:-1,beIN Sports 6 HD
+http://landiptv.live:8080/live/marco/polo/77957.m3u8
+#EXTINF:-1,beIN Sports 7 HD
+http://landiptv.live:8080/live/marco/polo/93264.m3u8
+#EXTINF:-1,beIN Sports 8 HD
+http://landiptv.live:8080/live/marco/polo/93262.m3u8
+#EXTINF:-1,beIN Sports 9 HD
+http://landiptv.live:8080/live/marco/polo/198061.m3u8
+#EXTINF:-1,beIN Sports 10 HD
+http://landiptv.live:8080/live/marco/polo/62744.m3u8
+#EXTINF:-1,beIN Sports 12 HD
+http://landiptv.live:8080/live/marco/polo/93269.m3u8
+#EXTINF:-1,beIN Sports 13 HD
+http://landiptv.live:8080/live/marco/polo/97054.m3u8
+#EXTINF:-1,beIN Sports Max 2
+http://landiptv.live:8080/live/marco/polo/106577.m3u8
+#EXTINF:-1,beIN Sports Max 4
+http://landiptv.live:8080/live/marco/polo/65672.m3u8
+#EXTINF:-1,beIN Sports Max 5
+http://landiptv.live:8080/live/marco/polo/65671.m3u8
+#EXTINF:-1,beIN Sports Max 6
+http://landiptv.live:8080/live/marco/polo/65670.m3u8
+#EXTINF:-1,beIN Sports Max 7
+http://landiptv.live:8080/live/marco/polo/65669.m3u8
+#EXTINF:-1,beIN Sports Max 8
+http://landiptv.live:8080/live/marco/polo/65668.m3u8
+#EXTINF:-1,beIN Sports Max 9
+http://landiptv.live:8080/live/marco/polo/65667.m3u8
+#EXTINF:-1,beIN Sports Max 10
+http://landiptv.live:8080/live/marco/polo/65666.m3u8
+#EXTINF:-1,beIN Sports NBA HD
+http://landiptv.live:8080/live/marco/polo/136392.m3u8
+#EXTINF:-1,beIN Sports News HD
+http://landiptv.live:8080/live/marco/polo/62754.m3u8
+#EXTINF:-1,Beity TV
+http://landiptv.live:8080/live/marco/polo/135302.m3u8
+#EXTINF:-1,BELODY AFLAM
+http://landiptv.live:8080/live/marco/polo/135254.m3u8
+#EXTINF:-1,BELQEES
+http://landiptv.live:8080/live/marco/polo/75156.m3u8
+#EXTINF:-1,Bena TV
+http://landiptv.live:8080/live/marco/polo/196528.m3u8
+#EXTINF:-1,beoutQ 1 HD
+http://landiptv.live:8080/live/marco/polo/154549.m3u8
+#EXTINF:-1,beoutQ 2 HD
+http://landiptv.live:8080/live/marco/polo/120965.m3u8
+#EXTINF:-1,beoutQ 3 HD
+http://landiptv.live:8080/live/marco/polo/131563.m3u8
+#EXTINF:-1,beoutQ 4 HD
+http://landiptv.live:8080/live/marco/polo/131564.m3u8
+#EXTINF:-1,beoutQ 5 HD
+http://landiptv.live:8080/live/marco/polo/131565.m3u8
+#EXTINF:-1,beoutQ 6 HD
+http://landiptv.live:8080/live/marco/polo/131566.m3u8
+#EXTINF:-1,beoutQ 7 HD
+http://landiptv.live:8080/live/marco/polo/119250.m3u8
+#EXTINF:-1,Berbere Music
+http://landiptv.live:8080/live/marco/polo/105323.m3u8
+#EXTINF:-1,Berbere Television
+http://landiptv.live:8080/live/marco/polo/105322.m3u8
+#EXTINF:-1,Berbere tv
+http://landiptv.live:8080/live/marco/polo/135338.m3u8
+#EXTINF:-1,Beur TV
+http://landiptv.live:8080/live/marco/polo/101730.m3u8
+#EXTINF:-1,BoutQ 2 HD
+http://landiptv.live:8080/live/marco/polo/206799.m3u8
+#EXTINF:-1,BoutQ 3 HD
+http://landiptv.live:8080/live/marco/polo/206800.m3u8
+#EXTINF:-1,BoutQ 4 HD
+http://landiptv.live:8080/live/marco/polo/206801.m3u8
+#EXTINF:-1,BoutQ 7 HD
+http://landiptv.live:8080/live/marco/polo/206803.m3u8
+#EXTINF:-1,BOX OFFICE 1
+http://landiptv.live:8080/live/marco/polo/105381.m3u8
+#EXTINF:-1,Cairo Cine
+http://landiptv.live:8080/live/marco/polo/196515.m3u8
+#EXTINF:-1,Cairo Cinema
+http://landiptv.live:8080/live/marco/polo/113312.m3u8
+#EXTINF:-1,Cairo Drama
+http://landiptv.live:8080/live/marco/polo/75158.m3u8
+#EXTINF:-1,Canal Algerie
+http://landiptv.live:8080/live/marco/polo/113484.m3u8
+#EXTINF:-1,CANAL ALGERIE (ALG)
+http://landiptv.live:8080/live/marco/polo/63170.m3u8
+#EXTINF:-1,Canal Atlas
+http://landiptv.live:8080/live/marco/polo/105330.m3u8
+#EXTINF:-1,Carthage
+http://landiptv.live:8080/live/marco/polo/131068.m3u8
+#EXTINF:-1,Carton
+http://landiptv.live:8080/live/marco/polo/196363.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://landiptv.live:8080/live/marco/polo/89904.m3u8
+#EXTINF:-1,CATV
+http://landiptv.live:8080/live/marco/polo/135497.m3u8
+#EXTINF:-1,CBC (EGY)
+http://landiptv.live:8080/live/marco/polo/108184.m3u8
+#EXTINF:-1,Cbc Drama
+http://landiptv.live:8080/live/marco/polo/113310.m3u8
+#EXTINF:-1,CBC Extra HD
+http://landiptv.live:8080/live/marco/polo/113309.m3u8
+#EXTINF:-1,CBC HD
+http://landiptv.live:8080/live/marco/polo/63172.m3u8
+#EXTINF:-1,CBC Sofra
+http://landiptv.live:8080/live/marco/polo/113308.m3u8
+#EXTINF:-1,CGTN-Arabic
+http://landiptv.live:8080/live/marco/polo/135255.m3u8
+#EXTINF:-1,CHADA FM HD
+http://landiptv.live:8080/live/marco/polo/89762.m3u8
+#EXTINF:-1,CHADA TV HD
+http://landiptv.live:8080/live/marco/polo/135542.m3u8
+#EXTINF:-1,CHAMS TV
+http://landiptv.live:8080/live/marco/polo/135498.m3u8
+#EXTINF:-1,Charika Kabtv
+http://landiptv.live:8080/live/marco/polo/105414.m3u8
+#EXTINF:-1,Chourouk News
+http://landiptv.live:8080/live/marco/polo/105519.m3u8
+#EXTINF:-1,Chourouk TV HD
+http://landiptv.live:8080/live/marco/polo/105520.m3u8
+#EXTINF:-1,CIMA (EGY)
+http://landiptv.live:8080/live/marco/polo/108183.m3u8
+#EXTINF:-1,CIMA ALI BABA
+http://landiptv.live:8080/live/marco/polo/75160.m3u8
+#EXTINF:-1,Cima Tube
+http://landiptv.live:8080/live/marco/polo/196514.m3u8
+#EXTINF:-1,Cima TV
+http://landiptv.live:8080/live/marco/polo/75162.m3u8
+#EXTINF:-1,Cinema 1
+http://landiptv.live:8080/live/marco/polo/116762.m3u8
+#EXTINF:-1,CINEMA 1 (EGY)
+http://landiptv.live:8080/live/marco/polo/75164.m3u8
+#EXTINF:-1,Cinema 2
+http://landiptv.live:8080/live/marco/polo/116763.m3u8
+#EXTINF:-1,CINEMA 2 (EGY)
+http://landiptv.live:8080/live/marco/polo/108219.m3u8
+#EXTINF:-1,Cinema Pro
+http://landiptv.live:8080/live/marco/polo/113325.m3u8
+#EXTINF:-1,CINEMA TUBE
+http://landiptv.live:8080/live/marco/polo/75167.m3u8
+#EXTINF:-1,CIRA TV
+http://landiptv.live:8080/live/marco/polo/135353.m3u8
+#EXTINF:-1,Citruss TV
+http://landiptv.live:8080/live/marco/polo/105364.m3u8
+#EXTINF:-1,CLACKET DRAMA ZAMAN
+http://landiptv.live:8080/live/marco/polo/135303.m3u8
+#EXTINF:-1,CN Arabia Kids
+http://landiptv.live:8080/live/marco/polo/110264.m3u8
+#EXTINF:-1,CN Arabia kids new
+http://landiptv.live:8080/live/marco/polo/135501.m3u8
+#EXTINF:-1,CNA
+http://landiptv.live:8080/live/marco/polo/75168.m3u8
+#EXTINF:-1,CNBC Arabia
+http://landiptv.live:8080/live/marco/polo/146183.m3u8
+#EXTINF:-1,CNBC ARABIYA
+http://landiptv.live:8080/live/marco/polo/75169.m3u8
+#EXTINF:-1,CNN
+http://landiptv.live:8080/live/marco/polo/135502.m3u8
+#EXTINF:-1,COMEDIA
+http://landiptv.live:8080/live/marco/polo/196364.m3u8
+#EXTINF:-1,CORAN TV
+http://landiptv.live:8080/live/marco/polo/131070.m3u8
+#EXTINF:-1,CRIME & INVESTIGATION
+http://landiptv.live:8080/live/marco/polo/118523.m3u8
+#EXTINF:-1,Csat 2
+http://landiptv.live:8080/live/marco/polo/196491.m3u8
+#EXTINF:-1,CTV
+http://landiptv.live:8080/live/marco/polo/63080.m3u8
+#EXTINF:-1,Cyc 2
+http://landiptv.live:8080/live/marco/polo/113545.m3u8
+#EXTINF:-1,Daawa
+http://landiptv.live:8080/live/marco/polo/196423.m3u8
+#EXTINF:-1,Daawah
+http://landiptv.live:8080/live/marco/polo/130949.m3u8
+#EXTINF:-1,Dabanga Sudan
+http://landiptv.live:8080/live/marco/polo/146203.m3u8
+#EXTINF:-1,Dar AlIman
+http://landiptv.live:8080/live/marco/polo/113297.m3u8
+#EXTINF:-1,DARBAKA CINEMA
+http://landiptv.live:8080/live/marco/polo/146164.m3u8
+#EXTINF:-1,Dejlah
+http://landiptv.live:8080/live/marco/polo/196442.m3u8
+#EXTINF:-1,Dewan
+http://landiptv.live:8080/live/marco/polo/135503.m3u8
+#EXTINF:-1,Dijlah TV
+http://landiptv.live:8080/live/marco/polo/110242.m3u8
+#EXTINF:-1,Discovery Family HD
+http://landiptv.live:8080/live/marco/polo/118521.m3u8
+#EXTINF:-1,Discovery Science FHD
+http://landiptv.live:8080/live/marco/polo/63131.m3u8
+#EXTINF:-1,DISNEY JUNIOR
+http://landiptv.live:8080/live/marco/polo/118514.m3u8
+#EXTINF:-1,Diyalana
+http://landiptv.live:8080/live/marco/polo/135304.m3u8
+#EXTINF:-1,DjAZ
+http://landiptv.live:8080/live/marco/polo/193056.m3u8
+#EXTINF:-1,DMC Drama HD
+http://landiptv.live:8080/live/marco/polo/113317.m3u8
+#EXTINF:-1,DMC HD
+http://landiptv.live:8080/live/marco/polo/113315.m3u8
+#EXTINF:-1,DMC Kids
+http://landiptv.live:8080/live/marco/polo/135305.m3u8
+#EXTINF:-1,DMC Masraheyat
+http://landiptv.live:8080/live/marco/polo/135544.m3u8
+#EXTINF:-1,DMC News
+http://landiptv.live:8080/live/marco/polo/135306.m3u8
+#EXTINF:-1,Dmc Sports
+http://landiptv.live:8080/live/marco/polo/196513.m3u8
+#EXTINF:-1,DMC Sports (EGY)
+http://landiptv.live:8080/live/marco/polo/73334.m3u8
+#EXTINF:-1,DOLLY MOSALSALAT
+http://landiptv.live:8080/live/marco/polo/193059.m3u8
+#EXTINF:-1,Drama Plus
+http://landiptv.live:8080/live/marco/polo/111213.m3u8
+#EXTINF:-1,DREAM 1
+http://landiptv.live:8080/live/marco/polo/89273.m3u8
+#EXTINF:-1,Dream 2
+http://landiptv.live:8080/live/marco/polo/73356.m3u8
+#EXTINF:-1,Dream TV
+http://landiptv.live:8080/live/marco/polo/147380.m3u8
+#EXTINF:-1,DUBAI Drama
+http://landiptv.live:8080/live/marco/polo/193061.m3u8
+#EXTINF:-1,DUBAI HD
+http://landiptv.live:8080/live/marco/polo/63181.m3u8
+#EXTINF:-1,DUBAI NOOR
+http://landiptv.live:8080/live/marco/polo/121036.m3u8
+#EXTINF:-1,Dubai One HD
+http://landiptv.live:8080/live/marco/polo/63177.m3u8
+#EXTINF:-1,Dubai Racing 1
+http://landiptv.live:8080/live/marco/polo/63178.m3u8
+#EXTINF:-1,Dubai Racing 2
+http://landiptv.live:8080/live/marco/polo/63179.m3u8
+#EXTINF:-1,Dubai Racing 3
+http://landiptv.live:8080/live/marco/polo/135307.m3u8
+#EXTINF:-1,Dubai Sama
+http://landiptv.live:8080/live/marco/polo/118805.m3u8
+#EXTINF:-1,Dubai Sport 1 HD
+http://landiptv.live:8080/live/marco/polo/130965.m3u8
+#EXTINF:-1,Dubai Sport 2 HD
+http://landiptv.live:8080/live/marco/polo/110126.m3u8
+#EXTINF:-1,Dubai Sport 3 HD
+http://landiptv.live:8080/live/marco/polo/63180.m3u8
+#EXTINF:-1,Dubai Sport 4
+http://landiptv.live:8080/live/marco/polo/147291.m3u8
+#EXTINF:-1,Dubai Sports HD
+http://landiptv.live:8080/live/marco/polo/73335.m3u8
+#EXTINF:-1,DUBAI ZAMAN
+http://landiptv.live:8080/live/marco/polo/73357.m3u8
+#EXTINF:-1,DW Arabia
+http://landiptv.live:8080/live/marco/polo/116765.m3u8
+#EXTINF:-1,DW Arabic
+http://landiptv.live:8080/live/marco/polo/146146.m3u8
+#EXTINF:-1,Dw News
+http://landiptv.live:8080/live/marco/polo/110273.m3u8
+#EXTINF:-1,Dzaier TV
+http://landiptv.live:8080/live/marco/polo/105521.m3u8
+#EXTINF:-1,Dzair 3
+http://landiptv.live:8080/live/marco/polo/135309.m3u8
+#EXTINF:-1,Dzair 24
+http://landiptv.live:8080/live/marco/polo/135508.m3u8
+#EXTINF:-1,Dzair Jannah
+http://landiptv.live:8080/live/marco/polo/147448.m3u8
+#EXTINF:-1,Dzair News
+http://landiptv.live:8080/live/marco/polo/63182.m3u8
+#EXTINF:-1,DZAIR TV
+http://landiptv.live:8080/live/marco/polo/89799.m3u8
+#EXTINF:-1,Echorok News
+http://landiptv.live:8080/live/marco/polo/116726.m3u8
+#EXTINF:-1,Echorouk Benna
+http://landiptv.live:8080/live/marco/polo/193067.m3u8
+#EXTINF:-1,Echorouk News
+http://landiptv.live:8080/live/marco/polo/113481.m3u8
+#EXTINF:-1,ECHOROUK TV
+http://landiptv.live:8080/live/marco/polo/63183.m3u8
+#EXTINF:-1,Echorouq News
+http://landiptv.live:8080/live/marco/polo/196443.m3u8
+#EXTINF:-1,Echourouk Benna
+http://landiptv.live:8080/live/marco/polo/63184.m3u8
+#EXTINF:-1,Echourouk TV
+http://landiptv.live:8080/live/marco/polo/105313.m3u8
+#EXTINF:-1,El Bilad TV
+http://landiptv.live:8080/live/marco/polo/89795.m3u8
+#EXTINF:-1,El DJAZAIRIA TV
+http://landiptv.live:8080/live/marco/polo/63186.m3u8
+#EXTINF:-1,EL HADDAF
+http://landiptv.live:8080/live/marco/polo/121069.m3u8
+#EXTINF:-1,El Heddaf
+http://landiptv.live:8080/live/marco/polo/196371.m3u8
+#EXTINF:-1,EL HIWAR ETTOUNISI TV 3
+http://landiptv.live:8080/live/marco/polo/118411.m3u8
+#EXTINF:-1,El Mahadra
+http://landiptv.live:8080/live/marco/polo/147328.m3u8
+#EXTINF:-1,El Mahadra (MR)
+http://landiptv.live:8080/live/marco/polo/135573.m3u8
+#EXTINF:-1,El Mehwar
+http://landiptv.live:8080/live/marco/polo/196531.m3u8
+#EXTINF:-1,El Moled TV
+http://landiptv.live:8080/live/marco/polo/147394.m3u8
+#EXTINF:-1,El sharq TV
+http://landiptv.live:8080/live/marco/polo/73360.m3u8
+#EXTINF:-1,ElFADJR TV DZ
+http://landiptv.live:8080/live/marco/polo/135512.m3u8
+#EXTINF:-1,Elhiwar Ettounsi TV
+http://landiptv.live:8080/live/marco/polo/113466.m3u8
+#EXTINF:-1,Elmourabiton TV (MR)
+http://landiptv.live:8080/live/marco/polo/135575.m3u8
+#EXTINF:-1,Elmouritania
+http://landiptv.live:8080/live/marco/polo/148558.m3u8
+#EXTINF:-1,ELMOURITANIA (MR)
+http://landiptv.live:8080/live/marco/polo/135578.m3u8
+#EXTINF:-1,Elmouritania 2
+http://landiptv.live:8080/live/marco/polo/148559.m3u8
+#EXTINF:-1,Elwatania Tv
+http://landiptv.live:8080/live/marco/polo/148560.m3u8
+#EXTINF:-1,Ennahar
+http://landiptv.live:8080/live/marco/polo/193070.m3u8
+#EXTINF:-1,Ennahar Algerie
+http://landiptv.live:8080/live/marco/polo/147447.m3u8
+#EXTINF:-1,ENNAHAR ONE
+http://landiptv.live:8080/live/marco/polo/131074.m3u8
+#EXTINF:-1,Ennahar TV Algeria HQ
+http://landiptv.live:8080/live/marco/polo/143729.m3u8
+#EXTINF:-1,ENTV Algerie
+http://landiptv.live:8080/live/marco/polo/196370.m3u8
+#EXTINF:-1,ENTV Algerie National
+http://landiptv.live:8080/live/marco/polo/147445.m3u8
+#EXTINF:-1,ENTV TERRESTRE DZ
+http://landiptv.live:8080/live/marco/polo/118391.m3u8
+#EXTINF:-1,Eriteria TV
+http://landiptv.live:8080/live/marco/polo/135257.m3u8
+#EXTINF:-1,ES TV
+http://landiptv.live:8080/live/marco/polo/135258.m3u8
+#EXTINF:-1,Esc
+http://landiptv.live:8080/live/marco/polo/148570.m3u8
+#EXTINF:-1,ETIHAD TV
+http://landiptv.live:8080/live/marco/polo/90080.m3u8
+#EXTINF:-1,Euro News
+http://landiptv.live:8080/live/marco/polo/129773.m3u8
+#EXTINF:-1,EURONEWS Arabic
+http://landiptv.live:8080/live/marco/polo/196407.m3u8
+#EXTINF:-1,Extra News
+http://landiptv.live:8080/live/marco/polo/118811.m3u8
+#EXTINF:-1,Fadjr TV
+http://landiptv.live:8080/live/marco/polo/105324.m3u8
+#EXTINF:-1,Falastiniah TV
+http://landiptv.live:8080/live/marco/polo/148561.m3u8
+#EXTINF:-1,FAMILY DRAMA
+http://landiptv.live:8080/live/marco/polo/135312.m3u8
+#EXTINF:-1,FATAFEAT
+http://landiptv.live:8080/live/marco/polo/124752.m3u8
+#EXTINF:-1,Fayrouz
+http://landiptv.live:8080/live/marco/polo/196545.m3u8
+#EXTINF:-1,FDF
+http://landiptv.live:8080/live/marco/polo/135538.m3u8
+#EXTINF:-1,First HBO
+http://landiptv.live:8080/live/marco/polo/158848.m3u8
+#EXTINF:-1,FIRST TV
+http://landiptv.live:8080/live/marco/polo/101182.m3u8
+#EXTINF:-1,FOX MOVIES ACTION
+http://landiptv.live:8080/live/marco/polo/124754.m3u8
+#EXTINF:-1,FOX MOVIES HD
+http://landiptv.live:8080/live/marco/polo/124755.m3u8
+#EXTINF:-1,France 24
+http://landiptv.live:8080/live/marco/polo/105412.m3u8
+#EXTINF:-1,Free TV
+http://landiptv.live:8080/live/marco/polo/135259.m3u8
+#EXTINF:-1,Freedom TV
+http://landiptv.live:8080/live/marco/polo/135354.m3u8
+#EXTINF:-1,Fujairah
+http://landiptv.live:8080/live/marco/polo/196546.m3u8
+#EXTINF:-1,FUNOON TV
+http://landiptv.live:8080/live/marco/polo/73370.m3u8
+#EXTINF:-1,Future Lebanon
+http://landiptv.live:8080/live/marco/polo/146129.m3u8
+#EXTINF:-1,FUTURE TV
+http://landiptv.live:8080/live/marco/polo/110241.m3u8
+#EXTINF:-1,GM ALWAN HD
+http://landiptv.live:8080/live/marco/polo/147503.m3u8
+#EXTINF:-1,GM CHAABI
+http://landiptv.live:8080/live/marco/polo/89769.m3u8
+#EXTINF:-1,GM COMEDIA
+http://landiptv.live:8080/live/marco/polo/89766.m3u8
+#EXTINF:-1,GM MOVIES
+http://landiptv.live:8080/live/marco/polo/147504.m3u8
+#EXTINF:-1,GM MUSIC TV HD
+http://landiptv.live:8080/live/marco/polo/147505.m3u8
+#EXTINF:-1,GM RAP ARAB
+http://landiptv.live:8080/live/marco/polo/89773.m3u8
+#EXTINF:-1,GREEN LIFELocal
+http://landiptv.live:8080/live/marco/polo/193072.m3u8
+#EXTINF:-1,Hala Palestine
+http://landiptv.live:8080/live/marco/polo/110284.m3u8
+#EXTINF:-1,HALA TV
+http://landiptv.live:8080/live/marco/polo/147506.m3u8
+#EXTINF:-1,Halab Today TV
+http://landiptv.live:8080/live/marco/polo/196393.m3u8
+#EXTINF:-1,HALABA TV
+http://landiptv.live:8080/live/marco/polo/89944.m3u8
+#EXTINF:-1,HANIBAL TV
+http://landiptv.live:8080/live/marco/polo/116675.m3u8
+#EXTINF:-1,HAREEM ELSULTAN
+http://landiptv.live:8080/live/marco/polo/73374.m3u8
+#EXTINF:-1,HAWACOM TV
+http://landiptv.live:8080/live/marco/polo/108021.m3u8
+#EXTINF:-1,HAWAS TV
+http://landiptv.live:8080/live/marco/polo/135515.m3u8
+#EXTINF:-1,Hekayat
+http://landiptv.live:8080/live/marco/polo/135516.m3u8
+#EXTINF:-1,Hekayat2
+http://landiptv.live:8080/live/marco/polo/135517.m3u8
+#EXTINF:-1,Heya TV
+http://landiptv.live:8080/live/marco/polo/73377.m3u8
+#EXTINF:-1,HISTORY 2 HD
+http://landiptv.live:8080/live/marco/polo/118528.m3u8
+#EXTINF:-1,HISTORY HD
+http://landiptv.live:8080/live/marco/polo/118527.m3u8
+#EXTINF:-1,Hod Hod TV
+http://landiptv.live:8080/live/marco/polo/135559.m3u8
+#EXTINF:-1,HodHod Kids
+http://landiptv.live:8080/live/marco/polo/143733.m3u8
+#EXTINF:-1,Hodhood
+http://landiptv.live:8080/live/marco/polo/196415.m3u8
+#EXTINF:-1,Hona alquds
+http://landiptv.live:8080/live/marco/polo/110185.m3u8
+#EXTINF:-1,Hona Baghdad
+http://landiptv.live:8080/live/marco/polo/124938.m3u8
+#EXTINF:-1,Huda TV
+http://landiptv.live:8080/live/marco/polo/108023.m3u8
+#EXTINF:-1,I film Arabic
+http://landiptv.live:8080/live/marco/polo/135260.m3u8
+#EXTINF:-1,I24 News
+http://landiptv.live:8080/live/marco/polo/147474.m3u8
+#EXTINF:-1,IMAGINE MOVIES
+http://landiptv.live:8080/live/marco/polo/73379.m3u8
+#EXTINF:-1,Iqraa Arabic
+http://landiptv.live:8080/live/marco/polo/63192.m3u8
+#EXTINF:-1,Iqraa Pakistan
+http://landiptv.live:8080/live/marco/polo/196469.m3u8
+#EXTINF:-1,Iraq Future
+http://landiptv.live:8080/live/marco/polo/135565.m3u8
+#EXTINF:-1,Iraq Now
+http://landiptv.live:8080/live/marco/polo/135518.m3u8
+#EXTINF:-1,Iraqi Education
+http://landiptv.live:8080/live/marco/polo/135899.m3u8
+#EXTINF:-1,IRAQI Sport
+http://landiptv.live:8080/live/marco/polo/118813.m3u8
+#EXTINF:-1,Iraqiya TV
+http://landiptv.live:8080/live/marco/polo/196444.m3u8
+#EXTINF:-1,Ishtar
+http://landiptv.live:8080/live/marco/polo/110237.m3u8
+#EXTINF:-1,IUC
+http://landiptv.live:8080/live/marco/polo/63079.m3u8
+#EXTINF:-1,Jeem TV
+http://landiptv.live:8080/live/marco/polo/94438.m3u8
+#EXTINF:-1,JORDAN ADWAA
+http://landiptv.live:8080/live/marco/polo/193079.m3u8
+#EXTINF:-1,Jordan Amen
+http://landiptv.live:8080/live/marco/polo/147355.m3u8
+#EXTINF:-1,Jordan HD
+http://landiptv.live:8080/live/marco/polo/73383.m3u8
+#EXTINF:-1,Jordan Manaseer
+http://landiptv.live:8080/live/marco/polo/148564.m3u8
+#EXTINF:-1,Jordan Mubasher
+http://landiptv.live:8080/live/marco/polo/147356.m3u8
+#EXTINF:-1,Jordan Ro2ya
+http://landiptv.live:8080/live/marco/polo/110155.m3u8
+#EXTINF:-1,Jordan Sports
+http://landiptv.live:8080/live/marco/polo/73338.m3u8
+#EXTINF:-1,K24
+http://landiptv.live:8080/live/marco/polo/135521.m3u8
+#EXTINF:-1,Kaifa Islam
+http://landiptv.live:8080/live/marco/polo/146169.m3u8
+#EXTINF:-1,KANA TV
+http://landiptv.live:8080/live/marco/polo/135522.m3u8
+#EXTINF:-1,Karameesh Kids
+http://landiptv.live:8080/live/marco/polo/63193.m3u8
+#EXTINF:-1,Karbala TV
+http://landiptv.live:8080/live/marco/polo/110087.m3u8
+#EXTINF:-1,Karma TV
+http://landiptv.live:8080/live/marco/polo/113408.m3u8
+#EXTINF:-1,Kassala TV
+http://landiptv.live:8080/live/marco/polo/110167.m3u8
+#EXTINF:-1,KBC
+http://landiptv.live:8080/live/marco/polo/121604.m3u8
+#EXTINF:-1,Koky Kids TV
+http://landiptv.live:8080/live/marco/polo/135262.m3u8
+#EXTINF:-1,Kol Alnas TV
+http://landiptv.live:8080/live/marco/polo/105356.m3u8
+#EXTINF:-1,KSA Sport 1
+http://landiptv.live:8080/live/marco/polo/135339.m3u8
+#EXTINF:-1,KSA Sport 2 HD
+http://landiptv.live:8080/live/marco/polo/131080.m3u8
+#EXTINF:-1,KSA SPORTS 2 + HD
+http://landiptv.live:8080/live/marco/polo/131082.m3u8
+#EXTINF:-1,KTV 1
+http://landiptv.live:8080/live/marco/polo/90098.m3u8
+#EXTINF:-1,KTV 2
+http://landiptv.live:8080/live/marco/polo/90099.m3u8
+#EXTINF:-1,Ktv Al Arabi
+http://landiptv.live:8080/live/marco/polo/135560.m3u8
+#EXTINF:-1,KTV Ethraa
+http://landiptv.live:8080/live/marco/polo/73392.m3u8
+#EXTINF:-1,Ktv Plus
+http://landiptv.live:8080/live/marco/polo/148550.m3u8
+#EXTINF:-1,KTV quran
+http://landiptv.live:8080/live/marco/polo/135345.m3u8
+#EXTINF:-1,KTV s.plus
+http://landiptv.live:8080/live/marco/polo/135346.m3u8
+#EXTINF:-1,KTV SPORT HD
+http://landiptv.live:8080/live/marco/polo/73339.m3u8
+#EXTINF:-1,Kuwait 1 HD
+http://landiptv.live:8080/live/marco/polo/95759.m3u8
+#EXTINF:-1,Kuwait 2
+http://landiptv.live:8080/live/marco/polo/63195.m3u8
+#EXTINF:-1,Kuwait Alarabi HD
+http://landiptv.live:8080/live/marco/polo/146186.m3u8
+#EXTINF:-1,Kuwait Ethraa HD
+http://landiptv.live:8080/live/marco/polo/146187.m3u8
+#EXTINF:-1,Kuwait Plus
+http://landiptv.live:8080/live/marco/polo/110156.m3u8
+#EXTINF:-1,Kuwait Sport HD
+http://landiptv.live:8080/live/marco/polo/95761.m3u8
+#EXTINF:-1,Kuwait Sport Live HD
+http://landiptv.live:8080/live/marco/polo/146188.m3u8
+#EXTINF:-1,Kuwait Sport Plus
+http://landiptv.live:8080/live/marco/polo/95762.m3u8
+#EXTINF:-1,Kuwait TV3
+http://landiptv.live:8080/live/marco/polo/146173.m3u8
+#EXTINF:-1,Kuwait TV4
+http://landiptv.live:8080/live/marco/polo/146175.m3u8
+#EXTINF:-1,Lana
+http://landiptv.live:8080/live/marco/polo/108027.m3u8
+#EXTINF:-1,LBC HD
+http://landiptv.live:8080/live/marco/polo/113287.m3u8
+#EXTINF:-1,LBC Sat
+http://landiptv.live:8080/live/marco/polo/146128.m3u8
+#EXTINF:-1,LCD MOVIES
+http://landiptv.live:8080/live/marco/polo/135263.m3u8
+#EXTINF:-1,LDC Lebanon
+http://landiptv.live:8080/live/marco/polo/63198.m3u8
+#EXTINF:-1,LDC Movies
+http://landiptv.live:8080/live/marco/polo/193088.m3u8
+#EXTINF:-1,Lebanon TV
+http://landiptv.live:8080/live/marco/polo/63199.m3u8
+#EXTINF:-1,Libya 1
+http://landiptv.live:8080/live/marco/polo/63200.m3u8
+#EXTINF:-1,LIBYA 218
+http://landiptv.live:8080/live/marco/polo/73395.m3u8
+#EXTINF:-1,Libya 218 NEWS
+http://landiptv.live:8080/live/marco/polo/114699.m3u8
+#EXTINF:-1,Libya 24
+http://landiptv.live:8080/live/marco/polo/73396.m3u8
+#EXTINF:-1,LIBYA AL MARAH
+http://landiptv.live:8080/live/marco/polo/98434.m3u8
+#EXTINF:-1,Libya Al-Ahrar TV
+http://landiptv.live:8080/live/marco/polo/135265.m3u8
+#EXTINF:-1,libya Alhadath
+http://landiptv.live:8080/live/marco/polo/196425.m3u8
+#EXTINF:-1,LIBYA ALRASMEYA
+http://landiptv.live:8080/live/marco/polo/73399.m3u8
+#EXTINF:-1,Libya Alwatan
+http://landiptv.live:8080/live/marco/polo/196426.m3u8
+#EXTINF:-1,Libya Alwatanya
+http://landiptv.live:8080/live/marco/polo/110179.m3u8
+#EXTINF:-1,LIBYA CHANNEL
+http://landiptv.live:8080/live/marco/polo/73404.m3u8
+#EXTINF:-1,Libya Elwatan
+http://landiptv.live:8080/live/marco/polo/193090.m3u8
+#EXTINF:-1,Libya Future TV
+http://landiptv.live:8080/live/marco/polo/196427.m3u8
+#EXTINF:-1,Libya Hadath TV
+http://landiptv.live:8080/live/marco/polo/114697.m3u8
+#EXTINF:-1,Libya News
+http://landiptv.live:8080/live/marco/polo/196428.m3u8
+#EXTINF:-1,LIBYA ONE
+http://landiptv.live:8080/live/marco/polo/63201.m3u8
+#EXTINF:-1,Libya Panorama TV
+http://landiptv.live:8080/live/marco/polo/73402.m3u8
+#EXTINF:-1,LIBYA RASMIA
+http://landiptv.live:8080/live/marco/polo/98435.m3u8
+#EXTINF:-1,Libya Sport Channel
+http://landiptv.live:8080/live/marco/polo/113486.m3u8
+#EXTINF:-1,LIBYA WAAD FM
+http://landiptv.live:8080/live/marco/polo/131040.m3u8
+#EXTINF:-1,Logos TV
+http://landiptv.live:8080/live/marco/polo/73406.m3u8
+#EXTINF:-1,M CINEMA
+http://landiptv.live:8080/live/marco/polo/193091.m3u8
+#EXTINF:-1,M Classic
+http://landiptv.live:8080/live/marco/polo/135545.m3u8
+#EXTINF:-1,M TUNISIA
+http://landiptv.live:8080/live/marco/polo/113465.m3u8
+#EXTINF:-1,Maan News
+http://landiptv.live:8080/live/marco/polo/105355.m3u8
+#EXTINF:-1,Maan TV
+http://landiptv.live:8080/live/marco/polo/73411.m3u8
+#EXTINF:-1,Majd
+http://landiptv.live:8080/live/marco/polo/135316.m3u8
+#EXTINF:-1,Majid Kids TV
+http://landiptv.live:8080/live/marco/polo/63202.m3u8
+#EXTINF:-1,Makkah TV
+http://landiptv.live:8080/live/marco/polo/63402.m3u8
+#EXTINF:-1,MANAR
+http://landiptv.live:8080/live/marco/polo/129412.m3u8
+#EXTINF:-1,Mara7 TV
+http://landiptv.live:8080/live/marco/polo/135317.m3u8
+#EXTINF:-1,Marah TV
+http://landiptv.live:8080/live/marco/polo/196399.m3u8
+#EXTINF:-1,MARJAEYAT 2
+http://landiptv.live:8080/live/marco/polo/193093.m3u8
+#EXTINF:-1,Masdar TV
+http://landiptv.live:8080/live/marco/polo/147428.m3u8
+#EXTINF:-1,Maspero Zaman
+http://landiptv.live:8080/live/marco/polo/73417.m3u8
+#EXTINF:-1,MASR ALHAYAH
+http://landiptv.live:8080/live/marco/polo/121083.m3u8
+#EXTINF:-1,Mazazikh TV
+http://landiptv.live:8080/live/marco/polo/147387.m3u8
+#EXTINF:-1,MAZIKA HITS
+http://landiptv.live:8080/live/marco/polo/193095.m3u8
+#EXTINF:-1,MAZIKA TV
+http://landiptv.live:8080/live/marco/polo/105434.m3u8
+#EXTINF:-1,Mazzika1
+http://landiptv.live:8080/live/marco/polo/196504.m3u8
+#EXTINF:-1,MBC 1 HD
+http://landiptv.live:8080/live/marco/polo/156682.m3u8
+#EXTINF:-1,MBC 2 HD
+http://landiptv.live:8080/live/marco/polo/156683.m3u8
+#EXTINF:-1,MBC 3 HD
+http://landiptv.live:8080/live/marco/polo/156684.m3u8
+#EXTINF:-1,MBC 4 HD
+http://landiptv.live:8080/live/marco/polo/111217.m3u8
 #EXTINF:-1,MBC Action HD
-http://m-iptv.net:6204/mme/123/24
-#EXTINF:-1,MBC Drama HD
-http://m-iptv.net:6204/mme/123/48
-#EXTINF:-1,MBC Drama+ HD
-http://m-iptv.net:6204/mme/123/2690
-#EXTINF:-1,MBC Variety HD
-http://m-iptv.net:6204/mme/123/2001
+http://landiptv.live:8080/live/marco/polo/111218.m3u8
 #EXTINF:-1,MBC Bollywood HD
-http://m-iptv.net:6204/mme/123/9301
-#EXTINF:-1,MBC Masr
-http://m-iptv.net:6204/mme/123/2186
-#EXTINF:-1,MBC Masir 2
-http://m-iptv.net:6204/mme/123/178
-#EXTINF:-1,FX HD
-http://m-iptv.net:6204/mme/123/2695
-#EXTINF:-1,Fox Life HD
-http://m-iptv.net:6204/mme/123/10154
-#EXTINF:-1,Fox Crime HD
-http://m-iptv.net:6204/mme/123/10155
-#EXTINF:-1,Fox Rewayat HD
-http://m-iptv.net:6204/mme/123/10153
-#EXTINF:-1,Fox Action Movies HD
-http://m-iptv.net:6204/mme/123/2696
-#EXTINF:-1,Fox Family Movies HD
-http://m-iptv.net:6204/mme/123/2691
-#EXTINF:-1,Documentary Bil Arabie
-http://m-iptv.net:6204/mme/123/9588
-#EXTINF:-1,My Cinema HD
-http://m-iptv.net:6204/mme/123/2692
-#EXTINF:-1,DocuBox HD
-http://m-iptv.net:6204/mme/123/3238
-#EXTINF:-1,ITV Choice HD
-http://m-iptv.net:6204/mme/123/13499
-#EXTINF:-1,Al Nahar HD
-http://m-iptv.net:6204/mme/123/2703
-#EXTINF:-1,Al Nahar Drama HD
-http://m-iptv.net:6204/mme/123/2701
-#EXTINF:-1,Music Tropical HD
-http://m-iptv.net:6204/mme/123/2699
-#EXTINF:-1,Music Always HD
-http://m-iptv.net:6204/mme/123/2698
-#EXTINF:-1,Planet Earth HD
-http://m-iptv.net:6204/mme/123/7585
-#EXTINF:-1,Bein Baraem HD
-http://m-iptv.net:6204/mme/123/2715
-#EXTINF:-1,Bein Jeem HD
-http://m-iptv.net:6204/mme/123/2713
-#EXTINF:-1,Bein Bejunior HD
-http://m-iptv.net:6204/mme/123/4760
-#EXTINF:-1,Bein Discovery Kids HD
-http://m-iptv.net:6204/mme/123/9027
-#EXTINF:-1,Bein Boomerang HD
-http://m-iptv.net:6204/mme/123/9029
-#EXTINF:-1,Bein Cartoon Network HD
-http://m-iptv.net:6204/mme/123/10152
-#EXTINF:-1,Cinemachi Kids
-http://m-iptv.net:6204/mme/123/2705
-#EXTINF:-1,Gulli Bil Arabic HD
-http://m-iptv.net:6204/mme/123/2700
-#EXTINF:-1,Laab wa Jad HD
-http://m-iptv.net:6204/mme/123/13440
-#EXTINF:-1,OSN Movies Kids HD
-http://m-iptv.net:6204/mme/123/4055
-#EXTINF:-1,OSN Nickelodeon HD
-http://m-iptv.net:6204/mme/123/8998
+http://landiptv.live:8080/live/marco/polo/63209.m3u8
+#EXTINF:-1,MBC Drama HD
+http://landiptv.live:8080/live/marco/polo/94409.m3u8
+#EXTINF:-1,MBC Drama+ HD
+http://landiptv.live:8080/live/marco/polo/206329.m3u8
+#EXTINF:-1,MBC Masr 1
+http://landiptv.live:8080/live/marco/polo/147373.m3u8
+#EXTINF:-1,MBC MASR 2
+http://landiptv.live:8080/live/marco/polo/73421.m3u8
+#EXTINF:-1,MBC MASR HD
+http://landiptv.live:8080/live/marco/polo/63130.m3u8
+#EXTINF:-1,MBC Max HD
+http://landiptv.live:8080/live/marco/polo/63212.m3u8
+#EXTINF:-1,MBC Pro Sport 1
+http://landiptv.live:8080/live/marco/polo/196385.m3u8
+#EXTINF:-1,MBC Pro Sport 2
+http://landiptv.live:8080/live/marco/polo/196386.m3u8
+#EXTINF:-1,MBC Sports Pro 1 HD
+http://landiptv.live:8080/live/marco/polo/126201.m3u8
+#EXTINF:-1,MBC SPORTS Pro 3 HD
+http://landiptv.live:8080/live/marco/polo/143732.m3u8
+#EXTINF:-1,MBC VARIETY HD
+http://landiptv.live:8080/live/marco/polo/89852.m3u8
+#EXTINF:-1,MBC+ Drama HD
+http://landiptv.live:8080/live/marco/polo/118442.m3u8
+#EXTINF:-1,MBC+ DRAMA HD 2
+http://landiptv.live:8080/live/marco/polo/118443.m3u8
+#EXTINF:-1,MBC+ Variety
+http://landiptv.live:8080/live/marco/polo/121018.m3u8
+#EXTINF:-1,MD
+http://landiptv.live:8080/live/marco/polo/193101.m3u8
+#EXTINF:-1,Mecca Quran
+http://landiptv.live:8080/live/marco/polo/113532.m3u8
+#EXTINF:-1,Mecca TV
+http://landiptv.live:8080/live/marco/polo/108032.m3u8
+#EXTINF:-1,Medi 1 Sat
+http://landiptv.live:8080/live/marco/polo/98442.m3u8
+#EXTINF:-1,Medi 1 TV HD
+http://landiptv.live:8080/live/marco/polo/63216.m3u8
+#EXTINF:-1,MEDI1 TV AFRIQUE HD
+http://landiptv.live:8080/live/marco/polo/147501.m3u8
+#EXTINF:-1,Mehwar
+http://landiptv.live:8080/live/marco/polo/116665.m3u8
+#EXTINF:-1,MEKAMELEEN TV
+http://landiptv.live:8080/live/marco/polo/73424.m3u8
+#EXTINF:-1,Mekke Saudi Quran
+http://landiptv.live:8080/live/marco/polo/196487.m3u8
+#EXTINF:-1,MELODY CINEMA
+http://landiptv.live:8080/live/marco/polo/121084.m3u8
+#EXTINF:-1,MELODY CLASSIC
+http://landiptv.live:8080/live/marco/polo/73425.m3u8
+#EXTINF:-1,Melody Hits
+http://landiptv.live:8080/live/marco/polo/110113.m3u8
+#EXTINF:-1,Menhag Al Nouboua
+http://landiptv.live:8080/live/marco/polo/196472.m3u8
+#EXTINF:-1,MESAT HD
+http://landiptv.live:8080/live/marco/polo/63078.m3u8
+#EXTINF:-1,Mesrawiya Aflam
+http://landiptv.live:8080/live/marco/polo/105348.m3u8
+#EXTINF:-1,Mickey Channel
+http://landiptv.live:8080/live/marco/polo/147388.m3u8
+#EXTINF:-1,MINBIJ
+http://landiptv.live:8080/live/marco/polo/147344.m3u8
+#EXTINF:-1,Miracle TV
+http://landiptv.live:8080/live/marco/polo/73427.m3u8
+#EXTINF:-1,Modern Sport
+http://landiptv.live:8080/live/marco/polo/193105.m3u8
+#EXTINF:-1,Mody Kids
+http://landiptv.live:8080/live/marco/polo/147389.m3u8
+#EXTINF:-1,MOGA COMEDY TV
+http://landiptv.live:8080/live/marco/polo/63218.m3u8
+#EXTINF:-1,Moroco 1 Alaoula
+http://landiptv.live:8080/live/marco/polo/110145.m3u8
+#EXTINF:-1,Moroco 3 Arriadia
+http://landiptv.live:8080/live/marco/polo/110146.m3u8
+#EXTINF:-1,Moroco 4 Arrabiaa
+http://landiptv.live:8080/live/marco/polo/110147.m3u8
+#EXTINF:-1,Moroco 6 Assadissa
+http://landiptv.live:8080/live/marco/polo/110148.m3u8
+#EXTINF:-1,Moroco 8 Tamazight
+http://landiptv.live:8080/live/marco/polo/110149.m3u8
+#EXTINF:-1,Moroco Medi 1TV
+http://landiptv.live:8080/live/marco/polo/110165.m3u8
+#EXTINF:-1,MOSALSALAT TUBE
+http://landiptv.live:8080/live/marco/polo/73432.m3u8
+#EXTINF:-1,Movies Box Office 1
+http://landiptv.live:8080/live/marco/polo/158861.m3u8
+#EXTINF:-1,Movies Box Office 2
+http://landiptv.live:8080/live/marco/polo/158862.m3u8
+#EXTINF:-1,MOVIES COMEDY HD
+http://landiptv.live:8080/live/marco/polo/89293.m3u8
+#EXTINF:-1,MOVIES DRAMA
+http://landiptv.live:8080/live/marco/polo/158853.m3u8
+#EXTINF:-1,Movies Family HD
+http://landiptv.live:8080/live/marco/polo/158850.m3u8
+#EXTINF:-1,MOVIES HD
+http://landiptv.live:8080/live/marco/polo/158854.m3u8
+#EXTINF:-1,Movies thriller
+http://landiptv.live:8080/live/marco/polo/158844.m3u8
+#EXTINF:-1,Mta International
+http://landiptv.live:8080/live/marco/polo/147460.m3u8
+#EXTINF:-1,MTV HD
+http://landiptv.live:8080/live/marco/polo/102125.m3u8
+#EXTINF:-1,MTV Lebanon
+http://landiptv.live:8080/live/marco/polo/206416.m3u8
+#EXTINF:-1,Musawa TV
+http://landiptv.live:8080/live/marco/polo/73436.m3u8
+#EXTINF:-1,Music Alhanen
+http://landiptv.live:8080/live/marco/polo/135269.m3u8
+#EXTINF:-1,Music HD
+http://landiptv.live:8080/live/marco/polo/196366.m3u8
+#EXTINF:-1,Music Sha3by TV
+http://landiptv.live:8080/live/marco/polo/135270.m3u8
+#EXTINF:-1,MUSTAKILLAH
+http://landiptv.live:8080/live/marco/polo/193107.m3u8
+#EXTINF:-1,Muzicana
+http://landiptv.live:8080/live/marco/polo/196367.m3u8
+#EXTINF:-1,MY FX HD
+http://landiptv.live:8080/live/marco/polo/120733.m3u8
+#EXTINF:-1,MyHD Cinemachi Kids HD
+http://landiptv.live:8080/live/marco/polo/115949.m3u8
+#EXTINF:-1,MyHD FilmBox FHD
+http://landiptv.live:8080/live/marco/polo/78047.m3u8
+#EXTINF:-1,MyHD FOX Family Movies FHD
+http://landiptv.live:8080/live/marco/polo/78044.m3u8
+#EXTINF:-1,MyHD Fox Movies HD
+http://landiptv.live:8080/live/marco/polo/78041.m3u8
+#EXTINF:-1,MyHD FX HD
+http://landiptv.live:8080/live/marco/polo/78040.m3u8
+#EXTINF:-1,MyHD GULLI ARABIC
+http://landiptv.live:8080/live/marco/polo/78039.m3u8
+#EXTINF:-1,MyHD Home Cinema 1
+http://landiptv.live:8080/live/marco/polo/131768.m3u8
+#EXTINF:-1,MyHD MBC 1 HD
+http://landiptv.live:8080/live/marco/polo/78069.m3u8
+#EXTINF:-1,MyHD MBC 2 HD
+http://landiptv.live:8080/live/marco/polo/78068.m3u8
+#EXTINF:-1,MyHD MBC 3 HD
+http://landiptv.live:8080/live/marco/polo/78067.m3u8
+#EXTINF:-1,MyHD MBC 4 HD
+http://landiptv.live:8080/live/marco/polo/78066.m3u8
+#EXTINF:-1,MyHD MBC Action HD
+http://landiptv.live:8080/live/marco/polo/78064.m3u8
+#EXTINF:-1,MyHD MBC Drama HD
+http://landiptv.live:8080/live/marco/polo/78062.m3u8
+#EXTINF:-1,MyHD MBC MAX HD
+http://landiptv.live:8080/live/marco/polo/78061.m3u8
+#EXTINF:-1,MyHD MBC+ Variety HD
+http://landiptv.live:8080/live/marco/polo/110900.m3u8
+#EXTINF:-1,MyHD My Home Cinema 2
+http://landiptv.live:8080/live/marco/polo/131769.m3u8
+#EXTINF:-1,MyHD My Home Cinema 3
+http://landiptv.live:8080/live/marco/polo/131770.m3u8
+#EXTINF:-1,MyHD My Home Cinema 4
+http://landiptv.live:8080/live/marco/polo/131771.m3u8
+#EXTINF:-1,MyHD My Home Cinema 5
+http://landiptv.live:8080/live/marco/polo/131772.m3u8
+#EXTINF:-1,MyHD My Home Cinema 6
+http://landiptv.live:8080/live/marco/polo/146104.m3u8
+#EXTINF:-1,MyHD Quest HD
+http://landiptv.live:8080/live/marco/polo/140675.m3u8
+#EXTINF:-1,MyHD Rotana Cinema HD
+http://landiptv.live:8080/live/marco/polo/110903.m3u8
+#EXTINF:-1,MyHD Rotana Khalijia
+http://landiptv.live:8080/live/marco/polo/111161.m3u8
+#EXTINF:-1,MyHD Rotana Masriya
+http://landiptv.live:8080/live/marco/polo/110905.m3u8
+#EXTINF:-1,MyHD Rotana Music
+http://landiptv.live:8080/live/marco/polo/110906.m3u8
+#EXTINF:-1,MyHD STAR WORLD HD
+http://landiptv.live:8080/live/marco/polo/163278.m3u8
+#EXTINF:-1,MyHD Wow Sport HD
+http://landiptv.live:8080/live/marco/polo/78016.m3u8
+#EXTINF:-1,Mystro TV
+http://landiptv.live:8080/live/marco/polo/147370.m3u8
+#EXTINF:-1,NABA TV
+http://landiptv.live:8080/live/marco/polo/63220.m3u8
+#EXTINF:-1,Nabaa TV
+http://landiptv.live:8080/live/marco/polo/116672.m3u8
+#EXTINF:-1,NAHAR DRAMA
+http://landiptv.live:8080/live/marco/polo/63221.m3u8
+#EXTINF:-1,Nahar One
+http://landiptv.live:8080/live/marco/polo/196509.m3u8
+#EXTINF:-1,NAT GEO HD
+http://landiptv.live:8080/live/marco/polo/63222.m3u8
+#EXTINF:-1,NAT GEO Kids
+http://landiptv.live:8080/live/marco/polo/135321.m3u8
+#EXTINF:-1,NAT GEO People HD
+http://landiptv.live:8080/live/marco/polo/117717.m3u8
+#EXTINF:-1,NAT GEO Wild HD
+http://landiptv.live:8080/live/marco/polo/68217.m3u8
+#EXTINF:-1,NATIONAL 1
+http://landiptv.live:8080/live/marco/polo/101173.m3u8
+#EXTINF:-1,NATIONAL 2
+http://landiptv.live:8080/live/marco/polo/101172.m3u8
+#EXTINF:-1,Naynaw Alghad
+http://landiptv.live:8080/live/marco/polo/196493.m3u8
+#EXTINF:-1,NBN TV HD
+http://landiptv.live:8080/live/marco/polo/73441.m3u8
+#EXTINF:-1,Neelain Sport
+http://landiptv.live:8080/live/marco/polo/147333.m3u8
+#EXTINF:-1,Nessma TV
+http://landiptv.live:8080/live/marco/polo/63102.m3u8
+#EXTINF:-1,Nile Cinema
+http://landiptv.live:8080/live/marco/polo/113342.m3u8
+#EXTINF:-1,Nile Comedy
+http://landiptv.live:8080/live/marco/polo/110107.m3u8
+#EXTINF:-1,Nile Culture
+http://landiptv.live:8080/live/marco/polo/73444.m3u8
+#EXTINF:-1,Nile Drama
+http://landiptv.live:8080/live/marco/polo/113340.m3u8
+#EXTINF:-1,Nile Family
+http://landiptv.live:8080/live/marco/polo/73445.m3u8
+#EXTINF:-1,Nile Life
+http://landiptv.live:8080/live/marco/polo/113338.m3u8
+#EXTINF:-1,Nile News
+http://landiptv.live:8080/live/marco/polo/73446.m3u8
+#EXTINF:-1,Nile Sports
+http://landiptv.live:8080/live/marco/polo/100437.m3u8
+#EXTINF:-1,Nile TV
+http://landiptv.live:8080/live/marco/polo/129776.m3u8
+#EXTINF:-1,NILESAT COMEDY
+http://landiptv.live:8080/live/marco/polo/114447.m3u8
+#EXTINF:-1,NILESAT CULTURE
+http://landiptv.live:8080/live/marco/polo/114448.m3u8
+#EXTINF:-1,NOON TV
+http://landiptv.live:8080/live/marco/polo/63226.m3u8
+#EXTINF:-1,Noor Dubai
+http://landiptv.live:8080/live/marco/polo/193110.m3u8
+#EXTINF:-1,Noor Jordan
+http://landiptv.live:8080/live/marco/polo/121129.m3u8
+#EXTINF:-1,Noor Meriem
+http://landiptv.live:8080/live/marco/polo/105432.m3u8
+#EXTINF:-1,Noor Spirit
+http://landiptv.live:8080/live/marco/polo/105431.m3u8
+#EXTINF:-1,Nour Dubai
+http://landiptv.live:8080/live/marco/polo/131064.m3u8
+#EXTINF:-1,NOUR ELSHAM
+http://landiptv.live:8080/live/marco/polo/193111.m3u8
+#EXTINF:-1,Nour Music
+http://landiptv.live:8080/live/marco/polo/196495.m3u8
+#EXTINF:-1,Nour Sat
+http://landiptv.live:8080/live/marco/polo/196494.m3u8
+#EXTINF:-1,Noursat Al Chabab
+http://landiptv.live:8080/live/marco/polo/147352.m3u8
+#EXTINF:-1,Noursat Kodas
+http://landiptv.live:8080/live/marco/polo/111166.m3u8
+#EXTINF:-1,Noursat Meriam
+http://landiptv.live:8080/live/marco/polo/196496.m3u8
+#EXTINF:-1,NourSat Shabab Christian
+http://landiptv.live:8080/live/marco/polo/110909.m3u8
+#EXTINF:-1,NourSat Spirit
+http://landiptv.live:8080/live/marco/polo/110280.m3u8
+#EXTINF:-1,Numedia TV
+http://landiptv.live:8080/live/marco/polo/121066.m3u8
+#EXTINF:-1,OFIVE
+http://landiptv.live:8080/live/marco/polo/196362.m3u8
+#EXTINF:-1,Oman Live
+http://landiptv.live:8080/live/marco/polo/207328.m3u8
+#EXTINF:-1,Oman Sports HD
+http://landiptv.live:8080/live/marco/polo/95758.m3u8
+#EXTINF:-1,OMAN TV
+http://landiptv.live:8080/live/marco/polo/90106.m3u8
+#EXTINF:-1,Oman TV Culture
+http://landiptv.live:8080/live/marco/polo/135271.m3u8
+#EXTINF:-1,ON DEMAND 1 HD
+http://landiptv.live:8080/live/marco/polo/158856.m3u8
+#EXTINF:-1,ON DEMAND 2 HD
+http://landiptv.live:8080/live/marco/polo/158857.m3u8
+#EXTINF:-1,ON DEMAND EXTRA 2 HD
+http://landiptv.live:8080/live/marco/polo/158859.m3u8
+#EXTINF:-1,ON Drama
+http://landiptv.live:8080/live/marco/polo/75258.m3u8
+#EXTINF:-1,ON Live
+http://landiptv.live:8080/live/marco/polo/94442.m3u8
+#EXTINF:-1,ON Sport
+http://landiptv.live:8080/live/marco/polo/89954.m3u8
+#EXTINF:-1,ON TV HD
+http://landiptv.live:8080/live/marco/polo/89957.m3u8
+#EXTINF:-1,one tv
+http://landiptv.live:8080/live/marco/polo/75257.m3u8
+#EXTINF:-1,Orient News TV
+http://landiptv.live:8080/live/marco/polo/90092.m3u8
+#EXTINF:-1,Oscar TV
+http://landiptv.live:8080/live/marco/polo/135324.m3u8
+#EXTINF:-1,OSN Action HD
+http://landiptv.live:8080/live/marco/polo/95729.m3u8
+#EXTINF:-1,OSN AD SPORTS 1 HD
+http://landiptv.live:8080/live/marco/polo/74671.m3u8
+#EXTINF:-1,OSN AD SPORTS 2
+http://landiptv.live:8080/live/marco/polo/74672.m3u8
+#EXTINF:-1,OSN Al Safwa
+http://landiptv.live:8080/live/marco/polo/63342.m3u8
+#EXTINF:-1,OSN Alfa ALYoum HD
+http://landiptv.live:8080/live/marco/polo/88761.m3u8
+#EXTINF:-1,OSN Alfa Cinema 1 HD
+http://landiptv.live:8080/live/marco/polo/110873.m3u8
+#EXTINF:-1,OSN Alfa Cinema 2 HD
+http://landiptv.live:8080/live/marco/polo/110874.m3u8
+#EXTINF:-1,OSN Alfa Musalsalat HD
+http://landiptv.live:8080/live/marco/polo/131579.m3u8
+#EXTINF:-1,OSN ALKASS SPORT 1
+http://landiptv.live:8080/live/marco/polo/89303.m3u8
+#EXTINF:-1,OSN ALKASS SPORT 2
+http://landiptv.live:8080/live/marco/polo/89304.m3u8
+#EXTINF:-1,OSN ALKASS SPORT 4
+http://landiptv.live:8080/live/marco/polo/89305.m3u8
+#EXTINF:-1,OSN ALYOM
+http://landiptv.live:8080/live/marco/polo/86779.m3u8
+#EXTINF:-1,OSN ALYOUM
+http://landiptv.live:8080/live/marco/polo/160449.m3u8
+#EXTINF:-1,OSN ART Aflam 1 HD
+http://landiptv.live:8080/live/marco/polo/63341.m3u8
+#EXTINF:-1,OSN ART Aflam 2 HD
+http://landiptv.live:8080/live/marco/polo/63340.m3u8
+#EXTINF:-1,OSN ART Cinema HD
+http://landiptv.live:8080/live/marco/polo/63339.m3u8
+#EXTINF:-1,OSN ART Hekayat 1
+http://landiptv.live:8080/live/marco/polo/63338.m3u8
+#EXTINF:-1,OSN ART Hekayat 2 HD
+http://landiptv.live:8080/live/marco/polo/63337.m3u8
+#EXTINF:-1,OSN Baby TV
+http://landiptv.live:8080/live/marco/polo/111158.m3u8
+#EXTINF:-1,OSN beIN BABY
+http://landiptv.live:8080/live/marco/polo/159039.m3u8
+#EXTINF:-1,OSN beIN BARAAEM
+http://landiptv.live:8080/live/marco/polo/159038.m3u8
+#EXTINF:-1,OSN beIN Box Office 1
+http://landiptv.live:8080/live/marco/polo/159036.m3u8
+#EXTINF:-1,OSN beIN Discovery Life
+http://landiptv.live:8080/live/marco/polo/159033.m3u8
+#EXTINF:-1,OSN beIN DreamWorks
+http://landiptv.live:8080/live/marco/polo/159032.m3u8
+#EXTINF:-1,OSN beIN DTX
+http://landiptv.live:8080/live/marco/polo/159031.m3u8
+#EXTINF:-1,OSN beIN Food Network
+http://landiptv.live:8080/live/marco/polo/159028.m3u8
+#EXTINF:-1,OSN beIN Fox Movies
+http://landiptv.live:8080/live/marco/polo/159026.m3u8
+#EXTINF:-1,OSN beIN JEEM
+http://landiptv.live:8080/live/marco/polo/159025.m3u8
+#EXTINF:-1,OSN beIN JUNIOR
+http://landiptv.live:8080/live/marco/polo/159024.m3u8
+#EXTINF:-1,OSN beIN MOVIES 1
+http://landiptv.live:8080/live/marco/polo/159023.m3u8
+#EXTINF:-1,OSN beIN MOVIES 2
+http://landiptv.live:8080/live/marco/polo/159022.m3u8
+#EXTINF:-1,OSN beIN Series
+http://landiptv.live:8080/live/marco/polo/159019.m3u8
+#EXTINF:-1,OSN beIN Sky Movies
+http://landiptv.live:8080/live/marco/polo/159018.m3u8
+#EXTINF:-1,OSN beIN TCM
+http://landiptv.live:8080/live/marco/polo/159017.m3u8
+#EXTINF:-1,OSN beIN Travel HD
+http://landiptv.live:8080/live/marco/polo/159016.m3u8
+#EXTINF:-1,OSN Box Office 1 HD
+http://landiptv.live:8080/live/marco/polo/63336.m3u8
+#EXTINF:-1,OSN Box Office 2 HD
+http://landiptv.live:8080/live/marco/polo/63335.m3u8
+#EXTINF:-1,OSN Box Office 3 HD
+http://landiptv.live:8080/live/marco/polo/63334.m3u8
+#EXTINF:-1,OSN CBC reality
+http://landiptv.live:8080/live/marco/polo/63121.m3u8
+#EXTINF:-1,OSN Cinema 1 HD
+http://landiptv.live:8080/live/marco/polo/63120.m3u8
+#EXTINF:-1,OSN Cinema 2 HD
+http://landiptv.live:8080/live/marco/polo/88760.m3u8
+#EXTINF:-1,OSN CNN HD
+http://landiptv.live:8080/live/marco/polo/98482.m3u8
+#EXTINF:-1,OSN Comedy Central HD
+http://landiptv.live:8080/live/marco/polo/103999.m3u8
+#EXTINF:-1,OSN Demand Extra
+http://landiptv.live:8080/live/marco/polo/143141.m3u8
+#EXTINF:-1,OSN Discovery Channel HD
+http://landiptv.live:8080/live/marco/polo/136860.m3u8
+#EXTINF:-1,OSN Discovery Family HD
+http://landiptv.live:8080/live/marco/polo/98483.m3u8
+#EXTINF:-1,OSN Discovery Science HD
+http://landiptv.live:8080/live/marco/polo/120768.m3u8
+#EXTINF:-1,OSN Discovery Sciense
+http://landiptv.live:8080/live/marco/polo/159011.m3u8
+#EXTINF:-1,OSN Disney Channel HD
+http://landiptv.live:8080/live/marco/polo/70249.m3u8
 #EXTINF:-1,OSN Disney Junior HD
-http://m-iptv.net:6204/mme/123/7592
-#EXTINF:-1,OSN Disney HD
-http://m-iptv.net:6204/mme/123/7703
-#EXTINF:-1,Cartoon network arabic
-http://m-iptv.net:6204/mme/123/6551
-#EXTINF:-1,Baby TV
-http://m-iptv.net:6204/mme/123/13454
-#EXTINF:-1,Majid Kids HD
-http://m-iptv.net:6204/mme/123/6891
-#EXTINF:-1,Nat Geo Kids
-http://m-iptv.net:6204/mme/123/10629
-#EXTINF:-1,Ajyal HD
-http://m-iptv.net:6204/mme/123/125
-#EXTINF:-1,Toyor Aljana
-http://m-iptv.net:6204/mme/123/1980
-#EXTINF:-1, Toyor baby
-http://m-iptv.net:6204/mme/123/6889
-#EXTINF:-1,SemSem
-http://m-iptv.net:6204/mme/123/4752
+http://landiptv.live:8080/live/marco/polo/98452.m3u8
+#EXTINF:-1,OSN Disney XD
+http://landiptv.live:8080/live/marco/polo/98486.m3u8
+#EXTINF:-1,OSN E! Entertainment HD
+http://landiptv.live:8080/live/marco/polo/114710.m3u8
+#EXTINF:-1,OSN FATAFEAT HD
+http://landiptv.live:8080/live/marco/polo/89312.m3u8
+#EXTINF:-1,OSN Fight Network HD
+http://landiptv.live:8080/live/marco/polo/104002.m3u8
+#EXTINF:-1,OSN Fine Living HD
+http://landiptv.live:8080/live/marco/polo/124778.m3u8
+#EXTINF:-1,OSN First HBO HD
+http://landiptv.live:8080/live/marco/polo/98364.m3u8
+#EXTINF:-1,OSN First HD
+http://landiptv.live:8080/live/marco/polo/95710.m3u8
+#EXTINF:-1,OSN Food Network HD
+http://landiptv.live:8080/live/marco/polo/105719.m3u8
+#EXTINF:-1,OSN Fox Action Movies FHD
+http://landiptv.live:8080/live/marco/polo/89313.m3u8
+#EXTINF:-1,OSN Fox Movies HD
+http://landiptv.live:8080/live/marco/polo/104006.m3u8
+#EXTINF:-1,OSN Fox News HD
+http://landiptv.live:8080/live/marco/polo/98365.m3u8
+#EXTINF:-1,OSN FUEL HD
+http://landiptv.live:8080/live/marco/polo/89314.m3u8
+#EXTINF:-1,OSN H2 HD
+http://landiptv.live:8080/live/marco/polo/113240.m3u8
+#EXTINF:-1,OSN HD
+http://landiptv.live:8080/live/marco/polo/63118.m3u8
+#EXTINF:-1,OSN History Channel HD
+http://landiptv.live:8080/live/marco/polo/113248.m3u8
+#EXTINF:-1,OSN Home Cinema 1
+http://landiptv.live:8080/live/marco/polo/63332.m3u8
+#EXTINF:-1,OSN Home Cinema 2
+http://landiptv.live:8080/live/marco/polo/63331.m3u8
+#EXTINF:-1,OSN Home Cinema 2 KIDS/ CINEMA
+http://landiptv.live:8080/live/marco/polo/63326.m3u8
+#EXTINF:-1,OSN Home Cinema 3
+http://landiptv.live:8080/live/marco/polo/63330.m3u8
+#EXTINF:-1,OSN Home Cinema 3 KIDS/ CIMNEMA
+http://landiptv.live:8080/live/marco/polo/63325.m3u8
+#EXTINF:-1,OSN Home Cinema 4
+http://landiptv.live:8080/live/marco/polo/63329.m3u8
+#EXTINF:-1,OSN Home Cinema 5
+http://landiptv.live:8080/live/marco/polo/63328.m3u8
+#EXTINF:-1,OSN Home Cinema 6
+http://landiptv.live:8080/live/marco/polo/146106.m3u8
+#EXTINF:-1,OSN IDX FHD
+http://landiptv.live:8080/live/marco/polo/143153.m3u8
+#EXTINF:-1,OSN Investigation Disvovery HD
+http://landiptv.live:8080/live/marco/polo/113237.m3u8
+#EXTINF:-1,OSN ITV Choice HD
+http://landiptv.live:8080/live/marco/polo/104044.m3u8
+#EXTINF:-1,OSN JimJam
+http://landiptv.live:8080/live/marco/polo/104008.m3u8
+#EXTINF:-1,OSN Kids Zone TV
+http://landiptv.live:8080/live/marco/polo/120775.m3u8
+#EXTINF:-1,OSN Mbc Drama+ HD
+http://landiptv.live:8080/live/marco/polo/95701.m3u8
+#EXTINF:-1,OSN MBC Variety HD
+http://landiptv.live:8080/live/marco/polo/143156.m3u8
+#EXTINF:-1,OSN Movie 1 HD
+http://landiptv.live:8080/live/marco/polo/143157.m3u8
+#EXTINF:-1,OSN Movie Action 1
+http://landiptv.live:8080/live/marco/polo/88747.m3u8
+#EXTINF:-1,OSN Movie Drama 2
+http://landiptv.live:8080/live/marco/polo/143161.m3u8
+#EXTINF:-1,OSN Movies +2 HD
+http://landiptv.live:8080/live/marco/polo/124779.m3u8
+#EXTINF:-1,OSN Movies Action 2 HD
+http://landiptv.live:8080/live/marco/polo/86781.m3u8
+#EXTINF:-1,OSN Movies Action HD
+http://landiptv.live:8080/live/marco/polo/120782.m3u8
+#EXTINF:-1,OSN MOVIES BOX OFFICE 1 HD
+http://landiptv.live:8080/live/marco/polo/63301.m3u8
+#EXTINF:-1,OSN MOVIES BOX OFFICE 2 HD
+http://landiptv.live:8080/live/marco/polo/63300.m3u8
+#EXTINF:-1,OSN MOVIES BOX OFFICE 3 HD
+http://landiptv.live:8080/live/marco/polo/63299.m3u8
+#EXTINF:-1,OSN Movies Comedy HD
+http://landiptv.live:8080/live/marco/polo/63308.m3u8
+#EXTINF:-1,Osn Movies Drama HD
+http://landiptv.live:8080/live/marco/polo/63302.m3u8
+#EXTINF:-1,OSN Movies Family HD
+http://landiptv.live:8080/live/marco/polo/184592.m3u8
+#EXTINF:-1,OSN Movies Festival HD
+http://landiptv.live:8080/live/marco/polo/63306.m3u8
+#EXTINF:-1,OSN Movies First HD
+http://landiptv.live:8080/live/marco/polo/63316.m3u8
+#EXTINF:-1,OSN Movies First HD 2
+http://landiptv.live:8080/live/marco/polo/131156.m3u8
+#EXTINF:-1,OSN MOVIES HD
+http://landiptv.live:8080/live/marco/polo/63319.m3u8
+#EXTINF:-1,OSN Movies Kids HD
+http://landiptv.live:8080/live/marco/polo/63314.m3u8
+#EXTINF:-1,OSN Movies Star HD
+http://landiptv.live:8080/live/marco/polo/63284.m3u8
+#EXTINF:-1,OSN Movies Thriller +2H
+http://landiptv.live:8080/live/marco/polo/63304.m3u8
+#EXTINF:-1,OSN MTV India
+http://landiptv.live:8080/live/marco/polo/113249.m3u8
+#EXTINF:-1,OSN MTV Live HD
+http://landiptv.live:8080/live/marco/polo/131163.m3u8
+#EXTINF:-1,OSN Musalsalat
+http://landiptv.live:8080/live/marco/polo/143867.m3u8
+#EXTINF:-1,OSN MUSIC NOW HD
+http://landiptv.live:8080/live/marco/polo/63298.m3u8
+#EXTINF:-1,OSN NAT GEO HD
+http://landiptv.live:8080/live/marco/polo/70239.m3u8
+#EXTINF:-1,OSN NAT GEO People HD
+http://landiptv.live:8080/live/marco/polo/89326.m3u8
+#EXTINF:-1,OSN News
+http://landiptv.live:8080/live/marco/polo/143168.m3u8
+#EXTINF:-1,OSN Nickelodeon (Audio EN)
+http://landiptv.live:8080/live/marco/polo/158987.m3u8
+#EXTINF:-1,OSN Nickelodeon FHD
+http://landiptv.live:8080/live/marco/polo/89327.m3u8
+#EXTINF:-1,OSN OFFICBOX 1
+http://landiptv.live:8080/live/marco/polo/117485.m3u8
+#EXTINF:-1,OSN OFFICBOX 2
+http://landiptv.live:8080/live/marco/polo/117484.m3u8
+#EXTINF:-1,OSN On Demand 1
+http://landiptv.live:8080/live/marco/polo/68240.m3u8
+#EXTINF:-1,OSN ON DEMAND 2 HD
+http://landiptv.live:8080/live/marco/polo/88758.m3u8
+#EXTINF:-1,OSN ON DEMAND 3 HD
+http://landiptv.live:8080/live/marco/polo/89329.m3u8
+#EXTINF:-1,OSN On Demand Extra 1 HD
+http://landiptv.live:8080/live/marco/polo/63297.m3u8
+#EXTINF:-1,OSN On Demand Extra 2 HD
+http://landiptv.live:8080/live/marco/polo/100846.m3u8
+#EXTINF:-1,OSN On Demand Extra 3 HD
+http://landiptv.live:8080/live/marco/polo/131584.m3u8
+#EXTINF:-1,OSN On Demand HD
+http://landiptv.live:8080/live/marco/polo/63295.m3u8
+#EXTINF:-1,OSN ON Demande 1
+http://landiptv.live:8080/live/marco/polo/143170.m3u8
+#EXTINF:-1,OSN ON Demande 3
+http://landiptv.live:8080/live/marco/polo/143172.m3u8
+#EXTINF:-1,OSN ORBIT CINEMA 1
+http://landiptv.live:8080/live/marco/polo/63294.m3u8
+#EXTINF:-1,OSN ORBIT CINEMA 2
+http://landiptv.live:8080/live/marco/polo/86782.m3u8
+#EXTINF:-1,OSN Outdoor HD
+http://landiptv.live:8080/live/marco/polo/98454.m3u8
+#EXTINF:-1,OSN SeeVii Al Aoula HD
+http://landiptv.live:8080/live/marco/polo/63280.m3u8
+#EXTINF:-1,OSN SeeVii Beelink HD
+http://landiptv.live:8080/live/marco/polo/159001.m3u8
+#EXTINF:-1,OSN SeeVii Drama HD
+http://landiptv.live:8080/live/marco/polo/159000.m3u8
+#EXTINF:-1,OSN Series Comedy 2H
+http://landiptv.live:8080/live/marco/polo/63283.m3u8
+#EXTINF:-1,OSN Series First HD
+http://landiptv.live:8080/live/marco/polo/158838.m3u8
+#EXTINF:-1,OSN Sport 1 Action
+http://landiptv.live:8080/live/marco/polo/143179.m3u8
+#EXTINF:-1,OSN SPORT 2 ACTION
+http://landiptv.live:8080/live/marco/polo/89336.m3u8
+#EXTINF:-1,OSN Sports 1
+http://landiptv.live:8080/live/marco/polo/143181.m3u8
+#EXTINF:-1,OSN Sports 2 HD
+http://landiptv.live:8080/live/marco/polo/88765.m3u8
+#EXTINF:-1,OSN Sports 3
+http://landiptv.live:8080/live/marco/polo/86785.m3u8
+#EXTINF:-1,OSN Sports Action 1 HD
+http://landiptv.live:8080/live/marco/polo/101751.m3u8
+#EXTINF:-1,OSN Sports Cricket HD
+http://landiptv.live:8080/live/marco/polo/94108.m3u8
+#EXTINF:-1,OSN Star Movie HD
+http://landiptv.live:8080/live/marco/polo/68234.m3u8
+#EXTINF:-1,OSN Star World HD
+http://landiptv.live:8080/live/marco/polo/63114.m3u8
+#EXTINF:-1,OSN SUNDANCE TV
+http://landiptv.live:8080/live/marco/polo/158997.m3u8
+#EXTINF:-1,OSN SYFY HD
+http://landiptv.live:8080/live/marco/polo/97311.m3u8
+#EXTINF:-1,OSN Ten Cricket
+http://landiptv.live:8080/live/marco/polo/120807.m3u8
+#EXTINF:-1,OSN TLC HD
+http://landiptv.live:8080/live/marco/polo/98374.m3u8
+#EXTINF:-1,OSN Trace Urban
+http://landiptv.live:8080/live/marco/polo/158995.m3u8
+#EXTINF:-1,OSN Travel
+http://landiptv.live:8080/live/marco/polo/140705.m3u8
+#EXTINF:-1,OSN VH 1
+http://landiptv.live:8080/live/marco/polo/113254.m3u8
+#EXTINF:-1,OSN WWE HD
+http://landiptv.live:8080/live/marco/polo/63274.m3u8
+#EXTINF:-1,OSN Ya Hala Drama HD
+http://landiptv.live:8080/live/marco/polo/88754.m3u8
+#EXTINF:-1,OSN Ya Hala First 2 HD
+http://landiptv.live:8080/live/marco/polo/158831.m3u8
+#EXTINF:-1,OSN Ya Hala First HD
+http://landiptv.live:8080/live/marco/polo/158989.m3u8
+#EXTINF:-1,OSN Ya Hala HD
+http://landiptv.live:8080/live/marco/polo/120745.m3u8
+#EXTINF:-1,OSN Ya Hala Oula HD
+http://landiptv.live:8080/live/marco/polo/124784.m3u8
+#EXTINF:-1,OSN Ya Hala Shabab
+http://landiptv.live:8080/live/marco/polo/147702.m3u8
+#EXTINF:-1,OSN Ya Hala! Cinema FHD
+http://landiptv.live:8080/live/marco/polo/63285.m3u8
+#EXTINF:-1,OTV TV
+http://landiptv.live:8080/live/marco/polo/114603.m3u8
+#EXTINF:-1,Oula Maroc
+http://landiptv.live:8080/live/marco/polo/105524.m3u8
+#EXTINF:-1,PALESTINE AL YOUM
+http://landiptv.live:8080/live/marco/polo/121130.m3u8
+#EXTINF:-1,Palestine Live
+http://landiptv.live:8080/live/marco/polo/147347.m3u8
+#EXTINF:-1,Palestine News
+http://landiptv.live:8080/live/marco/polo/75251.m3u8
+#EXTINF:-1,Palestine Sport
+http://landiptv.live:8080/live/marco/polo/79300.m3u8
+#EXTINF:-1,PALESTINE TODAY
+http://landiptv.live:8080/live/marco/polo/75250.m3u8
+#EXTINF:-1,Palestine TV
+http://landiptv.live:8080/live/marco/polo/147348.m3u8
+#EXTINF:-1,Panorama Comedy
+http://landiptv.live:8080/live/marco/polo/63227.m3u8
+#EXTINF:-1,PANORAMA DRAMA
+http://landiptv.live:8080/live/marco/polo/193118.m3u8
+#EXTINF:-1,Panorama Drama 1
+http://landiptv.live:8080/live/marco/polo/63228.m3u8
+#EXTINF:-1,Panorama Drama 2
+http://landiptv.live:8080/live/marco/polo/131004.m3u8
+#EXTINF:-1,Panorama Film
+http://landiptv.live:8080/live/marco/polo/63230.m3u8
+#EXTINF:-1,Panorama Food
+http://landiptv.live:8080/live/marco/polo/116686.m3u8
+#EXTINF:-1,Peace TV 1
+http://landiptv.live:8080/live/marco/polo/196473.m3u8
+#EXTINF:-1,Peace TV 2
+http://landiptv.live:8080/live/marco/polo/196474.m3u8
+#EXTINF:-1,Peace TV 3
+http://landiptv.live:8080/live/marco/polo/196475.m3u8
+#EXTINF:-1,PRO SPORT 3 HD
+http://landiptv.live:8080/live/marco/polo/89290.m3u8
+#EXTINF:-1,PRO SPORT 4 HD
+http://landiptv.live:8080/live/marco/polo/137529.m3u8
+#EXTINF:-1,PROGRAMME NATIONAL
+http://landiptv.live:8080/live/marco/polo/102135.m3u8
+#EXTINF:-1,PUBLI TOOLS
+http://landiptv.live:8080/live/marco/polo/193119.m3u8
+#EXTINF:-1,Qamishlo TV
+http://landiptv.live:8080/live/marco/polo/196548.m3u8
+#EXTINF:-1,QATAR TV HD
+http://landiptv.live:8080/live/marco/polo/75242.m3u8
+#EXTINF:-1,QUEST ARABIA
+http://landiptv.live:8080/live/marco/polo/89894.m3u8
+#EXTINF:-1,QURAN TV
+http://landiptv.live:8080/live/marco/polo/193120.m3u8
+#EXTINF:-1,Resalat ALIslam
+http://landiptv.live:8080/live/marco/polo/135325.m3u8
+#EXTINF:-1,ROTANA
+http://landiptv.live:8080/live/marco/polo/75239.m3u8
+#EXTINF:-1,Rotana Aflam HD
+http://landiptv.live:8080/live/marco/polo/75238.m3u8
+#EXTINF:-1,Rotana Cinema HD
+http://landiptv.live:8080/live/marco/polo/63234.m3u8
+#EXTINF:-1,Rotana Classic HD
+http://landiptv.live:8080/live/marco/polo/113273.m3u8
+#EXTINF:-1,Rotana Clip HD
+http://landiptv.live:8080/live/marco/polo/113271.m3u8
+#EXTINF:-1,Rotana Drama HD
+http://landiptv.live:8080/live/marco/polo/105337.m3u8
+#EXTINF:-1,Rotana Khalijiah HD
+http://landiptv.live:8080/live/marco/polo/75235.m3u8
+#EXTINF:-1,Rotana Masriya HD
+http://landiptv.live:8080/live/marco/polo/75234.m3u8
+#EXTINF:-1,Rotana Music HD
+http://landiptv.live:8080/live/marco/polo/114464.m3u8
+#EXTINF:-1,ROYA HD
+http://landiptv.live:8080/live/marco/polo/78585.m3u8
+#EXTINF:-1,Rt Arab
+http://landiptv.live:8080/live/marco/polo/147469.m3u8
+#EXTINF:-1,RT ARABIC
+http://landiptv.live:8080/live/marco/polo/193125.m3u8
+#EXTINF:-1,Rudaw HD
+http://landiptv.live:8080/live/marco/polo/86768.m3u8
+#EXTINF:-1,Russia Today News
+http://landiptv.live:8080/live/marco/polo/110136.m3u8
+#EXTINF:-1,S7T AFLAM HD
+http://landiptv.live:8080/live/marco/polo/147507.m3u8
+#EXTINF:-1,S7T ANIME
+http://landiptv.live:8080/live/marco/polo/147509.m3u8
+#EXTINF:-1,S7T DOCUMENTAIRE
+http://landiptv.live:8080/live/marco/polo/147513.m3u8
+#EXTINF:-1,S7T HITS HD
+http://landiptv.live:8080/live/marco/polo/147514.m3u8
+#EXTINF:-1,S7T MOVIES HD
+http://landiptv.live:8080/live/marco/polo/147516.m3u8
+#EXTINF:-1,S7T SERIES
+http://landiptv.live:8080/live/marco/polo/147518.m3u8
+#EXTINF:-1,S7T SPORT HD
+http://landiptv.live:8080/live/marco/polo/147519.m3u8
+#EXTINF:-1,SADA AL BALAD 2
+http://landiptv.live:8080/live/marco/polo/63237.m3u8
+#EXTINF:-1,SADA AL BALAD DRAMA
+http://landiptv.live:8080/live/marco/polo/89350.m3u8
+#EXTINF:-1,Sada AlBalad HD
+http://landiptv.live:8080/live/marco/polo/94424.m3u8
+#EXTINF:-1,Sada Drama
+http://landiptv.live:8080/live/marco/polo/110115.m3u8
+#EXTINF:-1,SADA EL BALAD
+http://landiptv.live:8080/live/marco/polo/113346.m3u8
+#EXTINF:-1,SADA EL BALAD 2
+http://landiptv.live:8080/live/marco/polo/113347.m3u8
+#EXTINF:-1,SADA EL BALAD DRAMA
+http://landiptv.live:8080/live/marco/polo/113348.m3u8
+#EXTINF:-1,Safa TV
+http://landiptv.live:8080/live/marco/polo/196447.m3u8
+#EXTINF:-1,SAHAR TV
+http://landiptv.live:8080/live/marco/polo/193126.m3u8
+#EXTINF:-1,Sahel TV
+http://landiptv.live:8080/live/marco/polo/196549.m3u8
+#EXTINF:-1,Sama Dubai HD
+http://landiptv.live:8080/live/marco/polo/63239.m3u8
+#EXTINF:-1,Sama Sham
+http://landiptv.live:8080/live/marco/polo/196392.m3u8
+#EXTINF:-1,Sama Syria
+http://landiptv.live:8080/live/marco/polo/101189.m3u8
+#EXTINF:-1,Sama TV
+http://landiptv.live:8080/live/marco/polo/147337.m3u8
+#EXTINF:-1,SAMARRA TV
+http://landiptv.live:8080/live/marco/polo/98464.m3u8
+#EXTINF:-1,Samira TV
+http://landiptv.live:8080/live/marco/polo/63240.m3u8
+#EXTINF:-1,Sat 7 Arabic
+http://landiptv.live:8080/live/marco/polo/78595.m3u8
+#EXTINF:-1,Sat 7 Kids
+http://landiptv.live:8080/live/marco/polo/110225.m3u8
+#EXTINF:-1,SAT TV
+http://landiptv.live:8080/live/marco/polo/193128.m3u8
+#EXTINF:-1,Saudi 1 TV
+http://landiptv.live:8080/live/marco/polo/63242.m3u8
+#EXTINF:-1,Saudi 2 TV
+http://landiptv.live:8080/live/marco/polo/63243.m3u8
+#EXTINF:-1,Saudi 24
+http://landiptv.live:8080/live/marco/polo/131025.m3u8
+#EXTINF:-1,Saudi Ajyal
+http://landiptv.live:8080/live/marco/polo/105407.m3u8
+#EXTINF:-1,Saudi Al Haj
+http://landiptv.live:8080/live/marco/polo/116777.m3u8
+#EXTINF:-1,SAUDI AL IKHBARIYA
+http://landiptv.live:8080/live/marco/polo/121100.m3u8
+#EXTINF:-1,Saudi Anti Terrorism
+http://landiptv.live:8080/live/marco/polo/148578.m3u8
+#EXTINF:-1,Saudi Ch. For Sunnah
+http://landiptv.live:8080/live/marco/polo/135282.m3u8
+#EXTINF:-1,SAUDI FAMILY
+http://landiptv.live:8080/live/marco/polo/89898.m3u8
+#EXTINF:-1,Saudi News
+http://landiptv.live:8080/live/marco/polo/110132.m3u8
+#EXTINF:-1,Saudi Quraan HD
+http://landiptv.live:8080/live/marco/polo/105402.m3u8
+#EXTINF:-1,SAUDI QURAN
+http://landiptv.live:8080/live/marco/polo/89913.m3u8
+#EXTINF:-1,Saudi Sport
+http://landiptv.live:8080/live/marco/polo/135283.m3u8
+#EXTINF:-1,Saudi Sport 1
+http://landiptv.live:8080/live/marco/polo/100439.m3u8
+#EXTINF:-1,Saudi Sports 2
+http://landiptv.live:8080/live/marco/polo/63241.m3u8
+#EXTINF:-1,Saudi Sunnah
+http://landiptv.live:8080/live/marco/polo/147429.m3u8
+#EXTINF:-1,Saudi ThaQafia
+http://landiptv.live:8080/live/marco/polo/146161.m3u8
+#EXTINF:-1,Saudie 24
+http://landiptv.live:8080/live/marco/polo/146126.m3u8
+#EXTINF:-1,SCARE TV
+http://landiptv.live:8080/live/marco/polo/135328.m3u8
+#EXTINF:-1,SeeVii Alaoula HD
+http://landiptv.live:8080/live/marco/polo/116778.m3u8
+#EXTINF:-1,Sehaty
+http://landiptv.live:8080/live/marco/polo/124941.m3u8
+#EXTINF:-1,SemSem Kids
+http://landiptv.live:8080/live/marco/polo/110258.m3u8
+#EXTINF:-1,Series First HD
+http://landiptv.live:8080/live/marco/polo/158849.m3u8
+#EXTINF:-1,Sham FM
+http://landiptv.live:8080/live/marco/polo/196396.m3u8
+#EXTINF:-1,SHANPOO AFLAM
+http://landiptv.live:8080/live/marco/polo/143730.m3u8
+#EXTINF:-1,SHARO5AN HINDI
+http://landiptv.live:8080/live/marco/polo/135330.m3u8
+#EXTINF:-1,Shaun The sheep
+http://landiptv.live:8080/live/marco/polo/196420.m3u8
+#EXTINF:-1,Sheba TV
+http://landiptv.live:8080/live/marco/polo/78609.m3u8
+#EXTINF:-1,Sky News Arabia
+http://landiptv.live:8080/live/marco/polo/105410.m3u8
+#EXTINF:-1,SKY News HD
+http://landiptv.live:8080/live/marco/polo/146139.m3u8
 #EXTINF:-1,Space Toon
-http://m-iptv.net:6204/mme/123/7053
+http://landiptv.live:8080/live/marco/polo/63246.m3u8
+#EXTINF:-1,STAR CINEMA 1
+http://landiptv.live:8080/live/marco/polo/78610.m3u8
+#EXTINF:-1,STAR CINEMA 2
+http://landiptv.live:8080/live/marco/polo/78611.m3u8
+#EXTINF:-1,Star Movies HD
+http://landiptv.live:8080/live/marco/polo/158851.m3u8
+#EXTINF:-1,STAR WORLD HD
+http://landiptv.live:8080/live/marco/polo/118510.m3u8
+#EXTINF:-1,Sudan ASHOROOQ
+http://landiptv.live:8080/live/marco/polo/135301.m3u8
+#EXTINF:-1,SUDAN BLUE NILE
+http://landiptv.live:8080/live/marco/polo/110211.m3u8
+#EXTINF:-1,Sudan Knowledge
+http://landiptv.live:8080/live/marco/polo/110174.m3u8
+#EXTINF:-1,SUDAN Monwaat
+http://landiptv.live:8080/live/marco/polo/121137.m3u8
+#EXTINF:-1,Sudan Music
+http://landiptv.live:8080/live/marco/polo/146208.m3u8
+#EXTINF:-1,SUDAN Om Dorman
+http://landiptv.live:8080/live/marco/polo/110163.m3u8
+#EXTINF:-1,SUDAN TAYBA
+http://landiptv.live:8080/live/marco/polo/121139.m3u8
+#EXTINF:-1,Sudan TV
+http://landiptv.live:8080/live/marco/polo/108083.m3u8
+#EXTINF:-1,Sudania 24
+http://landiptv.live:8080/live/marco/polo/90132.m3u8
+#EXTINF:-1,SUHAIL TV
+http://landiptv.live:8080/live/marco/polo/78612.m3u8
+#EXTINF:-1,Suryoyo Sat
+http://landiptv.live:8080/live/marco/polo/77527.m3u8
+#EXTINF:-1,Syria AlEkhbaria
+http://landiptv.live:8080/live/marco/polo/105362.m3u8
+#EXTINF:-1,Syria AlOula
+http://landiptv.live:8080/live/marco/polo/95764.m3u8
+#EXTINF:-1,SYRIA DRAMA
+http://landiptv.live:8080/live/marco/polo/63250.m3u8
+#EXTINF:-1,Syria Education
+http://landiptv.live:8080/live/marco/polo/147334.m3u8
+#EXTINF:-1,SYRIA EDUCATION (ElTarbaouia)
+http://landiptv.live:8080/live/marco/polo/118835.m3u8
+#EXTINF:-1,Syria Educational
+http://landiptv.live:8080/live/marco/polo/196400.m3u8
+#EXTINF:-1,SYRIA FM
+http://landiptv.live:8080/live/marco/polo/193136.m3u8
+#EXTINF:-1,Syria Halab
+http://landiptv.live:8080/live/marco/polo/110151.m3u8
+#EXTINF:-1,Syria Lana
+http://landiptv.live:8080/live/marco/polo/159673.m3u8
+#EXTINF:-1,SYRIA MEDICAL TV
+http://landiptv.live:8080/live/marco/polo/110152.m3u8
+#EXTINF:-1,SYRIA NEWS
+http://landiptv.live:8080/live/marco/polo/63248.m3u8
+#EXTINF:-1,Syria Nour
+http://landiptv.live:8080/live/marco/polo/116746.m3u8
+#EXTINF:-1,Syria RTV
+http://landiptv.live:8080/live/marco/polo/196397.m3u8
+#EXTINF:-1,Syria Sama
+http://landiptv.live:8080/live/marco/polo/105360.m3u8
+#EXTINF:-1,SYRIA SATELLITE TV
+http://landiptv.live:8080/live/marco/polo/130971.m3u8
+#EXTINF:-1,SYRIA TV HD
+http://landiptv.live:8080/live/marco/polo/63251.m3u8
+#EXTINF:-1,Syriaa TV HD
+http://landiptv.live:8080/live/marco/polo/196552.m3u8
+#EXTINF:-1,SYRIAN DRAMA
+http://landiptv.live:8080/live/marco/polo/114601.m3u8
+#EXTINF:-1,TAHA TV
+http://landiptv.live:8080/live/marco/polo/98475.m3u8
+#EXTINF:-1,TAMAZIGHT HD
+http://landiptv.live:8080/live/marco/polo/63252.m3u8
+#EXTINF:-1,Tanasoh TV
+http://landiptv.live:8080/live/marco/polo/196448.m3u8
+#EXTINF:-1,TANASUH TV
+http://landiptv.live:8080/live/marco/polo/116751.m3u8
+#EXTINF:-1,TATT7
+http://landiptv.live:8080/live/marco/polo/78616.m3u8
+#EXTINF:-1,Tayba TV
+http://landiptv.live:8080/live/marco/polo/121732.m3u8
+#EXTINF:-1,TEBA
+http://landiptv.live:8080/live/marco/polo/78617.m3u8
+#EXTINF:-1,Techno
+http://landiptv.live:8080/live/marco/polo/196368.m3u8
+#EXTINF:-1,TELE
+http://landiptv.live:8080/live/marco/polo/193139.m3u8
+#EXTINF:-1,Tele Liban TV
+http://landiptv.live:8080/live/marco/polo/78618.m3u8
+#EXTINF:-1,TELE MAROC
+http://landiptv.live:8080/live/marco/polo/89761.m3u8
+#EXTINF:-1,Telvza TV
+http://landiptv.live:8080/live/marco/polo/113406.m3u8
+#EXTINF:-1,TEN TV
+http://landiptv.live:8080/live/marco/polo/63254.m3u8
+#EXTINF:-1,The Savior
+http://landiptv.live:8080/live/marco/polo/164438.m3u8
+#EXTINF:-1,The Way
+http://landiptv.live:8080/live/marco/polo/196497.m3u8
+#EXTINF:-1,TIME CINEMA
+http://landiptv.live:8080/live/marco/polo/63255.m3u8
+#EXTINF:-1,Time Comedy
+http://landiptv.live:8080/live/marco/polo/63256.m3u8
+#EXTINF:-1,Time Film
+http://landiptv.live:8080/live/marco/polo/95751.m3u8
+#EXTINF:-1,TNN (Tunisia)
+http://landiptv.live:8080/live/marco/polo/63257.m3u8
+#EXTINF:-1,TNT 2M MAROC
+http://landiptv.live:8080/live/marco/polo/89778.m3u8
+#EXTINF:-1,TNT AL MAGHRIBIA
+http://landiptv.live:8080/live/marco/polo/89781.m3u8
+#EXTINF:-1,TNT ARRABIA
+http://landiptv.live:8080/live/marco/polo/89780.m3u8
+#EXTINF:-1,TNT ASSADISSA
+http://landiptv.live:8080/live/marco/polo/89782.m3u8
+#EXTINF:-1,TNT MEDI 1 TV
+http://landiptv.live:8080/live/marco/polo/89785.m3u8
+#EXTINF:-1,TNT TAMAZIGHT
+http://landiptv.live:8080/live/marco/polo/89784.m3u8
+#EXTINF:-1,Tok Tok Aflam
+http://landiptv.live:8080/live/marco/polo/147409.m3u8
+#EXTINF:-1,Tok Tok Cinema
+http://landiptv.live:8080/live/marco/polo/146212.m3u8
+#EXTINF:-1,TOKTOK AFLAM (EGY)
+http://landiptv.live:8080/live/marco/polo/78620.m3u8
+#EXTINF:-1,Toktok Cima
+http://landiptv.live:8080/live/marco/polo/116705.m3u8
+#EXTINF:-1,Tom And Jery
+http://landiptv.live:8080/live/marco/polo/196422.m3u8
+#EXTINF:-1,TOUNESNA (TUN)
+http://landiptv.live:8080/live/marco/polo/63103.m3u8
+#EXTINF:-1,Toyor Al Janah
+http://landiptv.live:8080/live/marco/polo/63258.m3u8
+#EXTINF:-1,TOYOR ALJANNAH
+http://landiptv.live:8080/live/marco/polo/193140.m3u8
+#EXTINF:-1,toyor Baby
+http://landiptv.live:8080/live/marco/polo/130947.m3u8
+#EXTINF:-1,TOYOUR AL JANAH
+http://landiptv.live:8080/live/marco/polo/146138.m3u8
+#EXTINF:-1,Toyour Al Jannah
+http://landiptv.live:8080/live/marco/polo/196411.m3u8
+#EXTINF:-1,Toyour baby
+http://landiptv.live:8080/live/marco/polo/196412.m3u8
+#EXTINF:-1,Toyur Al Jannah
+http://landiptv.live:8080/live/marco/polo/108090.m3u8
+#EXTINF:-1,TRAVEL CHANNEL
+http://landiptv.live:8080/live/marco/polo/118529.m3u8
+#EXTINF:-1,TRT Al Arabia HD
+http://landiptv.live:8080/live/marco/polo/121101.m3u8
+#EXTINF:-1,TRT Arabia
+http://landiptv.live:8080/live/marco/polo/193141.m3u8
+#EXTINF:-1,TRT ARABIC
+http://landiptv.live:8080/live/marco/polo/97254.m3u8
+#EXTINF:-1,Tube Cinema
+http://landiptv.live:8080/live/marco/polo/94422.m3u8
+#EXTINF:-1,Tube Mosalsalat
+http://landiptv.live:8080/live/marco/polo/94443.m3u8
+#EXTINF:-1,TUNISIA 1 (TUN)
+http://landiptv.live:8080/live/marco/polo/108165.m3u8
+#EXTINF:-1,Tunisia First TV
+http://landiptv.live:8080/live/marco/polo/63259.m3u8
+#EXTINF:-1,TUNISIA NAT 1
+http://landiptv.live:8080/live/marco/polo/113460.m3u8
+#EXTINF:-1,TUNISIA NAT 2
+http://landiptv.live:8080/live/marco/polo/114437.m3u8
+#EXTINF:-1,Tunisia National 1
+http://landiptv.live:8080/live/marco/polo/147440.m3u8
+#EXTINF:-1,Tunisia National 2
+http://landiptv.live:8080/live/marco/polo/147441.m3u8
+#EXTINF:-1,Tunisie Nat 1 TNT
+http://landiptv.live:8080/live/marco/polo/114656.m3u8
+#EXTINF:-1,Tunisna TV
+http://landiptv.live:8080/live/marco/polo/89839.m3u8
+#EXTINF:-1,TV 4
+http://landiptv.live:8080/live/marco/polo/135286.m3u8
+#EXTINF:-1,TV 5
+http://landiptv.live:8080/live/marco/polo/135287.m3u8
+#EXTINF:-1,TV A3
+http://landiptv.live:8080/live/marco/polo/105310.m3u8
+#EXTINF:-1,TV Coran
+http://landiptv.live:8080/live/marco/polo/148582.m3u8
+#EXTINF:-1,WAAR
+http://landiptv.live:8080/live/marco/polo/135288.m3u8
+#EXTINF:-1,Wanasa
+http://landiptv.live:8080/live/marco/polo/155920.m3u8
+#EXTINF:-1,Wanasah TV
+http://landiptv.live:8080/live/marco/polo/113509.m3u8
+#EXTINF:-1,WATAN TV
+http://landiptv.live:8080/live/marco/polo/78631.m3u8
+#EXTINF:-1,Watanya 1 (TUN)
+http://landiptv.live:8080/live/marco/polo/110137.m3u8
+#EXTINF:-1,Watanya 2 (TUN)
+http://landiptv.live:8080/live/marco/polo/110138.m3u8
+#EXTINF:-1,Watn
+http://landiptv.live:8080/live/marco/polo/110215.m3u8
+#EXTINF:-1,Wesal TV
+http://landiptv.live:8080/live/marco/polo/63262.m3u8
+#EXTINF:-1,Wisal Haq
+http://landiptv.live:8080/live/marco/polo/196477.m3u8
+#EXTINF:-1,Wisal Hausa TV
+http://landiptv.live:8080/live/marco/polo/196478.m3u8
+#EXTINF:-1,Wissal TV
+http://landiptv.live:8080/live/marco/polo/196479.m3u8
+#EXTINF:-1,WWE HD
+http://landiptv.live:8080/live/marco/polo/158864.m3u8
+#EXTINF:-1,Yahala
+http://landiptv.live:8080/live/marco/polo/147700.m3u8
+#EXTINF:-1,YAHALA CINEMA HD
+http://landiptv.live:8080/live/marco/polo/158842.m3u8
+#EXTINF:-1,YAHALA DRAMA
+http://landiptv.live:8080/live/marco/polo/158843.m3u8
+#EXTINF:-1,Yas Sport HD
+http://landiptv.live:8080/live/marco/polo/135536.m3u8
+#EXTINF:-1,Yas Tv
+http://landiptv.live:8080/live/marco/polo/193144.m3u8
+#EXTINF:-1,YEMEN BELQEES
+http://landiptv.live:8080/live/marco/polo/176443.m3u8
+#EXTINF:-1,Yemen Sama
+http://landiptv.live:8080/live/marco/polo/131077.m3u8
+#EXTINF:-1,Yemen Shabab
+http://landiptv.live:8080/live/marco/polo/110171.m3u8
+#EXTINF:-1,YEMEN TODAY TV
+http://landiptv.live:8080/live/marco/polo/78635.m3u8
+#EXTINF:-1,Yemen TV
+http://landiptv.live:8080/live/marco/polo/78632.m3u8
+#EXTINF:-1,ZAD TV
+http://landiptv.live:8080/live/marco/polo/89359.m3u8
+#EXTINF:-1,Zaytoona TV
+http://landiptv.live:8080/live/marco/polo/63263.m3u8
+#EXTINF:-1,ZAYTOUNA HEDAYA
+http://landiptv.live:8080/live/marco/polo/118456.m3u8
+#EXTINF:-1,Zaytouna TV
+http://landiptv.live:8080/live/marco/polo/105398.m3u8
+#EXTINF:-1,Zee Aflam
+http://landiptv.live:8080/live/marco/polo/113351.m3u8
+#EXTINF:-1,Zee Alwan
+http://landiptv.live:8080/live/marco/polo/113352.m3u8
+#EXTINF:-1,Zitouna Hedaya
+http://landiptv.live:8080/live/marco/polo/147438.m3u8
+#EXTINF:-1,Zweina Baladna
+http://landiptv.live:8080/live/marco/polo/121143.m3u8
+#EXTINF:-1,VIP: AR - MyHD Cinemachi Kids HD
+http://landiptv.live:8080/live/marco/polo/206245.m3u8
+#EXTINF:-1,VIP: AR - NAT GEO Wild HD
+http://landiptv.live:8080/live/marco/polo/198627.m3u8
+#EXTINF:-1,beIN Sports 1 FHD
+http://landiptv.live:8080/live/marco/polo/197967.m3u8
+#EXTINF:-1,beIN Sports 2 FHD
+http://landiptv.live:8080/live/marco/polo/197979.m3u8
+#EXTINF:-1,beIN Sports 3 FHD
+http://landiptv.live:8080/live/marco/polo/197981.m3u8
+#EXTINF:-1,beIN Sports 4 FHD
+http://landiptv.live:8080/live/marco/polo/197983.m3u8
+#EXTINF:-1,beIN Sports 5 FHD
+http://landiptv.live:8080/live/marco/polo/197985.m3u8
+#EXTINF:-1,beIN Sports 6 FHD
+http://landiptv.live:8080/live/marco/polo/197986.m3u8
+#EXTINF:-1,beIN Sports 7 FHD
+http://landiptv.live:8080/live/marco/polo/197988.m3u8
+#EXTINF:-1,beIN Sports 8 FHD
+http://landiptv.live:8080/live/marco/polo/197990.m3u8
+#EXTINF:-1,beIN Sports 9 FHD
+http://landiptv.live:8080/live/marco/polo/197992.m3u8
+#EXTINF:-1,beIN Sports 10 FHD
+http://landiptv.live:8080/live/marco/polo/197969.m3u8
+#EXTINF:-1,beIN Sports 12 FHD
+http://landiptv.live:8080/live/marco/polo/197973.m3u8
+#EXTINF:-1,beIN Sports 1 HD
+http://landiptv.live:8080/live/marco/polo/197968.m3u8
+#EXTINF:-1,beIN Sports 2 HD
+http://landiptv.live:8080/live/marco/polo/197980.m3u8
+#EXTINF:-1,beIN Sports 3 HD
+http://landiptv.live:8080/live/marco/polo/197982.m3u8
+#EXTINF:-1,beIN Sports 4 HD
+http://landiptv.live:8080/live/marco/polo/197984.m3u8
+#EXTINF:-1,beIN Sports 5 HD
+http://landiptv.live:8080/live/marco/polo/198060.m3u8
+#EXTINF:-1,beIN Sports 6 HD
+http://landiptv.live:8080/live/marco/polo/197987.m3u8
+#EXTINF:-1,beIN Sports 7 HD
+http://landiptv.live:8080/live/marco/polo/197989.m3u8
+#EXTINF:-1,beIN Sports 8 HD
+http://landiptv.live:8080/live/marco/polo/197991.m3u8
+#EXTINF:-1,beIN Sports 9 HD
+http://landiptv.live:8080/live/marco/polo/198062.m3u8
+#EXTINF:-1,beIN Sports 10 HD
+http://landiptv.live:8080/live/marco/polo/197970.m3u8
+#EXTINF:-1,beIN Sports 11 HD
+http://landiptv.live:8080/live/marco/polo/197971.m3u8
+#EXTINF:-1,beIN Sports 12 HD
+http://landiptv.live:8080/live/marco/polo/197974.m3u8
+#EXTINF:-1,beIN Sports 13 HD
+http://landiptv.live:8080/live/marco/polo/197975.m3u8
+#EXTINF:-1,beIN Sports Max 2
+http://landiptv.live:8080/live/marco/polo/197997.m3u8
+#EXTINF:-1,beIN Sports Max 4
+http://landiptv.live:8080/live/marco/polo/197998.m3u8
+#EXTINF:-1,beIN Sports Max 10
+http://landiptv.live:8080/live/marco/polo/197996.m3u8
+#EXTINF:-1,beIN Sports NBA HD
+http://landiptv.live:8080/live/marco/polo/197999.m3u8
+#EXTINF:-1,beIN Sports News HD
+http://landiptv.live:8080/live/marco/polo/198000.m3u8
+#EXTINF:-1,beoutQ 1 HD
+http://landiptv.live:8080/live/marco/polo/198003.m3u8
+#EXTINF:-1,beoutQ 2 HD
+http://landiptv.live:8080/live/marco/polo/198002.m3u8
+#EXTINF:-1,beoutQ 3 HD
+http://landiptv.live:8080/live/marco/polo/198004.m3u8
+#EXTINF:-1,beoutQ 4 HD
+http://landiptv.live:8080/live/marco/polo/198005.m3u8
+#EXTINF:-1,beoutQ 5 HD
+http://landiptv.live:8080/live/marco/polo/198006.m3u8
+#EXTINF:-1,beoutQ 6 HD
+http://landiptv.live:8080/live/marco/polo/198007.m3u8
+#EXTINF:-1,beoutQ 7 HD
+http://landiptv.live:8080/live/marco/polo/198008.m3u8
+#EXTINF:-1,CARTOON: AR - beIN Cartoon Network HD
+http://landiptv.live:8080/live/marco/polo/206226.m3u8
+#EXTINF:-1,CARTOON: AR - CARTOON NETWORK
+http://landiptv.live:8080/live/marco/polo/206227.m3u8
+#EXTINF:-1,CARTOON: AR - Jeem TV
+http://landiptv.live:8080/live/marco/polo/206228.m3u8
+#EXTINF:-1,beIN Sports 2 FHD
+http://landiptv.live:8080/live/marco/polo/62752.m3u8
+#EXTINF:-1,beIN Sports 11 HD
+http://landiptv.live:8080/live/marco/polo/74643.m3u8
+#EXTINF:-1,beIN Sports 15 HD
+http://landiptv.live:8080/live/marco/polo/202742.m3u8

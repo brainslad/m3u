@@ -1,1125 +1,398 @@
-#EXTM3U
-#EXTINF:0,A&E [ALT]
-http://lista.red:8880/moise/moise/34408
-#EXTINF:0,A&E FHD
-http://lista.red:8880/moise/moise/34320
 #EXTINF:0,A&E HD
-http://lista.red:8880/moise/moise/34200
-#EXTINF:0,A&E SD
-http://lista.red:8880/moise/moise/34201
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/66059
+#EXTINF:0,All Sports
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/66050
 #EXTINF:0,AMC FHD
-http://lista.red:8880/moise/moise/34319
-#EXTINF:0,AMC FHD [ALT]
-http://lista.red:8880/moise/moise/34407
-#EXTINF:0,AMC HD
-http://lista.red:8880/moise/moise/34198
-#EXTINF:0,AMC SD
-http://lista.red:8880/moise/moise/34199
-#EXTINF:0,ANIMAL PLANET FHD
-http://lista.red:8880/moise/moise/34318
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/100805
+#EXTINF:0,ANIMAL PLANET Brasil
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/206328
 #EXTINF:0,ANIMAL PLANET HD
-http://lista.red:8880/moise/moise/34196
-#EXTINF:0,ANIMAL PLANET HD [ALT]
-http://lista.red:8880/moise/moise/34406
-#EXTINF:0,ANIMAL PLANET SD
-http://lista.red:8880/moise/moise/34197
-#EXTINF:0,ARTE 1 FHD
-http://lista.red:8880/moise/moise/34317
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/68999
+#EXTINF:0,Anime Cartoon
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/66019
+#EXTINF:0,Aparceida
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/159051
 #EXTINF:0,ARTE 1 HD
-http://lista.red:8880/moise/moise/34194
-#EXTINF:0,ARTE 1 SD
-http://lista.red:8880/moise/moise/34195
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/156983
 #EXTINF:0,AXN FHD
-http://lista.red:8880/moise/moise/34316
-#EXTINF:0,AXN FHD [ALT]
-http://lista.red:8880/moise/moise/34448
-#EXTINF:0,AXN HD
-http://lista.red:8880/moise/moise/34192
-#EXTINF:0,AXN SD
-http://lista.red:8880/moise/moise/34193
-#EXTINF:0,BABY TV
-http://lista.red:8880/moise/moise/34191
-#EXTINF:0,BAND FHD [ALT]
-http://lista.red:8880/moise/moise/34462
-#EXTINF:0,BAND HD [ALT]
-http://lista.red:8880/moise/moise/34420
-#EXTINF:0,BAND NEWS
-http://lista.red:8880/moise/moise/34188
-#EXTINF:0,BAND NEWS FHD
-http://lista.red:8880/moise/moise/34315
-#EXTINF:0,BAND NEWS FHD [ALT]
-http://lista.red:8880/moise/moise/34447
-#EXTINF:0,BAND NEWS HD
-http://lista.red:8880/moise/moise/34187
-#EXTINF:0,BAND SD [ALT]
-http://lista.red:8880/moise/moise/34436
-#EXTINF:0,BAND SP
-http://lista.red:8880/moise/moise/34190
-#EXTINF:0,BAND SP FHD
-http://lista.red:8880/moise/moise/34248
-#EXTINF:0,BAND SP HD
-http://lista.red:8880/moise/moise/34189
-#EXTINF:0,BAND SPORTS
-http://lista.red:8880/moise/moise/34186
-#EXTINF:0,BAND SPORTS FHD
-http://lista.red:8880/moise/moise/34314
-#EXTINF:0,BAND SPORTS FHD H.265 [ALT]
-http://lista.red:8880/moise/moise/34523
-#EXTINF:0,BAND SPORTS HD
-http://lista.red:8880/moise/moise/34185
-#EXTINF:0,BAND SPORTS HD [ALT]
-http://lista.red:8880/moise/moise/34477
-#EXTINF:0,BOA VONTADE TV HD
-http://lista.red:8880/moise/moise/34182
-#EXTINF:0,BOOMBERANG FHD [ALT]
-http://lista.red:8880/moise/moise/34472
-#EXTINF:0,BOOMBERANG HD [ALT]
-http://lista.red:8880/moise/moise/34463
-#EXTINF:0,BOOMERANG
-http://lista.red:8880/moise/moise/34181
-#EXTINF:0,BOOMERANG  FHD
-http://lista.red:8880/moise/moise/34313
-#EXTINF:0,BOOMERANG HD
-http://lista.red:8880/moise/moise/34180
-#EXTINF:0,CANAL BRASIL
-http://lista.red:8880/moise/moise/34179
-#EXTINF:0,CANAL BRASIL [ALT]
-http://lista.red:8880/moise/moise/34424
-#EXTINF:0,CANAL BRASIL FHD
-http://lista.red:8880/moise/moise/34215
-#EXTINF:0,CANAL BRASIL HD
-http://lista.red:8880/moise/moise/34178
-#EXTINF:0,CANAL SONY
-http://lista.red:8880/moise/moise/34177
-#EXTINF:0,CANAL SONY FHD
-http://lista.red:8880/moise/moise/34312
-#EXTINF:0,CANAL SONY HD
-http://lista.red:8880/moise/moise/34176
-#EXTINF:0,CAN«√O NOVA
-http://lista.red:8880/moise/moise/34175
-#EXTINF:0,CARTOON NETWORK
-http://lista.red:8880/moise/moise/34174
-#EXTINF:0,CARTOON NETWORK FHD
-http://lista.red:8880/moise/moise/34311
-#EXTINF:0,CARTOON NETWORK FHD [ALT]
-http://lista.red:8880/moise/moise/34521
-#EXTINF:0,CARTOON NETWORK HD
-http://lista.red:8880/moise/moise/34173
-#EXTINF:0,CATARINENSE 1 HD
-http://lista.red:8880/moise/moise/33913
-#EXTINF:0,CATARINENSE 1 SD
-http://lista.red:8880/moise/moise/33912
-#EXTINF:0,CATARINENSE 2 HD
-http://lista.red:8880/moise/moise/33911
-#EXTINF:0,CATARINENSE 2 SD
-http://lista.red:8880/moise/moise/33910
-#EXTINF:0,CATARINENSE 3 HD
-http://lista.red:8880/moise/moise/33909
-#EXTINF:0,CATARINENSE 3 SD
-http://lista.red:8880/moise/moise/33908
-#EXTINF:0,CINEMAX
-http://lista.red:8880/moise/moise/34172
-#EXTINF:0,CINEMAX FHD
-http://lista.red:8880/moise/moise/34310
-#EXTINF:0,CINEMAX HD
-http://lista.red:8880/moise/moise/34171
-#EXTINF:0,COMBATE
-http://lista.red:8880/moise/moise/34170
-#EXTINF:0,COMBATE 4K UHD
-http://lista.red:8880/moise/moise/34532
-#EXTINF:0,COMBATE FHD
-http://lista.red:8880/moise/moise/34246
-#EXTINF:0,COMBATE FHD [ALT]
-http://lista.red:8880/moise/moise/34461
-#EXTINF:0,COMBATE HD
-http://lista.red:8880/moise/moise/34169
-#EXTINF:0,COMBATE HD [ALT]
-http://lista.red:8880/moise/moise/34415
-#EXTINF:0,COMEDY CENTRAL
-http://lista.red:8880/moise/moise/34168
-#EXTINF:0,COMEDY CENTRAL FHD
-http://lista.red:8880/moise/moise/34309
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/66021
+#EXTINF:0,BABY TV HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/157962
+#EXTINF:0,Band Campinas
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/196241
+#EXTINF:0,BAND News HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/66056
+#EXTINF:0,BAND PARANA
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/124369
+#EXTINF:0,BAND SPORT HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/66054
+#EXTINF:0,beIN SPORTS
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/163992
+#EXTINF:0,BOB ESPONJA 24h
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/124342
+#EXTINF:0,Boomerang FHD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/66065
+#EXTINF:0,Canal Brasil
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/156999
+#EXTINF:0,CANAL DO BOI
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/93196
+#EXTINF:0,CANAL RURAL
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/124371
+#EXTINF:0,Canal Sony HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/157000
+#EXTINF:0,CANCAO NOVA
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/148680
+#EXTINF:0,Cartoon Network FHD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/139121
+#EXTINF:0,CAVALHEIROS DO ZODIACOS
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/163975
+#EXTINF:0,CAVERNA DO DRAGAO 24hrs
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/163952
+#EXTINF:0,CHAVES 24h
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/124354
+#EXTINF:0,Cine 1
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/125480
+#EXTINF:0,Cinemax FHD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/100801
+#EXTINF:0,Combate FHD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/156819
 #EXTINF:0,COMEDY CENTRAL HD
-http://lista.red:8880/moise/moise/34167
-#EXTINF:0,COMEDY FHD [ALT]
-http://lista.red:8880/moise/moise/34460
-#EXTINF:0,COMEDY HD [ALT]
-http://lista.red:8880/moise/moise/34435
-#EXTINF:0,COPA NORDESTE 1 HD
-http://lista.red:8880/moise/moise/33939
-#EXTINF:0,COPA NORDESTE 1 SD
-http://lista.red:8880/moise/moise/33938
-#EXTINF:0,COPA NORDESTE 2 HD
-http://lista.red:8880/moise/moise/33937
-#EXTINF:0,COPA NORDESTE 2 SD
-http://lista.red:8880/moise/moise/33936
-#EXTINF:0,COPA NORDESTE 3 HD
-http://lista.red:8880/moise/moise/33935
-#EXTINF:0,COPA NORDESTE 3 SD
-http://lista.red:8880/moise/moise/33934
-#EXTINF:0,Curta!
-http://lista.red:8880/moise/moise/34166
-#EXTINF:0,CURTA! FHD
-http://lista.red:8880/moise/moise/34308
-#EXTINF:0,CURTA! HD
-http://lista.red:8880/moise/moise/34165
-#EXTINF:0,DAZN 1 FHD
-http://lista.red:8880/moise/moise/38129
-#EXTINF:0,DAZN 2 FHD
-http://lista.red:8880/moise/moise/38128
-#EXTINF:0,DAZN 3 FHD
-http://lista.red:8880/moise/moise/38127
-#EXTINF:0,DISCOVERY CHANNEL
-http://lista.red:8880/moise/moise/34164
-#EXTINF:0,DISCOVERY CHANNEL FHD
-http://lista.red:8880/moise/moise/34245
-#EXTINF:0,DISCOVERY CHANNEL HD
-http://lista.red:8880/moise/moise/34163
-#EXTINF:0,DISCOVERY CIVILIZATION
-http://lista.red:8880/moise/moise/34162
-#EXTINF:0,DISCOVERY CIVILIZATION FHD
-http://lista.red:8880/moise/moise/34307
-#EXTINF:0,DISCOVERY CIVILIZATION HD
-http://lista.red:8880/moise/moise/34161
-#EXTINF:0,DISCOVERY HOME & HEALTH
-http://lista.red:8880/moise/moise/34160
-#EXTINF:0,DISCOVERY HOME & HEALTH FHD
-http://lista.red:8880/moise/moise/34306
-#EXTINF:0,DISCOVERY HOME & HEALTH HD
-http://lista.red:8880/moise/moise/34159
-#EXTINF:0,DISCOVERY KIDS
-http://lista.red:8880/moise/moise/34158
-#EXTINF:0,DISCOVERY KIDS FHD
-http://lista.red:8880/moise/moise/34305
-#EXTINF:0,DISCOVERY KIDS FHD [ALT]
-http://lista.red:8880/moise/moise/34471
-#EXTINF:0,DISCOVERY KIDS HD
-http://lista.red:8880/moise/moise/34157
-#EXTINF:0,DISCOVERY KIDS HD [ALT]
-http://lista.red:8880/moise/moise/34464
-#EXTINF:0,DISCOVERY SCIENCE
-http://lista.red:8880/moise/moise/34156
-#EXTINF:0,DISCOVERY SCIENCE FHD
-http://lista.red:8880/moise/moise/34304
-#EXTINF:0,DISCOVERY SCIENCE HD
-http://lista.red:8880/moise/moise/34155
-#EXTINF:0,DISCOVERY THEATER
-http://lista.red:8880/moise/moise/34154
-#EXTINF:0,DISCOVERY THEATER FHD
-http://lista.red:8880/moise/moise/34303
-#EXTINF:0,DISCOVERY THEATER HD
-http://lista.red:8880/moise/moise/34153
-#EXTINF:0,DISCOVERY TURBO
-http://lista.red:8880/moise/moise/34152
-#EXTINF:0,DISCOVERY TURBO FHD
-http://lista.red:8880/moise/moise/34302
-#EXTINF:0,DISCOVERY TURBO FHD H.265 [ALT]
-http://lista.red:8880/moise/moise/34522
-#EXTINF:0,DISCOVERY TURBO HD
-http://lista.red:8880/moise/moise/34151
-#EXTINF:0,DISCOVERY TURBO HD [ALT]
-http://lista.red:8880/moise/moise/34479
-#EXTINF:0,DISCOVERY WORLD
-http://lista.red:8880/moise/moise/34150
-#EXTINF:0,DISCOVERY WORLD  HD
-http://lista.red:8880/moise/moise/34149
-#EXTINF:0,DISCOVERY WORLD FHD
-http://lista.red:8880/moise/moise/34301
-#EXTINF:0,DISNEY CHANNEL
-http://lista.red:8880/moise/moise/34148
-#EXTINF:0,DISNEY CHANNEL FHD
-http://lista.red:8880/moise/moise/34244
-#EXTINF:0,DISNEY CHANNEL FHD [ALT]
-http://lista.red:8880/moise/moise/34411
-#EXTINF:0,DISNEY CHANNEL HD
-http://lista.red:8880/moise/moise/34147
-#EXTINF:0,DISNEY JR FHD
-http://lista.red:8880/moise/moise/34250
-#EXTINF:0,DISNEY JR FHD [ALT]
-http://lista.red:8880/moise/moise/34414
-#EXTINF:0,DISNEY JR HD
-http://lista.red:8880/moise/moise/33971
-#EXTINF:0,DISNEY JR HD [ALT]
-http://lista.red:8880/moise/moise/34413
-#EXTINF:0,DISNEY JUNIOR
-http://lista.red:8880/moise/moise/34146
-#EXTINF:0,DISNEY XD
-http://lista.red:8880/moise/moise/34145
-#EXTINF:0,DISNEY XD FHD [ALT]
-http://lista.red:8880/moise/moise/34412
-#EXTINF:0,EI PLUS 2 HD
-http://lista.red:8880/moise/moise/33905
-#EXTINF:0,EI PLUS 2 SD
-http://lista.red:8880/moise/moise/33904
-#EXTINF:0,EI PLUS 3 HD
-http://lista.red:8880/moise/moise/33903
-#EXTINF:0,EI PLUS 3 SD
-http://lista.red:8880/moise/moise/33902
-#EXTINF:0,EI PLUS HD
-http://lista.red:8880/moise/moise/33907
-#EXTINF:0,EI PLUS SD
-http://lista.red:8880/moise/moise/33906
-#EXTINF:0,ESPN
-http://lista.red:8880/moise/moise/34142
-#EXTINF:0,ESPN 2
-http://lista.red:8880/moise/moise/34141
-#EXTINF:0,ESPN 2 FHD
-http://lista.red:8880/moise/moise/34299
-#EXTINF:0,ESPN 2 FHD [ALT]
-http://lista.red:8880/moise/moise/34443
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/163287
+#EXTINF:0,Discovery Channel FHD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/157944
+#EXTINF:0,Discovery Civilization FHD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/66062
+#EXTINF:0,Discovery Home & Health HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/146294
+#EXTINF:0,Discovery Kids FHD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/157961
+#EXTINF:0,Discovery Science FHD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/94188
+#EXTINF:0,Discovery Theater FHD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/88099
+#EXTINF:0,Discovery Turbo FHD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/139128
+#EXTINF:0,Discovery World FHD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/100091
+#EXTINF:0,Disney Channel FHD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/116367
+#EXTINF:0,Disney Junior
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/196318
+#EXTINF:0,DISNEY XD HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/68980
+#EXTINF:0,DOIS HOMENS E MEIO 24HRS
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/163976
+#EXTINF:0,DRAGON BALL 24h
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/124344
+#EXTINF:0,DRAGON BALL SUPER 24hrs
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/163955
+#EXTINF:0,ESPN + HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/100804
 #EXTINF:0,ESPN 2 HD
-http://lista.red:8880/moise/moise/34140
-#EXTINF:0,ESPN 2 HD [ALT]
-http://lista.red:8880/moise/moise/34419
-#EXTINF:0,ESPN BRASIL
-http://lista.red:8880/moise/moise/34139
-#EXTINF:0,ESPN BRASIL FHD
-http://lista.red:8880/moise/moise/34243
-#EXTINF:0,ESPN BRASIL FHD [ALT]
-http://lista.red:8880/moise/moise/34519
-#EXTINF:0,ESPN BRASIL HD
-http://lista.red:8880/moise/moise/34138
-#EXTINF:0,ESPN BRASIL HD [ALT]
-http://lista.red:8880/moise/moise/34520
-#EXTINF:0,ESPN EXTRA
-http://lista.red:8880/moise/moise/34137
-#EXTINF:0,ESPN Extra FHD
-http://lista.red:8880/moise/moise/34298
-#EXTINF:0,ESPN EXTRA FHD [ALT]
-http://lista.red:8880/moise/moise/34476
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/130202
+#EXTINF:0,ESPN Brasil FHD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/68955
 #EXTINF:0,ESPN EXTRA HD
-http://lista.red:8880/moise/moise/34136
-#EXTINF:0,ESPN EXTRA HD [ALT]
-http://lista.red:8880/moise/moise/34475
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/156829
 #EXTINF:0,ESPN FHD
-http://lista.red:8880/moise/moise/34242
-#EXTINF:0,ESPN HD
-http://lista.red:8880/moise/moise/34135
-#EXTINF:0,FISH TV
-http://lista.red:8880/moise/moise/34134
-#EXTINF:0,FISH TV FHD
-http://lista.red:8880/moise/moise/34297
-#EXTINF:0,FISH TV HD
-http://lista.red:8880/moise/moise/34133
-#EXTINF:0,FOOD NETWORK
-http://lista.red:8880/moise/moise/34132
-#EXTINF:0,FOOD NETWORK FHD
-http://lista.red:8880/moise/moise/34296
-#EXTINF:0,FOOD NETWORK HD
-http://lista.red:8880/moise/moise/34131
-#EXTINF:0,FOX
-http://lista.red:8880/moise/moise/34130
-#EXTINF:0,FOX FHD [ALT]
-http://lista.red:8880/moise/moise/34444
-#EXTINF:0,FOX FULLHD
-http://lista.red:8880/moise/moise/34241
-#EXTINF:0,FOX HD
-http://lista.red:8880/moise/moise/34129
-#EXTINF:0,FOX PREMIUM 1
-http://lista.red:8880/moise/moise/34126
-#EXTINF:0,FOX PREMIUM 1 FHD
-http://lista.red:8880/moise/moise/34294
-#EXTINF:0,FOX PREMIUM 1 HD
-http://lista.red:8880/moise/moise/34125
-#EXTINF:0,FOX PREMIUM 2
-http://lista.red:8880/moise/moise/34124
-#EXTINF:0,FOX PREMIUM 2 FHD
-http://lista.red:8880/moise/moise/34293
-#EXTINF:0,FOX PREMIUM 2 FHD [ALT]
-http://lista.red:8880/moise/moise/34422
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/66036
+#EXTINF:0,EUROSPORT
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/163853
+#EXTINF:0,FILM & ARTS
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/163854
+#EXTINF:0,Fish TV HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/68974
+#EXTINF:0,Food Network FHD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/88095
+#EXTINF:0,Fox HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/196292
+#EXTINF:0,FOX LIFE HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/156831
+#EXTINF:0,Fox Premium 1 FHD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/88101
 #EXTINF:0,FOX PREMIUM 2 HD
-http://lista.red:8880/moise/moise/34123
-#EXTINF:0,FOX PREMIUM 2 HD [ALT]
-http://lista.red:8880/moise/moise/34421
-#EXTINF:0,FOX SPORTS
-http://lista.red:8880/moise/moise/34122
-#EXTINF:0,FOX SPORTS 2
-http://lista.red:8880/moise/moise/34120
-#EXTINF:0,FOX SPORTS 2 FHD
-http://lista.red:8880/moise/moise/34240
-#EXTINF:0,FOX SPORTS 2 HD
-http://lista.red:8880/moise/moise/34119
-#EXTINF:0,FOX SPORTS 2 HD [ALT]
-http://lista.red:8880/moise/moise/34518
-#EXTINF:0,FOX SPORTS FHD
-http://lista.red:8880/moise/moise/34239
-#EXTINF:0,FOX SPORTS FHD 2 H.265 [ALT]
-http://lista.red:8880/moise/moise/34516
-#EXTINF:0,FOX SPORTS FHD H.265 [ALT]
-http://lista.red:8880/moise/moise/34517
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/163856
+#EXTINF:0,Fox Sport 2
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/68970
+#EXTINF:0,FOX SPORTS 1 HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/88071
 #EXTINF:0,FOX SPORTS HD
-http://lista.red:8880/moise/moise/34121
-#EXTINF:0,FOX SPORTS HD [ALT]
-http://lista.red:8880/moise/moise/34515
-#EXTINF:0,FOXPREMIUM 1 FHD [ALT]
-http://lista.red:8880/moise/moise/34459
-#EXTINF:0,FUTURA
-http://lista.red:8880/moise/moise/34118
-#EXTINF:0,FUTURA FHD
-http://lista.red:8880/moise/moise/34292
-#EXTINF:0,FUTURA HD
-http://lista.red:8880/moise/moise/34117
-#EXTINF:0,FX
-http://lista.red:8880/moise/moise/34116
-#EXTINF:0,FX FHD
-http://lista.red:8880/moise/moise/34291
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/156834
+#EXTINF:0,FOX USA
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/124217
+#EXTINF:0,Futura HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/66041
 #EXTINF:0,FX HD
-http://lista.red:8880/moise/moise/34115
-#EXTINF:0,GLOBO BRASILIA
-http://lista.red:8880/moise/moise/33901
-#EXTINF:0,GLOBO BRASILIA FHD
-http://lista.red:8880/moise/moise/33845
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/156832
+#EXTINF:0,GAZETA SP HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/163863
+#EXTINF:0,Globo Amazonas
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/123089
 #EXTINF:0,GLOBO BRASILIA HD
-http://lista.red:8880/moise/moise/33900
-#EXTINF:0,GLOBO EPTV ARARAQUARA
-http://lista.red:8880/moise/moise/33899
-#EXTINF:0,GLOBO EPTV CAMPINAS
-http://lista.red:8880/moise/moise/33898
-#EXTINF:0,GLOBO EPTV CAMPINAS FHD
-http://lista.red:8880/moise/moise/33844
-#EXTINF:0,GLOBO EPTV HD CAMPINAS
-http://lista.red:8880/moise/moise/33897
-#EXTINF:0,GLOBO EPTV HD RIBEIR√O PRETO
-http://lista.red:8880/moise/moise/33896
-#EXTINF:0,GLOBO EPTV RIBEIR√O PRETO
-http://lista.red:8880/moise/moise/33895
-#EXTINF:0,GLOBO EPTV RIBEIR√O PRETO FHD
-http://lista.red:8880/moise/moise/33825
-#EXTINF:0,GLOBO EPTV S√O CARLOS
-http://lista.red:8880/moise/moise/33894
-#EXTINF:0,GLOBO GAZETA SUL ES FHD [ALT]
-http://lista.red:8880/moise/moise/34528
-#EXTINF:0,GLOBO GAZETA VIT”RIA HD [ALT]
-http://lista.red:8880/moise/moise/34527
-#EXTINF:0,GLOBO INTER TV ALTO LITORAL FHD
-http://lista.red:8880/moise/moise/33824
-#EXTINF:0,GLOBO INTER TV ALTO LITORAL HD
-http://lista.red:8880/moise/moise/33823
-#EXTINF:0,GLOBO INTER TV ALTO LITORAL SD
-http://lista.red:8880/moise/moise/33822
-#EXTINF:0,GLOBO INTER TV DOS VALES FHD
-http://lista.red:8880/moise/moise/33821
-#EXTINF:0,GLOBO INTER TV DOS VALES HD
-http://lista.red:8880/moise/moise/33820
-#EXTINF:0,GLOBO INTER TV DOS VALES SD
-http://lista.red:8880/moise/moise/33819
-#EXTINF:0,GLOBO INTER TV GRANDE MINAS FHD
-http://lista.red:8880/moise/moise/33818
-#EXTINF:0,GLOBO INTER TV GRANDE MINAS HD
-http://lista.red:8880/moise/moise/33817
-#EXTINF:0,GLOBO INTER TV GRANDE MINAS SD
-http://lista.red:8880/moise/moise/33816
-#EXTINF:0,GLOBO INTER TV NATAL
-http://lista.red:8880/moise/moise/33893
-#EXTINF:0,GLOBO INTER TV SERRA MAR FHD
-http://lista.red:8880/moise/moise/33815
-#EXTINF:0,GLOBO INTER TV SERRA MAR HD
-http://lista.red:8880/moise/moise/33814
-#EXTINF:0,GLOBO INTER TV SERRA MAR SD
-http://lista.red:8880/moise/moise/33813
-#EXTINF:0,GLOBO INTERNACIONAL
-http://lista.red:8880/moise/moise/33861
-#EXTINF:0,GLOBO MANAUS
-http://lista.red:8880/moise/moise/33884
-#EXTINF:0,GLOBO MINAS
-http://lista.red:8880/moise/moise/33892
-#EXTINF:0,GLOBO MINAS [ALT]
-http://lista.red:8880/moise/moise/34524
-#EXTINF:0,GLOBO MINAS FULLHD
-http://lista.red:8880/moise/moise/33843
-#EXTINF:0,GLOBO MINAS HD
-http://lista.red:8880/moise/moise/33891
-#EXTINF:0,GLOBO MINAS HD [ALT]
-http://lista.red:8880/moise/moise/34525
-#EXTINF:0,GLOBO NEWS
-http://lista.red:8880/moise/moise/34114
-#EXTINF:0,GLOBO NEWS FHD
-http://lista.red:8880/moise/moise/34238
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/112287
+#EXTINF:0,Globo EPTV Campinas
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/149694
+#EXTINF:0,Globo EPTV S
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/123095
+#EXTINF:0,Globo ES HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/136658
+#EXTINF:0,GLOBO FORTALEZA
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/124244
+#EXTINF:0,Globo NE
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/136662
 #EXTINF:0,GLOBO NEWS HD
-http://lista.red:8880/moise/moise/34113
-#EXTINF:0,GLOBO NEWS HD [ALT]
-http://lista.red:8880/moise/moise/34423
-#EXTINF:0,GLOBO NORDESTE
-http://lista.red:8880/moise/moise/33890
-#EXTINF:0,GLOBO NORDESTE FHD
-http://lista.red:8880/moise/moise/33842
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/156984
 #EXTINF:0,GLOBO NORDESTE HD
-http://lista.red:8880/moise/moise/33889
-#EXTINF:0,GLOBO NSC TV BLUMENAU FHD
-http://lista.red:8880/moise/moise/33812
-#EXTINF:0,GLOBO NSC TV BLUMENAU HD
-http://lista.red:8880/moise/moise/33811
-#EXTINF:0,GLOBO NSC TV BLUMENAU SD
-http://lista.red:8880/moise/moise/33810
-#EXTINF:0,GLOBO NSC TV CHAPECO FHD
-http://lista.red:8880/moise/moise/33860
-#EXTINF:0,GLOBO NSC TV CHAPECO HD
-http://lista.red:8880/moise/moise/33859
-#EXTINF:0,GLOBO NSC TV CHAPECO SD
-http://lista.red:8880/moise/moise/33858
-#EXTINF:0,GLOBO NSC TV FLORIANOPOLIS
-http://lista.red:8880/moise/moise/33888
-#EXTINF:0,GLOBO NSC TV FLORIANOPOLIS FHD
-http://lista.red:8880/moise/moise/33841
-#EXTINF:0,GLOBO NSC TV FLORIANOPOLIS HD
-http://lista.red:8880/moise/moise/33887
-#EXTINF:0,GLOBO NSC TV JOINVILLE FHD
-http://lista.red:8880/moise/moise/33806
-#EXTINF:0,GLOBO NSC TV JOINVILLE HD
-http://lista.red:8880/moise/moise/33805
-#EXTINF:0,GLOBO NSC TV JOINVILLE SD
-http://lista.red:8880/moise/moise/33804
-#EXTINF:0,GLOBO RBS PORTO ALEGRE FHD
-http://lista.red:8880/moise/moise/33840
-#EXTINF:0,GLOBO RBS TV CAXIAS DO SUL FHD
-http://lista.red:8880/moise/moise/33809
-#EXTINF:0,GLOBO RBS TV CAXIAS DO SUL HD
-http://lista.red:8880/moise/moise/33808
-#EXTINF:0,GLOBO RBS TV CAXIAS DO SUL SD
-http://lista.red:8880/moise/moise/33807
-#EXTINF:0,GLOBO RBS TV PELOTAS FHD
-http://lista.red:8880/moise/moise/33803
-#EXTINF:0,GLOBO RBS TV PELOTAS HD
-http://lista.red:8880/moise/moise/33802
-#EXTINF:0,GLOBO RBS TV PELOTAS SD
-http://lista.red:8880/moise/moise/33801
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/109201
+#EXTINF:0,GLOBO PARANA HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/163866
+#EXTINF:0,GLOBO PORTUGAL
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/124231
+#EXTINF:0,Globo Premium
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/88051
 #EXTINF:0,GLOBO RBS TV PORTO ALEGRE
-http://lista.red:8880/moise/moise/33886
-#EXTINF:0,GLOBO RBS TV PORTO ALEGRE HD
-http://lista.red:8880/moise/moise/33885
-#EXTINF:0,GLOBO RJ
-http://lista.red:8880/moise/moise/33883
-#EXTINF:0,GLOBO RJ FHD
-http://lista.red:8880/moise/moise/33881
-#EXTINF:0,GLOBO RJ FHD [ALT]
-http://lista.red:8880/moise/moise/34530
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/163872
 #EXTINF:0,GLOBO RJ HD
-http://lista.red:8880/moise/moise/33882
-#EXTINF:0,GLOBO RJ HD [ALT]
-http://lista.red:8880/moise/moise/34529
-#EXTINF:0,GLOBO RPC CURITIBA
-http://lista.red:8880/moise/moise/33880
-#EXTINF:0,GLOBO RPC CURITIBA FHD
-http://lista.red:8880/moise/moise/33878
-#EXTINF:0,GLOBO RPC CURITIBA HD
-http://lista.red:8880/moise/moise/33879
-#EXTINF:0,GLOBO RPC FOZ DO IGUA«U
-http://lista.red:8880/moise/moise/33857
-#EXTINF:0,GLOBO RPC FOZ DO IGUA«U FHD
-http://lista.red:8880/moise/moise/33856
-#EXTINF:0,GLOBO RPC FOZ DO IGUA«U HD
-http://lista.red:8880/moise/moise/33855
-#EXTINF:0,GLOBO SP
-http://lista.red:8880/moise/moise/33877
-#EXTINF:0,GLOBO SP 4K UHD
-http://lista.red:8880/moise/moise/34531
-#EXTINF:0,GLOBO SP FHD [ALT]
-http://lista.red:8880/moise/moise/34514
-#EXTINF:0,GLOBO SP FULLHD
-http://lista.red:8880/moise/moise/33875
-#EXTINF:0,GLOBO SP HD
-http://lista.red:8880/moise/moise/33876
-#EXTINF:0,GLOBO SP HD [ALT]
-http://lista.red:8880/moise/moise/34513
-#EXTINF:0,GLOBO TV ANHANGUERA
-http://lista.red:8880/moise/moise/33874
-#EXTINF:0,GLOBO TV ANHANGUERA FHD
-http://lista.red:8880/moise/moise/33839
-#EXTINF:0,GLOBO TV ANHANGUERA HD
-http://lista.red:8880/moise/moise/33873
-#EXTINF:0,GLOBO TV BAHIA
-http://lista.red:8880/moise/moise/33872
-#EXTINF:0,GLOBO TV BAHIA FHD
-http://lista.red:8880/moise/moise/33838
-#EXTINF:0,GLOBO TV BAHIA HD
-http://lista.red:8880/moise/moise/33871
-#EXTINF:0,GLOBO TV C. AM…RICA CUIABA
-http://lista.red:8880/moise/moise/33870
-#EXTINF:0,GLOBO TV CABO BRANCO FHD
-http://lista.red:8880/moise/moise/33800
-#EXTINF:0,GLOBO TV CABO BRANCO HD
-http://lista.red:8880/moise/moise/33799
-#EXTINF:0,GLOBO TV CABO BRANCO SD
-http://lista.red:8880/moise/moise/33798
-#EXTINF:0,GLOBO TV CLUBE TERESINA
-http://lista.red:8880/moise/moise/33854
-#EXTINF:0,GLOBO TV CLUBE TERESINA FHD
-http://lista.red:8880/moise/moise/33853
-#EXTINF:0,GLOBO TV CLUBE TERESINA HD
-http://lista.red:8880/moise/moise/33852
-#EXTINF:0,GLOBO TV GAZETA ALAGOAS
-http://lista.red:8880/moise/moise/33830
-#EXTINF:0,GLOBO TV GAZETA ALAGOAS FHD
-http://lista.red:8880/moise/moise/33829
-#EXTINF:0,GLOBO TV GAZETA ALAGOAS HD
-http://lista.red:8880/moise/moise/33828
-#EXTINF:0,GLOBO TV GAZETA SUL ES FHD
-http://lista.red:8880/moise/moise/33827
-#EXTINF:0,GLOBO TV GAZETA SUL ES HD
-http://lista.red:8880/moise/moise/33826
-#EXTINF:0,GLOBO TV GAZETA VIT”RIA
-http://lista.red:8880/moise/moise/33851
-#EXTINF:0,GLOBO TV GAZETA VIT”RIA FHD
-http://lista.red:8880/moise/moise/33850
-#EXTINF:0,GLOBO TV GAZETA VIT”RIA HD
-http://lista.red:8880/moise/moise/33849
-#EXTINF:0,GLOBO TV LIBERAL BELEM
-http://lista.red:8880/moise/moise/33869
-#EXTINF:0,GLOBO TV MIRANTE SAO LUIS FHD
-http://lista.red:8880/moise/moise/33837
-#EXTINF:0,GLOBO TV MIRANTE SAO LUIS HD
-http://lista.red:8880/moise/moise/33836
-#EXTINF:0,GLOBO TV MIRANTE SAO LUIS SD
-http://lista.red:8880/moise/moise/33835
-#EXTINF:0,GLOBO TV MORENA CAMPO GRANDE FHD
-http://lista.red:8880/moise/moise/33834
-#EXTINF:0,GLOBO TV MORENA CAMPO GRANDE HD
-http://lista.red:8880/moise/moise/33833
-#EXTINF:0,GLOBO TV MORENA CAMPO GRANDE SD
-http://lista.red:8880/moise/moise/33832
-#EXTINF:0,GLOBO TV RIO SUL FHD
-http://lista.red:8880/moise/moise/33797
-#EXTINF:0,GLOBO TV RIO SUL HD
-http://lista.red:8880/moise/moise/33796
-#EXTINF:0,GLOBO TV RIO SUL SD
-http://lista.red:8880/moise/moise/33795
-#EXTINF:0,GLOBO TV SANTA CRUZ FHD
-http://lista.red:8880/moise/moise/33794
-#EXTINF:0,GLOBO TV SANTA CRUZ HD
-http://lista.red:8880/moise/moise/33793
-#EXTINF:0,GLOBO TV SANTA CRUZ SD
-http://lista.red:8880/moise/moise/33792
-#EXTINF:0,GLOBO TV SERGIPE
-http://lista.red:8880/moise/moise/33848
-#EXTINF:0,GLOBO TV SERGIPE FHD
-http://lista.red:8880/moise/moise/33847
-#EXTINF:0,GLOBO TV SERGIPE HD
-http://lista.red:8880/moise/moise/33846
-#EXTINF:0,GLOBO TV TEM BAURU
-http://lista.red:8880/moise/moise/33868
-#EXTINF:0,GLOBO TV TEM S. J. DO RIO PRETO
-http://lista.red:8880/moise/moise/33865
-#EXTINF:0,GLOBO TV TEM S. J. DO RIO PRETO HD
-http://lista.red:8880/moise/moise/33866
-#EXTINF:0,GLOBO TV TEM S. J. RIO PRETO FHD
-http://lista.red:8880/moise/moise/33831
-#EXTINF:0,GLOBO TV TEM SOROCABA
-http://lista.red:8880/moise/moise/33867
-#EXTINF:0,GLOBO TV TRIBUNA SANTOS
-http://lista.red:8880/moise/moise/33864
-#EXTINF:0,GLOBO TV VANGUARDA S. J. DOS CAMPOS
-http://lista.red:8880/moise/moise/33863
-#EXTINF:0,GLOBO TV VERDES MARES FORTALEZA
-http://lista.red:8880/moise/moise/33862
-#EXTINF:0,GLOBO TV VERDES MARES FORTALEZA HD [ALT]
-http://lista.red:8880/moise/moise/34526
-#EXTINF:0,GLOOB
-http://lista.red:8880/moise/moise/34112
-#EXTINF:0,GLOOB FHD
-http://lista.red:8880/moise/moise/34237
-#EXTINF:0,GLOOB FHD [ALT]
-http://lista.red:8880/moise/moise/34470
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/110340
+#EXTINF:0,GLOBO RN HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/124245
+#EXTINF:0,Globo SP
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/196249
+#EXTINF:0,Globo Tv Tem Bauru HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/149697
+#EXTINF:0,Globo Tv Verdes Mares Fortaleza
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/139137
+#EXTINF:0,Globosat HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/102991
 #EXTINF:0,GLOOB HD
-http://lista.red:8880/moise/moise/34111
-#EXTINF:0,GLOOB HD [ALT]
-http://lista.red:8880/moise/moise/34465
-#EXTINF:0,GLOOBINHO FHD
-http://lista.red:8880/moise/moise/34290
-#EXTINF:0,GLOOBINHO HD
-http://lista.red:8880/moise/moise/34110
-#EXTINF:0,GLOOBINHO SD
-http://lista.red:8880/moise/moise/34109
-#EXTINF:0,GNT
-http://lista.red:8880/moise/moise/34108
-#EXTINF:0,GNT FHD
-http://lista.red:8880/moise/moise/34289
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/156987
+#EXTINF:0,Gloobinho
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/136680
 #EXTINF:0,GNT HD
-http://lista.red:8880/moise/moise/34107
-#EXTINF:0,H2 FHD
-http://lista.red:8880/moise/moise/34288
-#EXTINF:0,H2 FHD [ALT]
-http://lista.red:8880/moise/moise/34453
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/88049
+#EXTINF:0,GOSPEL CARTOON
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/163954
+#EXTINF:0,H2 Brasil
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/110344
 #EXTINF:0,H2 HD
-http://lista.red:8880/moise/moise/34105
-#EXTINF:0,H2 SD
-http://lista.red:8880/moise/moise/34106
-#EXTINF:0,HBO
-http://lista.red:8880/moise/moise/34104
-#EXTINF:0,HBO 2
-http://lista.red:8880/moise/moise/34103
-#EXTINF:0,HBO 2 FHD
-http://lista.red:8880/moise/moise/34236
-#EXTINF:0,HBO 2 FHD H.265 [ALT]
-http://lista.red:8880/moise/moise/34511
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/139141
 #EXTINF:0,HBO 2 HD
-http://lista.red:8880/moise/moise/34102
-#EXTINF:0,HBO 2 HD [ALT]
-http://lista.red:8880/moise/moise/34510
-#EXTINF:0,HBO [ALT]
-http://lista.red:8880/moise/moise/34512
-#EXTINF:0,HBO FAMILY
-http://lista.red:8880/moise/moise/34101
-#EXTINF:0,HBO FAMILY FHD
-http://lista.red:8880/moise/moise/34287
-#EXTINF:0,HBO FAMILY HD
-http://lista.red:8880/moise/moise/34100
-#EXTINF:0,HBO FHD
-http://lista.red:8880/moise/moise/34235
-#EXTINF:0,HBO FHD H.265 [ALT]
-http://lista.red:8880/moise/moise/34509
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/156835
 #EXTINF:0,HBO HD
-http://lista.red:8880/moise/moise/34099
-#EXTINF:0,HBO PLUS
-http://lista.red:8880/moise/moise/34098
-#EXTINF:0,HBO PLUS FHD
-http://lista.red:8880/moise/moise/34286
-#EXTINF:0,HBO PLUS FHD [ALT]
-http://lista.red:8880/moise/moise/34449
-#EXTINF:0,HBO PLUS HD
-http://lista.red:8880/moise/moise/34097
-#EXTINF:0,HBO PLUS HD [ALT]
-http://lista.red:8880/moise/moise/34433
-#EXTINF:0,HBO SIGNATURE
-http://lista.red:8880/moise/moise/34096
-#EXTINF:0,HBO SIGNATURE FHD
-http://lista.red:8880/moise/moise/34285
-#EXTINF:0,HBO SIGNATURE HD
-http://lista.red:8880/moise/moise/34095
-#EXTINF:0,HISTORY
-http://lista.red:8880/moise/moise/34094
-#EXTINF:0,HISTORY FHD
-http://lista.red:8880/moise/moise/34284
-#EXTINF:0,HISTORY FHD [ALT]
-http://lista.red:8880/moise/moise/34474
-#EXTINF:0,HISTORY HD
-http://lista.red:8880/moise/moise/34093
-#EXTINF:0,HISTORY HD [ALT]
-http://lista.red:8880/moise/moise/34473
-#EXTINF:0,INVESTIGATION DISCOVERY
-http://lista.red:8880/moise/moise/34092
-#EXTINF:0,INVESTIGATION DISCOVERY FHD
-http://lista.red:8880/moise/moise/34283
-#EXTINF:0,INVESTIGATION DISCOVERY FHD [ALT]
-http://lista.red:8880/moise/moise/34442
-#EXTINF:0,INVESTIGATION DISCOVERY HD
-http://lista.red:8880/moise/moise/34091
-#EXTINF:0,LIFETIME
-http://lista.red:8880/moise/moise/34090
-#EXTINF:0,LIFETIME FHD
-http://lista.red:8880/moise/moise/34282
-#EXTINF:0,LIFETIME HD
-http://lista.red:8880/moise/moise/34089
-#EXTINF:0,MAX
-http://lista.red:8880/moise/moise/34086
-#EXTINF:0,MAX FHD
-http://lista.red:8880/moise/moise/34281
-#EXTINF:0,MAX FHD [ALT]
-http://lista.red:8880/moise/moise/34457
-#EXTINF:0,MAX HD
-http://lista.red:8880/moise/moise/34085
-#EXTINF:0,MAX PRIME
-http://lista.red:8880/moise/moise/34084
-#EXTINF:0,MAX PRIME FHD
-http://lista.red:8880/moise/moise/34280
-#EXTINF:0,MAX PRIME HD
-http://lista.red:8880/moise/moise/34083
-#EXTINF:0,MAX SD [ALT]
-http://lista.red:8880/moise/moise/34432
-#EXTINF:0,MAX UP
-http://lista.red:8880/moise/moise/34082
-#EXTINF:0,MAX UP FHD
-http://lista.red:8880/moise/moise/34279
-#EXTINF:0,MAX UP HD
-http://lista.red:8880/moise/moise/34081
-#EXTINF:0,MAXPRIME FHD [ALT]
-http://lista.red:8880/moise/moise/34437
-#EXTINF:0,MAXPRIME HD [ALT]
-http://lista.red:8880/moise/moise/34431
-#EXTINF:0,MEGAPIX
-http://lista.red:8880/moise/moise/34080
-#EXTINF:0,MEGAPIX FHD
-http://lista.red:8880/moise/moise/34278
-#EXTINF:0,MEGAPIX FHD [ALT]
-http://lista.red:8880/moise/moise/34445
-#EXTINF:0,MEGAPIX HD
-http://lista.red:8880/moise/moise/34079
-#EXTINF:0,NAT GEO
-http://lista.red:8880/moise/moise/34072
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/156837
+#EXTINF:0,HBO PLUS E
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/68962
+#EXTINF:0,HBO Signature FHD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/68961
+#EXTINF:0,History Channel HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/66051
+#EXTINF:0,Hit TV
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/136697
+#EXTINF:0,HOMEM ARANHA 24 hrs
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/163968
+#EXTINF:0,ID: InvestigaÁ„o Discovery HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/149711
+#EXTINF:0,Investigation Disvovery
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/175466
+#EXTINF:0,Lifetime FHD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/66068
+#EXTINF:0,Mais Globo Sa
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/114019
+#EXTINF:0,Mana Sat
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/66072
+#EXTINF:0,MASCARA 24 HRS
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/163974
+#EXTINF:0,MASTER TV
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/105229
+#EXTINF:0,Max FHD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/139147
+#EXTINF:0,Max Prime HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/157007
+#EXTINF:0,Max Up HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/157008
+#EXTINF:0,Megapix FHD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/156842
 #EXTINF:0,NAT GEO FHD
-http://lista.red:8880/moise/moise/34273
-#EXTINF:0,NAT GEO FHD [ALT]
-http://lista.red:8880/moise/moise/34491
-#EXTINF:0,NAT GEO HD
-http://lista.red:8880/moise/moise/34071
-#EXTINF:0,NAT GEO KIDS
-http://lista.red:8880/moise/moise/34070
-#EXTINF:0,NAT GEO KIDS FHD
-http://lista.red:8880/moise/moise/34272
-#EXTINF:0,NAT GEO KIDS HD
-http://lista.red:8880/moise/moise/34069
-#EXTINF:0,NAT GEO WILD
-http://lista.red:8880/moise/moise/34067
-#EXTINF:0,NAT GEO WILD FHD
-http://lista.red:8880/moise/moise/34271
-#EXTINF:0,NAT GEO WILD HD
-http://lista.red:8880/moise/moise/34068
-#EXTINF:0,NATGEO KIDS FHD [ALT]
-http://lista.red:8880/moise/moise/34440
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/66048
+#EXTINF:0,NAT GEO Kids FHD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/109218
+#EXTINF:0,NATGEO WILD HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/163892
 #EXTINF:0,NBR
-http://lista.red:8880/moise/moise/34066
-#EXTINF:0,NICK JR
-http://lista.red:8880/moise/moise/34065
-#EXTINF:0,NICK JR FHD
-http://lista.red:8880/moise/moise/34270
-#EXTINF:0,NICK JR FHD [ALT]
-http://lista.red:8880/moise/moise/34409
-#EXTINF:0,NICK JR HD
-http://lista.red:8880/moise/moise/34064
-#EXTINF:0,NICK JR HD [ALT]
-http://lista.red:8880/moise/moise/34410
-#EXTINF:0,NICKELODEN
-http://lista.red:8880/moise/moise/34063
-#EXTINF:0,NICKELODEON FHD
-http://lista.red:8880/moise/moise/34269
-#EXTINF:0,NICKELODEON HD
-http://lista.red:8880/moise/moise/34062
-#EXTINF:0,OFF
-http://lista.red:8880/moise/moise/34061
-#EXTINF:0,OFF FHD
-http://lista.red:8880/moise/moise/34268
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/124375
+#EXTINF:0,Nick Junior HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/100803
+#EXTINF:0,Nickelodeon
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/196323
 #EXTINF:0,OFF HD
-http://lista.red:8880/moise/moise/34060
-#EXTINF:0,PARAMOUNT CHANNEL
-http://lista.red:8880/moise/moise/34059
-#EXTINF:0,PARAMOUNT CHANNEL FHD
-http://lista.red:8880/moise/moise/34267
-#EXTINF:0,PARAMOUNT CHANNEL HD
-http://lista.red:8880/moise/moise/34058
-#EXTINF:0,PLAYKIDS FHD
-http://lista.red:8880/moise/moise/34209
-#EXTINF:0,PLAYKIDS HD
-http://lista.red:8880/moise/moise/33961
-#EXTINF:0,PLAYKIDS SD
-http://lista.red:8880/moise/moise/33960
-#EXTINF:0,PREMIERE 2
-http://lista.red:8880/moise/moise/34057
-#EXTINF:0,PREMIERE 2 FHD
-http://lista.red:8880/moise/moise/34234
-#EXTINF:0,PREMIERE 2 FHD H.265 [ALT]
-http://lista.red:8880/moise/moise/34487
-#EXTINF:0,PREMIERE 2 HD
-http://lista.red:8880/moise/moise/34056
-#EXTINF:0,PREMIERE 2 HD [ALT]
-http://lista.red:8880/moise/moise/34484
-#EXTINF:0,PREMIERE 3
-http://lista.red:8880/moise/moise/34055
-#EXTINF:0,PREMIERE 3 FHD
-http://lista.red:8880/moise/moise/34233
-#EXTINF:0,PREMIERE 3 FHD H.265 [ALT]
-http://lista.red:8880/moise/moise/34486
-#EXTINF:0,PREMIERE 3 HD
-http://lista.red:8880/moise/moise/34054
-#EXTINF:0,PREMIERE 3 HD [ALT]
-http://lista.red:8880/moise/moise/34483
-#EXTINF:0,PREMIERE 4
-http://lista.red:8880/moise/moise/34053
-#EXTINF:0,PREMIERE 4 FHD
-http://lista.red:8880/moise/moise/34232
-#EXTINF:0,PREMIERE 4 FHD H.265 [ALT]
-http://lista.red:8880/moise/moise/34485
-#EXTINF:0,PREMIERE 4 HD
-http://lista.red:8880/moise/moise/34052
-#EXTINF:0,PREMIERE 4 HD  [ALT]
-http://lista.red:8880/moise/moise/34489
-#EXTINF:0,PREMIERE 5
-http://lista.red:8880/moise/moise/34051
-#EXTINF:0,PREMIERE 5 FHD
-http://lista.red:8880/moise/moise/34231
-#EXTINF:0,PREMIERE 5 FHD [ALT]
-http://lista.red:8880/moise/moise/34469
-#EXTINF:0,PREMIERE 5 HD
-http://lista.red:8880/moise/moise/34050
-#EXTINF:0,PREMIERE 5 HD [ALT]
-http://lista.red:8880/moise/moise/34466
-#EXTINF:0,PREMIERE 6
-http://lista.red:8880/moise/moise/34049
-#EXTINF:0,PREMIERE 6 FHD
-http://lista.red:8880/moise/moise/34230
-#EXTINF:0,PREMIERE 6 FHD [ALT]
-http://lista.red:8880/moise/moise/34468
-#EXTINF:0,PREMIERE 6 HD
-http://lista.red:8880/moise/moise/34048
-#EXTINF:0,PREMIERE 6 HD [ALT]
-http://lista.red:8880/moise/moise/34467
-#EXTINF:0,PREMIERE 7
-http://lista.red:8880/moise/moise/34047
-#EXTINF:0,PREMIERE 7 FHD
-http://lista.red:8880/moise/moise/34229
-#EXTINF:0,PREMIERE 7 HD
-http://lista.red:8880/moise/moise/34046
-#EXTINF:0,PREMIERE CLUBES
-http://lista.red:8880/moise/moise/34045
-#EXTINF:0,PREMIERE CLUBES 4K UHD
-http://lista.red:8880/moise/moise/34533
-#EXTINF:0,PREMIERE CLUBES FHD
-http://lista.red:8880/moise/moise/34228
-#EXTINF:0,PREMIERE CLUBES FHD H.265 [ALT]
-http://lista.red:8880/moise/moise/34488
-#EXTINF:0,PREMIERE CLUBES HD
-http://lista.red:8880/moise/moise/34044
-#EXTINF:0,PREMIERE CLUBES HD [ALT]
-http://lista.red:8880/moise/moise/34490
-#EXTINF:0,RECORD BA FHD
-http://lista.red:8880/moise/moise/34207
-#EXTINF:0,RECORD BA HD
-http://lista.red:8880/moise/moise/33958
-#EXTINF:0,RECORD BA SD
-http://lista.red:8880/moise/moise/33957
-#EXTINF:0,RECORD DF FHD
-http://lista.red:8880/moise/moise/34206
-#EXTINF:0,RECORD DF HD
-http://lista.red:8880/moise/moise/33956
-#EXTINF:0,RECORD DF SD
-http://lista.red:8880/moise/moise/33955
-#EXTINF:0,RECORD FHD [ALT]
-http://lista.red:8880/moise/moise/34456
-#EXTINF:0,RECORD HD
-http://lista.red:8880/moise/moise/34040
-#EXTINF:0,RECORD HD [ALT]
-http://lista.red:8880/moise/moise/34428
-#EXTINF:0,RECORD MG FHD
-http://lista.red:8880/moise/moise/34211
-#EXTINF:0,RECORD MG HD
-http://lista.red:8880/moise/moise/33963
-#EXTINF:0,RECORD MG SD
-http://lista.red:8880/moise/moise/33962
-#EXTINF:0,RECORD NEWS
-http://lista.red:8880/moise/moise/34039
-#EXTINF:0,RECORD NEWS FHD
-http://lista.red:8880/moise/moise/34265
-#EXTINF:0,RECORD NEWS HD
-http://lista.red:8880/moise/moise/34038
-#EXTINF:0,RECORD RIO FHD
-http://lista.red:8880/moise/moise/34210
-#EXTINF:0,RECORD RIO HD
-http://lista.red:8880/moise/moise/33965
-#EXTINF:0,RECORD RIO SD
-http://lista.red:8880/moise/moise/33964
-#EXTINF:0,RECORD RS FHD
-http://lista.red:8880/moise/moise/34205
-#EXTINF:0,RECORD RS HD
-http://lista.red:8880/moise/moise/33954
-#EXTINF:0,RECORD RS SD
-http://lista.red:8880/moise/moise/33953
-#EXTINF:0,RECORD SP
-http://lista.red:8880/moise/moise/34041
-#EXTINF:0,RECORD SP FHD
-http://lista.red:8880/moise/moise/34227
-#EXTINF:0,RECORD SP HD
-http://lista.red:8880/moise/moise/34037
-#EXTINF:0,REDE SECULO 21
-http://lista.red:8880/moise/moise/35873
-#EXTINF:0,REDE TV
-http://lista.red:8880/moise/moise/34035
-#EXTINF:0,REDE TV FHD
-http://lista.red:8880/moise/moise/34213
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/104801
+#EXTINF:0,OS SIMPSON 24hr
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/163965
+#EXTINF:0,Paramount Channel FHD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/68947
+#EXTINF:0,PERNALONGA 24hrs
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/163960
+#EXTINF:0,PFC 1 FHD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/136728
+#EXTINF:0,PFC 4 FHD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/136737
+#EXTINF:0,PFC 7 FHD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/136747
+#EXTINF:0,PFC HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/88065
+#EXTINF:0,Phineas e Ferb 24h
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/124353
+#EXTINF:0,PREMIER 2 HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/156993
+#EXTINF:0,PREMIER 3 HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/68943
+#EXTINF:0,PREMIER 24HS HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/124282
+#EXTINF:0,Premiere 1 HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/104803
+#EXTINF:0,Premiere 4 HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/68942
+#EXTINF:0,Premiere 5 HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/164324
+#EXTINF:0,Premiere 8
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/163902
+#EXTINF:0,Premiere 9
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/196269
+#EXTINF:0,Premiere Clubes
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/156848
+#EXTINF:0,Proyecto 40
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/135023
+#EXTINF:0,RAMBO 24HRS
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/163953
+#EXTINF:0,REAL MADRID TV
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/124294
+#EXTINF:0,Record Campinas HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/123123
+#EXTINF:0,Record FHD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/68934
+#EXTINF:0,Record News FHD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/66031
+#EXTINF:0,Record SP HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/109214
 #EXTINF:0,REDE TV HD
-http://lista.red:8880/moise/moise/34034
-#EXTINF:0,SBT
-http://lista.red:8880/moise/moise/34032
-#EXTINF:0,SBT FHD
-http://lista.red:8880/moise/moise/34226
-#EXTINF:0,SBT FHD H.265 [ALT]
-http://lista.red:8880/moise/moise/34480
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/93190
+#EXTINF:0,SBT BRASIL
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/111836
 #EXTINF:0,SBT HD
-http://lista.red:8880/moise/moise/34031
-#EXTINF:0,SBT SP INTERIOR
-http://lista.red:8880/moise/moise/34030
-#EXTINF:0,SPACE
-http://lista.red:8880/moise/moise/34027
-#EXTINF:0,SPACE FHD
-http://lista.red:8880/moise/moise/34264
-#EXTINF:0,SPACE FHD [ALT]
-http://lista.red:8880/moise/moise/34441
-#EXTINF:0,SPACE HD
-http://lista.red:8880/moise/moise/34026
-#EXTINF:0,SPORTV
-http://lista.red:8880/moise/moise/34025
-#EXTINF:0,SPORTV 2
-http://lista.red:8880/moise/moise/34024
-#EXTINF:0,SPORTV 2 FHD
-http://lista.red:8880/moise/moise/34225
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/139151
+#EXTINF:0,SKY CINEMA HD UNO
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/66080
+#EXTINF:0,Sony FHD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/110357
+#EXTINF:0,Space FHD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/139152
+#EXTINF:0,SPORTV 1 HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/88062
 #EXTINF:0,SPORTV 2 HD
-http://lista.red:8880/moise/moise/34023
-#EXTINF:0,SPORTV 3
-http://lista.red:8880/moise/moise/34022
-#EXTINF:0,SPORTV 3 FHD
-http://lista.red:8880/moise/moise/34224
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/139153
 #EXTINF:0,SPORTV 3 HD
-http://lista.red:8880/moise/moise/34021
-#EXTINF:0,SPORTV 4K UHD
-http://lista.red:8880/moise/moise/34534
-#EXTINF:0,SPORTV FHD
-http://lista.red:8880/moise/moise/34223
-#EXTINF:0,SPORTV FHD 2 H.265 [ALT]
-http://lista.red:8880/moise/moise/34496
-#EXTINF:0,SPORTV FHD 3 H.265 [ALT]
-http://lista.red:8880/moise/moise/34495
-#EXTINF:0,SPORTV FHD H.265 [ALT]
-http://lista.red:8880/moise/moise/34497
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/139154
 #EXTINF:0,SPORTV HD
-http://lista.red:8880/moise/moise/34020
-#EXTINF:0,SPORTV HD 2 [ALT]
-http://lista.red:8880/moise/moise/34493
-#EXTINF:0,SPORTV HD 3 [ALT]
-http://lista.red:8880/moise/moise/34492
-#EXTINF:0,SPORTV HD [ALT]
-http://lista.red:8880/moise/moise/34494
-#EXTINF:0,STUDIO UNIVERSAL
-http://lista.red:8880/moise/moise/34019
-#EXTINF:0,STUDIO UNIVERSAL FHD
-http://lista.red:8880/moise/moise/34263
-#EXTINF:0,STUDIO UNIVERSAL HD
-http://lista.red:8880/moise/moise/34018
-#EXTINF:0,SYFY
-http://lista.red:8880/moise/moise/34029
-#EXTINF:0,SYFY FHD
-http://lista.red:8880/moise/moise/34262
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/149745
+#EXTINF:0,STB
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/68909
+#EXTINF:0,Studio Universal HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/157009
 #EXTINF:0,SYFY HD
-http://lista.red:8880/moise/moise/34028
-#EXTINF:0,TBS
-http://lista.red:8880/moise/moise/34017
-#EXTINF:0,TBS FHD
-http://lista.red:8880/moise/moise/34261
-#EXTINF:0,TBS FHD [ALT]
-http://lista.red:8880/moise/moise/34455
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/156852
 #EXTINF:0,TBS HD
-http://lista.red:8880/moise/moise/34016
-#EXTINF:0,TBS HD [ALT]
-http://lista.red:8880/moise/moise/34427
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/88081
+#EXTINF:0,TC Action FHD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/136774
+#EXTINF:0,TC Cult
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/206439
+#EXTINF:0,TC Fun FHD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/136780
+#EXTINF:0,TC Premium FHD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/136785
 #EXTINF:0,TCM
-http://lista.red:8880/moise/moise/34015
-#EXTINF:0,TELECINE ACTION
-http://lista.red:8880/moise/moise/34014
-#EXTINF:0,TELECINE ACTION FHD
-http://lista.red:8880/moise/moise/34222
-#EXTINF:0,TELECINE ACTION FHD H.265 [ALT]
-http://lista.red:8880/moise/moise/34508
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/157011
 #EXTINF:0,TELECINE ACTION HD
-http://lista.red:8880/moise/moise/34013
-#EXTINF:0,TELECINE ACTION HD [ALT]
-http://lista.red:8880/moise/moise/34507
-#EXTINF:0,TELECINE CULT
-http://lista.red:8880/moise/moise/34012
-#EXTINF:0,TELECINE CULT FHD
-http://lista.red:8880/moise/moise/34260
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/157013
 #EXTINF:0,TELECINE CULT HD
-http://lista.red:8880/moise/moise/34011
-#EXTINF:0,TELECINE FUN
-http://lista.red:8880/moise/moise/34010
-#EXTINF:0,TELECINE FUN FHD
-http://lista.red:8880/moise/moise/34221
-#EXTINF:0,TELECINE FUN FHD H.265 [ALT]
-http://lista.red:8880/moise/moise/34506
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/157014
 #EXTINF:0,TELECINE FUN HD
-http://lista.red:8880/moise/moise/34009
-#EXTINF:0,TELECINE FUN HD [ALT]
-http://lista.red:8880/moise/moise/34505
-#EXTINF:0,TELECINE PIPOCA
-http://lista.red:8880/moise/moise/34008
-#EXTINF:0,TELECINE PIPOCA FHD
-http://lista.red:8880/moise/moise/34220
-#EXTINF:0,TELECINE PIPOCA FHD H.265 [ALT]
-http://lista.red:8880/moise/moise/34504
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/156970
 #EXTINF:0,TELECINE PIPOCA HD
-http://lista.red:8880/moise/moise/34007
-#EXTINF:0,TELECINE PIPOCA HD [ALT]
-http://lista.red:8880/moise/moise/34503
-#EXTINF:0,TELECINE PREMIUM
-http://lista.red:8880/moise/moise/34006
-#EXTINF:0,TELECINE PREMIUM FHD
-http://lista.red:8880/moise/moise/34219
-#EXTINF:0,TELECINE PREMIUM FHD H.265 [ALT]
-http://lista.red:8880/moise/moise/34502
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/156969
 #EXTINF:0,TELECINE PREMIUM HD
-http://lista.red:8880/moise/moise/34005
-#EXTINF:0,TELECINE PREMIUM HD [ALT]
-http://lista.red:8880/moise/moise/34501
-#EXTINF:0,TELECINE TOUCH
-http://lista.red:8880/moise/moise/34004
-#EXTINF:0,TELECINE TOUCH FHD
-http://lista.red:8880/moise/moise/34218
-#EXTINF:0,TELECINE TOUCH FHD H.265 [ALT]
-http://lista.red:8880/moise/moise/34500
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/157016
 #EXTINF:0,TELECINE TOUCH HD
-http://lista.red:8880/moise/moise/34003
-#EXTINF:0,TELECINE TOUCH HD [ALT]
-http://lista.red:8880/moise/moise/34499
-#EXTINF:0,TLC
-http://lista.red:8880/moise/moise/34001
-#EXTINF:0,TLC FHD
-http://lista.red:8880/moise/moise/34259
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/157012
+#EXTINF:0,THE HISTORY CHANNEL HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/163882
 #EXTINF:0,TLC HD
-http://lista.red:8880/moise/moise/34000
-#EXTINF:0,TLC HD [ALT]
-http://lista.red:8880/moise/moise/34425
-#EXTINF:0,TNT
-http://lista.red:8880/moise/moise/33999
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/88079
 #EXTINF:0,TNT FHD
-http://lista.red:8880/moise/moise/34258
-#EXTINF:0,TNT HD
-http://lista.red:8880/moise/moise/33998
-#EXTINF:0,TNT SERIES
-http://lista.red:8880/moise/moise/33997
-#EXTINF:0,TNT SERIES FHD
-http://lista.red:8880/moise/moise/34257
-#EXTINF:0,TNT SERIES FHD H.265 [ALT]
-http://lista.red:8880/moise/moise/34454
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/139155
 #EXTINF:0,TNT SERIES HD
-http://lista.red:8880/moise/moise/33996
-#EXTINF:0,TNT SERIES HD [ALT]
-http://lista.red:8880/moise/moise/34426
-#EXTINF:0,TOONCAST
-http://lista.red:8880/moise/moise/33995
-#EXTINF:0,TV APARECIDA
-http://lista.red:8880/moise/moise/33992
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/157018
+#EXTINF:0,Tom & Jerry 24h
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/124357
+#EXTINF:0,TOONCAST HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/163823
+#EXTINF:0,TV APARECIDA HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/68905
 #EXTINF:0,TV BRASIL
-http://lista.red:8880/moise/moise/33991
-#EXTINF:0,TV CULTURA
-http://lista.red:8880/moise/moise/33968
-#EXTINF:0,TV CULTURA FHD
-http://lista.red:8880/moise/moise/34214
-#EXTINF:0,TV CULTURA HD
-http://lista.red:8880/moise/moise/33967
-#EXTINF:0,TV DIARIO FORTALEZA FHD
-http://lista.red:8880/moise/moise/34202
-#EXTINF:0,TV DIARIO FORTALEZA HD
-http://lista.red:8880/moise/moise/33952
-#EXTINF:0,TV DIARIO FORTALEZA SD
-http://lista.red:8880/moise/moise/33951
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/66028
+#EXTINF:0,TV CINE 1 HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/124324
+#EXTINF:0,TV CINE 3 FHD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/124325
+#EXTINF:0,TV CINE 4 HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/163934
+#EXTINF:0,TV Cultura HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/123144
+#EXTINF:0,TV Diario
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/66076
 #EXTINF:0,TV Escola
-http://lista.red:8880/moise/moise/33989
-#EXTINF:0,TV GAZETA SP HD
-http://lista.red:8880/moise/moise/33988
-#EXTINF:0,UNIVERSAL CHANNEL
-http://lista.red:8880/moise/moise/33983
-#EXTINF:0,UNIVERSAL CHANNEL FHD
-http://lista.red:8880/moise/moise/34254
-#EXTINF:0,UNIVERSAL CHANNEL FHD [ALT]
-http://lista.red:8880/moise/moise/34446
-#EXTINF:0,UNIVERSAL CHANNEL HD
-http://lista.red:8880/moise/moise/33982
-#EXTINF:0,WARNER CHANNEL
-http://lista.red:8880/moise/moise/33976
-#EXTINF:0,WARNER CHANNEL FHD  [ALT]
-http://lista.red:8880/moise/moise/34451
-#EXTINF:0,WARNER CHANNEL HD
-http://lista.red:8880/moise/moise/33975
-#EXTINF:0,WARNER FHD
-http://lista.red:8880/moise/moise/34252
-#EXTINF:0,WOOHOO
-http://lista.red:8880/moise/moise/33974
-#EXTINF:0,WOOHOO FHD
-http://lista.red:8880/moise/moise/34251
-#EXTINF:0,WOOHOO HD
-http://lista.red:8880/moise/moise/33973
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/66018
+#EXTINF:0,TV Faap
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/66058
+#EXTINF:0,Tv Gazeta
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/139156
+#EXTINF:0,TV Geral
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/95859
+#EXTINF:0,TV GLOBO CAMPINAS
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/124243
+#EXTINF:0,TV Globo HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/89540
+#EXTINF:0,TV GLOBO PREMIUM HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/66024
+#EXTINF:0,TV Ideal
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/136799
+#EXTINF:0,TV JUSTICA H264
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/163929
+#EXTINF:0,TV LIBERAL BELEM
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/163871
+#EXTINF:0,TV NBR
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/133582
+#EXTINF:0,TV NOVO TEMPO
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/163932
+#EXTINF:0,TV RA TIM BUM
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/124328
+#EXTINF:0,TV Record
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/66023
+#EXTINF:0,TVE
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/136630
+#EXTINF:0,TVN Brasil
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/68828
+#EXTINF:0,UM MALUCO NO PEDACO 24hrs
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/163961
+#EXTINF:0,Universal Channel FHD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/157019
+#EXTINF:0,Warner Bros HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/104818
+#EXTINF:0,WEB TV MINAS
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/175463
+#EXTINF:0,Woohoo Brasil
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/163312
+#EXTINF:0,Woohoo HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/146621
+#EXTINF:0,ZOOMOO
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/164348

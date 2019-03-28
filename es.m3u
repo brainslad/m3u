@@ -1,103 +1,439 @@
 #EXTM3U
-#EXTINF:0,LA 1 HD
-http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14476
-#EXTINF:0,LA 2 HD
-http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14475
-#EXTINF:0,Antena 3 HD
-http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14478
-#EXTINF:0,Cuatro HD
-http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14473
-#EXTINF:0,La Sexta HD
-http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14474
-#EXTINF:0,Extremadura TV
-http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14456
-#EXTINF:0,Fox
-http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14427
-#EXTINF:0,Fox HD
-http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14428
-#EXTINF:0,Fox Life HD
-http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14426
-#EXTINF:0,Galicia TV
-http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14455
-#EXTINF:0,Syfy HD
-http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14424
-#EXTINF:0,TCM
-http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14423
-#EXTINF:0,Telecinco HD
-http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14472
-#EXTINF:0,A&E
-http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14443
-#EXTINF:0,AMC
-http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14432
-#EXTINF:0,AXN HD
-http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14431
-#EXTINF:0,AXN White HD
-http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14430
-#EXTINF:0,Boing
-http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14450
-#EXTINF:0,Caza y Pesca
-http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14442
-#EXTINF:0,Comedy Central
-http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14467
-#EXTINF:0,Comedy Central HD
-http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14468
-#EXTINF:0,Cosmo HD
-http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14466
-#EXTINF:0,Crimen   Investigacion
-http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14441
-#EXTINF:0,Discovery Channel
-http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14440
-#EXTINF:0,Disney Junior
-http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14448
-#EXTINF:0,Neox
-http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14446
-#EXTINF:0,Nick JR
-http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14444
-#EXTINF:0,Nickelodeon HD
-http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14445
-#EXTINF:0,24 Horas
-http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14469
-#EXTINF:0,CANAL TOROS
-http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/13908
-#EXTINF:0,Barca TV
-http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14399
-#EXTINF:0,Bein Sports HD
-http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14412
-#EXTINF:0,Bein Sports La Liga HD
-http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14411
-#EXTINF:0,Eurosport 1 HD
-http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14410
-#EXTINF:0,Historia
-http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14439
-#EXTINF:0,Mega
-http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14461
-#EXTINF:0,Movistar DCine HD
-http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14419
-#EXTINF:0,Movistar F1 HD
-http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14405
-#EXTINF:0,Movistar Golf
-http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14402
-#EXTINF:0,Movistar MotoGP HD
-http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14404
-#EXTINF:0,Movistar Series HD
-http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14417
-#EXTINF:0,Movistar Series Xtra HD
-http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14416
-#EXTINF:0,Movistar Xtra HD
-http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14415
-#EXTINF:0,National Geographic HD
-http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14438
-#EXTINF:0,Non Stop People
-http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14436
-#EXTINF:0,Nova
-http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14460
-#EXTINF:0,Odisea
-http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14435
-#EXTINF:0,Real Madrid TV
-http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14398
-#EXTINF:0,TNT
-http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14422
-#EXTINF:0,Viajar
-http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14434
-#EXTINF:0,CLAN TVE
-http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14400
+#EXTINF:-1,#0 HD
+http://landiptv.live:8080/live/marco/polo/88901.m3u8
+#EXTINF:-1,24 Horas HD
+http://landiptv.live:8080/live/marco/polo/88902.m3u8
+#EXTINF:-1,A&E
+http://landiptv.live:8080/live/marco/polo/81341.m3u8
+#EXTINF:-1,AMC FHD
+http://landiptv.live:8080/live/marco/polo/88178.m3u8
+#EXTINF:-1,AXN HD
+http://landiptv.live:8080/live/marco/polo/78536.m3u8
+#EXTINF:-1,AXN WHITE FHD
+http://landiptv.live:8080/live/marco/polo/64211.m3u8
+#EXTINF:-1,BABY TV
+http://landiptv.live:8080/live/marco/polo/75231.m3u8
+#EXTINF:-1,BARCA TV
+http://landiptv.live:8080/live/marco/polo/81344.m3u8
+#EXTINF:-1,beIN Sports LaLiga FHD
+http://landiptv.live:8080/live/marco/polo/130013.m3u8
+#EXTINF:-1,CALLE 13 FHD
+http://landiptv.live:8080/live/marco/polo/64206.m3u8
+#EXTINF:-1,CANAL COCINA
+http://landiptv.live:8080/live/marco/polo/78542.m3u8
+#EXTINF:-1,CAZA Y PESCA FHD
+http://landiptv.live:8080/live/marco/polo/88183.m3u8
+#EXTINF:-1,CLAN TVE
+http://landiptv.live:8080/live/marco/polo/141311.m3u8
+#EXTINF:-1,COMEDY CENTRAL FHD
+http://landiptv.live:8080/live/marco/polo/78544.m3u8
+#EXTINF:-1,COSMO FHD
+http://landiptv.live:8080/live/marco/polo/64199.m3u8
+#EXTINF:-1,CRIMEN & INVESTIGACION
+http://landiptv.live:8080/live/marco/polo/70860.m3u8
+#EXTINF:-1,DEPORTES 2 HD
+http://landiptv.live:8080/live/marco/polo/207951.m3u8
+#EXTINF:-1,DEPROTES 1 HD
+http://landiptv.live:8080/live/marco/polo/207952.m3u8
+#EXTINF:-1,DISNEY CHANEL HD
+http://landiptv.live:8080/live/marco/polo/70885.m3u8
+#EXTINF:-1,Disney Junior
+http://landiptv.live:8080/live/marco/polo/75232.m3u8
+#EXTINF:-1,Disney XD HD
+http://landiptv.live:8080/live/marco/polo/78548.m3u8
+#EXTINF:-1,Divinity HD
+http://landiptv.live:8080/live/marco/polo/81421.m3u8
+#EXTINF:-1,EUROSPORT 1 FHD
+http://landiptv.live:8080/live/marco/polo/70840.m3u8
+#EXTINF:-1,FDF HD
+http://landiptv.live:8080/live/marco/polo/97478.m3u8
+#EXTINF:-1,FORMULA 1 HD
+http://landiptv.live:8080/live/marco/polo/116191.m3u8
+#EXTINF:-1,Fox Channel HD
+http://landiptv.live:8080/live/marco/polo/64190.m3u8
+#EXTINF:-1,Fox Deportes
+http://landiptv.live:8080/live/marco/polo/199113.m3u8
+#EXTINF:-1,FOX LIFE FHD
+http://landiptv.live:8080/live/marco/polo/64189.m3u8
+#EXTINF:-1,GOL TV HD
+http://landiptv.live:8080/live/marco/polo/70912.m3u8
+#EXTINF:-1,GOLF HD
+http://landiptv.live:8080/live/marco/polo/101647.m3u8
+#EXTINF:-1,HBO Signature
+http://landiptv.live:8080/live/marco/polo/199114.m3u8
+#EXTINF:-1,Historia
+http://landiptv.live:8080/live/marco/polo/199115.m3u8
+#EXTINF:-1,HOLLYWOOD FHD
+http://landiptv.live:8080/live/marco/polo/64187.m3u8
+#EXTINF:-1,IBERALIA TV
+http://landiptv.live:8080/live/marco/polo/81433.m3u8
+#EXTINF:-1,LA 1 FHD
+http://landiptv.live:8080/live/marco/polo/144232.m3u8
+#EXTINF:-1,LA 2 HD
+http://landiptv.live:8080/live/marco/polo/156293.m3u8
+#EXTINF:-1,LaLiga 123 FHD
+http://landiptv.live:8080/live/marco/polo/207699.m3u8
+#EXTINF:-1,LaLiga FHD
+http://landiptv.live:8080/live/marco/polo/207697.m3u8
+#EXTINF:-1,LaLiga TV BAR HD
+http://landiptv.live:8080/live/marco/polo/208002.m3u8
+#EXTINF:-1,MEGA HD
+http://landiptv.live:8080/live/marco/polo/70862.m3u8
+#EXTINF:-1,Movistar ACCION FHD
+http://landiptv.live:8080/live/marco/polo/70880.m3u8
+#EXTINF:-1,Movistar COMEDIA FHD
+http://landiptv.live:8080/live/marco/polo/157051.m3u8
+#EXTINF:-1,Movistar DEPORTES FHD
+http://landiptv.live:8080/live/marco/polo/77771.m3u8
+#EXTINF:-1,Movistar DRAMA HD
+http://landiptv.live:8080/live/marco/polo/149101.m3u8
+#EXTINF:-1,Movistar FUTBOL HD
+http://landiptv.live:8080/live/marco/polo/207997.m3u8
+#EXTINF:-1,Movistar GOLF FHD
+http://landiptv.live:8080/live/marco/polo/70902.m3u8
+#EXTINF:-1,Movistar Liga de Campeones FHD
+http://landiptv.live:8080/live/marco/polo/130309.m3u8
+#EXTINF:-1,Movistar MotoGP HD
+http://landiptv.live:8080/live/marco/polo/156593.m3u8
+#EXTINF:-1,Movistar SERIES XTRA
+http://landiptv.live:8080/live/marco/polo/207993.m3u8
+#EXTINF:-1,Movistar TOROS HD
+http://landiptv.live:8080/live/marco/polo/207994.m3u8
+#EXTINF:-1,Movistar XTRA
+http://landiptv.live:8080/live/marco/polo/208007.m3u8
+#EXTINF:-1,MTV
+http://landiptv.live:8080/live/marco/polo/199348.m3u8
+#EXTINF:-1,Nick Junior
+http://landiptv.live:8080/live/marco/polo/99558.m3u8
+#EXTINF:-1,NICKELODEON FHD
+http://landiptv.live:8080/live/marco/polo/78562.m3u8
+#EXTINF:-1,PARAMOUNT CHANNEL
+http://landiptv.live:8080/live/marco/polo/70872.m3u8
+#EXTINF:-1,TAQUILLA 1 HD
+http://landiptv.live:8080/live/marco/polo/70850.m3u8
+#EXTINF:-1,TCM FHD
+http://landiptv.live:8080/live/marco/polo/156335.m3u8
+#EXTINF:-1,TELEMUNDO EAST
+http://landiptv.live:8080/live/marco/polo/117815.m3u8
+#EXTINF:-1,Telesur
+http://landiptv.live:8080/live/marco/polo/70854.m3u8
+#EXTINF:-1,Univision FHD
+http://landiptv.live:8080/live/marco/polo/68436.m3u8
+#EXTINF:-1,UNIVISION TDN HD
+http://landiptv.live:8080/live/marco/polo/77163.m3u8
+#EXTINF:-1,VIAJAR FHD
+http://landiptv.live:8080/live/marco/polo/64157.m3u8
+#EXTINF:-1,PT: SPORT TV 4 HD
+http://landiptv.live:8080/live/marco/polo/114850.m3u8
+#EXTINF:-1,PT: SPORT TV 5 HD
+http://landiptv.live:8080/live/marco/polo/114847.m3u8
+#EXTINF:-1,###### SPAIN ######
+http://landiptv.live:8080/live/marco/polo/207015.m3u8
+#EXTINF:-1,7 RM HD
+http://landiptv.live:8080/live/marco/polo/149125.m3u8
+#EXTINF:-1,13 TV
+http://landiptv.live:8080/live/marco/polo/109645.m3u8
+#EXTINF:-1,40 TV
+http://landiptv.live:8080/live/marco/polo/104550.m3u8
+#EXTINF:-1,A3 SERIES HD
+http://landiptv.live:8080/live/marco/polo/99711.m3u8
+#EXTINF:-1,Alquiler 1 HD
+http://landiptv.live:8080/live/marco/polo/88903.m3u8
+#EXTINF:-1,Alquiler 2 HD
+http://landiptv.live:8080/live/marco/polo/88904.m3u8
+#EXTINF:-1,Alquiler 3 HD
+http://landiptv.live:8080/live/marco/polo/88905.m3u8
+#EXTINF:-1,Alquiler 4 HD
+http://landiptv.live:8080/live/marco/polo/88906.m3u8
+#EXTINF:-1,Alquiler 5 HD
+http://landiptv.live:8080/live/marco/polo/88907.m3u8
+#EXTINF:-1,Alquiler 6 HD
+http://landiptv.live:8080/live/marco/polo/88908.m3u8
+#EXTINF:-1,Alquiler 7 HD
+http://landiptv.live:8080/live/marco/polo/107629.m3u8
+#EXTINF:-1,Alquiler 9 HD
+http://landiptv.live:8080/live/marco/polo/107630.m3u8
+#EXTINF:-1,Andalucia TV
+http://landiptv.live:8080/live/marco/polo/70852.m3u8
+#EXTINF:-1,ANIMAL PLANET HD
+http://landiptv.live:8080/live/marco/polo/175995.m3u8
+#EXTINF:-1,ANTENA 3 FHD
+http://landiptv.live:8080/live/marco/polo/64213.m3u8
+#EXTINF:-1,ANTENA 3 SERIES HD
+http://landiptv.live:8080/live/marco/polo/159388.m3u8
+#EXTINF:-1,ARAGON TV
+http://landiptv.live:8080/live/marco/polo/113068.m3u8
+#EXTINF:-1,Atres Series HD
+http://landiptv.live:8080/live/marco/polo/116180.m3u8
+#EXTINF:-1,Azteca Trece
+http://landiptv.live:8080/live/marco/polo/94139.m3u8
+#EXTINF:-1,BE MAD FHD
+http://landiptv.live:8080/live/marco/polo/99710.m3u8
+#EXTINF:-1,beIN Sports LaLiga HD
+http://landiptv.live:8080/live/marco/polo/64208.m3u8
+#EXTINF:-1,beIN Sports Ñ HD
+http://landiptv.live:8080/live/marco/polo/116125.m3u8
+#EXTINF:-1,Blaze
+http://landiptv.live:8080/live/marco/polo/130541.m3u8
+#EXTINF:-1,BOING
+http://landiptv.live:8080/live/marco/polo/78540.m3u8
+#EXTINF:-1,BOX OFFICE 1
+http://landiptv.live:8080/live/marco/polo/159110.m3u8
+#EXTINF:-1,BOX OFFICE 2
+http://landiptv.live:8080/live/marco/polo/159111.m3u8
+#EXTINF:-1,BOX OFFICE 3
+http://landiptv.live:8080/live/marco/polo/159112.m3u8
+#EXTINF:-1,BOX OFFICE 4
+http://landiptv.live:8080/live/marco/polo/159113.m3u8
+#EXTINF:-1,BOX OFFICE 5
+http://landiptv.live:8080/live/marco/polo/159114.m3u8
+#EXTINF:-1,BOX OFFICE 6
+http://landiptv.live:8080/live/marco/polo/159115.m3u8
+#EXTINF:-1,BOX OFFICE 7
+http://landiptv.live:8080/live/marco/polo/159116.m3u8
+#EXTINF:-1,BOX OFFICE 8
+http://landiptv.live:8080/live/marco/polo/159117.m3u8
+#EXTINF:-1,BOX OFFICE 10
+http://landiptv.live:8080/live/marco/polo/159119.m3u8
+#EXTINF:-1,C COMEDIA HD
+http://landiptv.live:8080/live/marco/polo/192832.m3u8
+#EXTINF:-1,C Deportes
+http://landiptv.live:8080/live/marco/polo/192824.m3u8
+#EXTINF:-1,C ESTRENOS
+http://landiptv.live:8080/live/marco/polo/159393.m3u8
+#EXTINF:-1,C TOROS HD
+http://landiptv.live:8080/live/marco/polo/92622.m3u8
+#EXTINF:-1,CANAL 24 HORAS
+http://landiptv.live:8080/live/marco/polo/107610.m3u8
+#EXTINF:-1,Canal 3/24
+http://landiptv.live:8080/live/marco/polo/131987.m3u8
+#EXTINF:-1,Canal Comedia
+http://landiptv.live:8080/live/marco/polo/125606.m3u8
+#EXTINF:-1,Canal DCINE HD
+http://landiptv.live:8080/live/marco/polo/163434.m3u8
+#EXTINF:-1,CANAL DE CASA
+http://landiptv.live:8080/live/marco/polo/78543.m3u8
+#EXTINF:-1,CANAL DE HISTORIA
+http://landiptv.live:8080/live/marco/polo/107639.m3u8
+#EXTINF:-1,Canal de las Estrellas
+http://landiptv.live:8080/live/marco/polo/92746.m3u8
+#EXTINF:-1,CANAL DEPORT
+http://landiptv.live:8080/live/marco/polo/100382.m3u8
+#EXTINF:-1,Canal DEPORTES 2 HD
+http://landiptv.live:8080/live/marco/polo/163458.m3u8
+#EXTINF:-1,Canal DEPORTES HD
+http://landiptv.live:8080/live/marco/polo/163459.m3u8
+#EXTINF:-1,CANAL EXTREMADURA
+http://landiptv.live:8080/live/marco/polo/119474.m3u8
+#EXTINF:-1,Canal FUTBOL HD
+http://landiptv.live:8080/live/marco/polo/91954.m3u8
+#EXTINF:-1,Canal Golf
+http://landiptv.live:8080/live/marco/polo/104523.m3u8
+#EXTINF:-1,Canal Historia
+http://landiptv.live:8080/live/marco/polo/168961.m3u8
+#EXTINF:-1,CANAL HOLLYWOOD HD
+http://landiptv.live:8080/live/marco/polo/107631.m3u8
+#EXTINF:-1,Canal LALIGA TV HD
+http://landiptv.live:8080/live/marco/polo/97953.m3u8
+#EXTINF:-1,Canal Odisea HD
+http://landiptv.live:8080/live/marco/polo/97487.m3u8
+#EXTINF:-1,CANAL ORBE 21
+http://landiptv.live:8080/live/marco/polo/134604.m3u8
+#EXTINF:-1,CANAL PANDA
+http://landiptv.live:8080/live/marco/polo/107634.m3u8
+#EXTINF:-1,CANAL SUR A
+http://landiptv.live:8080/live/marco/polo/81410.m3u8
+#EXTINF:-1,Canal TP HD
+http://landiptv.live:8080/live/marco/polo/197875.m3u8
+#EXTINF:-1,Cartoon Network
+http://landiptv.live:8080/live/marco/polo/94143.m3u8
+#EXTINF:-1,CASTILLA LA MANCHA
+http://landiptv.live:8080/live/marco/polo/168967.m3u8
+#EXTINF:-1,Catve HD
+http://landiptv.live:8080/live/marco/polo/112345.m3u8
+#EXTINF:-1,CINE ESPANOL HD
+http://landiptv.live:8080/live/marco/polo/104531.m3u8
+#EXTINF:-1,CLAN FHD
+http://landiptv.live:8080/live/marco/polo/81364.m3u8
+#EXTINF:-1,Classica
+http://landiptv.live:8080/live/marco/polo/107329.m3u8
+#EXTINF:-1,CNN
+http://landiptv.live:8080/live/marco/polo/101301.m3u8
+#EXTINF:-1,CNN Espanol
+http://landiptv.live:8080/live/marco/polo/146707.m3u8
+#EXTINF:-1,COCINA HD
+http://landiptv.live:8080/live/marco/polo/154774.m3u8
+#EXTINF:-1,CUATRO FHD
+http://landiptv.live:8080/live/marco/polo/78546.m3u8
+#EXTINF:-1,DECASA TV
+http://landiptv.live:8080/live/marco/polo/99733.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://landiptv.live:8080/live/marco/polo/81418.m3u8
+#EXTINF:-1,DISCOVERY DMAX
+http://landiptv.live:8080/live/marco/polo/197082.m3u8
+#EXTINF:-1,DISCOVERY SHOWCASE
+http://landiptv.live:8080/live/marco/polo/197083.m3u8
+#EXTINF:-1,DKISS
+http://landiptv.live:8080/live/marco/polo/109618.m3u8
+#EXTINF:-1,DMax
+http://landiptv.live:8080/live/marco/polo/196332.m3u8
+#EXTINF:-1,ENERGY HD
+http://landiptv.live:8080/live/marco/polo/78549.m3u8
+#EXTINF:-1,Esperanza TV
+http://landiptv.live:8080/live/marco/polo/131982.m3u8
+#EXTINF:-1,EURONEWS
+http://landiptv.live:8080/live/marco/polo/107641.m3u8
+#EXTINF:-1,EUROSPORT 2 HD
+http://landiptv.live:8080/live/marco/polo/81427.m3u8
+#EXTINF:-1,EUROSPORT HD
+http://landiptv.live:8080/live/marco/polo/156351.m3u8
+#EXTINF:-1,Extremadura HD
+http://landiptv.live:8080/live/marco/polo/116161.m3u8
+#EXTINF:-1,GALICIA TV
+http://landiptv.live:8080/live/marco/polo/100377.m3u8
+#EXTINF:-1,HISTORY CHANNEL
+http://landiptv.live:8080/live/marco/polo/141463.m3u8
+#EXTINF:-1,HIT TV
+http://landiptv.live:8080/live/marco/polo/99554.m3u8
+#EXTINF:-1,LA CUATRO HD
+http://landiptv.live:8080/live/marco/polo/149110.m3u8
+#EXTINF:-1,LA SEXTA FHD
+http://landiptv.live:8080/live/marco/polo/64184.m3u8
+#EXTINF:-1,LaLiga 123 HD
+http://landiptv.live:8080/live/marco/polo/140470.m3u8
+#EXTINF:-1,LaLiga HD
+http://landiptv.live:8080/live/marco/polo/70911.m3u8
+#EXTINF:-1,LIGA 123 HD
+http://landiptv.live:8080/live/marco/polo/149123.m3u8
+#EXTINF:-1,MEZZO LIVE FHD
+http://landiptv.live:8080/live/marco/polo/107646.m3u8
+#EXTINF:-1,Movistar 0# FHD
+http://landiptv.live:8080/live/marco/polo/159367.m3u8
+#EXTINF:-1,Movistar CINE N
+http://landiptv.live:8080/live/marco/polo/87425.m3u8
+#EXTINF:-1,Movistar CineDoc&Roll HD
+http://landiptv.live:8080/live/marco/polo/70877.m3u8
+#EXTINF:-1,Movistar COCINA
+http://landiptv.live:8080/live/marco/polo/146410.m3u8
+#EXTINF:-1,Movistar COMEDY CENTRAL
+http://landiptv.live:8080/live/marco/polo/102299.m3u8
+#EXTINF:-1,Movistar DCINE HD
+http://landiptv.live:8080/live/marco/polo/199116.m3u8
+#EXTINF:-1,Movistar DEPORTES 2
+http://landiptv.live:8080/live/marco/polo/70903.m3u8
+#EXTINF:-1,Movistar DISNEY
+http://landiptv.live:8080/live/marco/polo/123977.m3u8
+#EXTINF:-1,Movistar ESTRENOS 2
+http://landiptv.live:8080/live/marco/polo/113800.m3u8
+#EXTINF:-1,Movistar ESTRENOS FHD
+http://landiptv.live:8080/live/marco/polo/144234.m3u8
+#EXTINF:-1,Movistar F1 FHD
+http://landiptv.live:8080/live/marco/polo/102304.m3u8
+#EXTINF:-1,Movistar FORMULA 1 HD
+http://landiptv.live:8080/live/marco/polo/70900.m3u8
+#EXTINF:-1,Movistar FUTBOLL FHD
+http://landiptv.live:8080/live/marco/polo/157097.m3u8
+#EXTINF:-1,Movistar LIGA
+http://landiptv.live:8080/live/marco/polo/129567.m3u8
+#EXTINF:-1,Movistar PARTIDAZOS FHD
+http://landiptv.live:8080/live/marco/polo/156375.m3u8
+#EXTINF:-1,Movistar SERIES FHD
+http://landiptv.live:8080/live/marco/polo/70869.m3u8
+#EXTINF:-1,Movistar Series Mania FHD
+http://landiptv.live:8080/live/marco/polo/70876.m3u8
+#EXTINF:-1,Movistar VAMOS FHD
+http://landiptv.live:8080/live/marco/polo/156423.m3u8
+#EXTINF:-1,MTV ESPAÑA
+http://landiptv.live:8080/live/marco/polo/109646.m3u8
+#EXTINF:-1,MULTIDEPORTE
+http://landiptv.live:8080/live/marco/polo/109658.m3u8
+#EXTINF:-1,N Cuatro HD
+http://landiptv.live:8080/live/marco/polo/70893.m3u8
+#EXTINF:-1,NAT GEO FHD
+http://landiptv.live:8080/live/marco/polo/78561.m3u8
+#EXTINF:-1,NAT GEO WILD FHD
+http://landiptv.live:8080/live/marco/polo/78560.m3u8
+#EXTINF:-1,NEOX HD
+http://landiptv.live:8080/live/marco/polo/70866.m3u8
+#EXTINF:-1,NICK.jr
+http://landiptv.live:8080/live/marco/polo/99553.m3u8
+#EXTINF:-1,NOVA HD
+http://landiptv.live:8080/live/marco/polo/78563.m3u8
+#EXTINF:-1,ODISSEIA
+http://landiptv.live:8080/live/marco/polo/70863.m3u8
+#EXTINF:-1,Onda Azul Malaga
+http://landiptv.live:8080/live/marco/polo/168965.m3u8
+#EXTINF:-1,PANDA
+http://landiptv.live:8080/live/marco/polo/81470.m3u8
+#EXTINF:-1,Real Madrid TV HD
+http://landiptv.live:8080/live/marco/polo/141501.m3u8
+#EXTINF:-1,Sevilla Channel
+http://landiptv.live:8080/live/marco/polo/70855.m3u8
+#EXTINF:-1,SKY NET SPORTS 2
+http://landiptv.live:8080/live/marco/polo/94098.m3u8
+#EXTINF:-1,SKYNET SPORTS 1
+http://landiptv.live:8080/live/marco/polo/142067.m3u8
+#EXTINF:-1,SUNDANCE FHD
+http://landiptv.live:8080/live/marco/polo/157064.m3u8
+#EXTINF:-1,SYFY FHD
+http://landiptv.live:8080/live/marco/polo/156333.m3u8
+#EXTINF:-1,TAQUILLA 2 HD
+http://landiptv.live:8080/live/marco/polo/70849.m3u8
+#EXTINF:-1,TAQUILLA 3 HD
+http://landiptv.live:8080/live/marco/polo/70848.m3u8
+#EXTINF:-1,TAQUILLA 4 HD
+http://landiptv.live:8080/live/marco/polo/70847.m3u8
+#EXTINF:-1,TAQUILLA 5 HD
+http://landiptv.live:8080/live/marco/polo/70846.m3u8
+#EXTINF:-1,TAQUILLA 6 HD
+http://landiptv.live:8080/live/marco/polo/70845.m3u8
+#EXTINF:-1,TAQUILLA 7 HD
+http://landiptv.live:8080/live/marco/polo/70844.m3u8
+#EXTINF:-1,Taquilla 8 HD
+http://landiptv.live:8080/live/marco/polo/70843.m3u8
+#EXTINF:-1,TAQUILLA 9 HD
+http://landiptv.live:8080/live/marco/polo/70842.m3u8
+#EXTINF:-1,TAQUILLA 10 HD
+http://landiptv.live:8080/live/marco/polo/70841.m3u8
+#EXTINF:-1,TELECINCO FHD
+http://landiptv.live:8080/live/marco/polo/64160.m3u8
+#EXTINF:-1,TELEDEPORTE FHD
+http://landiptv.live:8080/live/marco/polo/77767.m3u8
+#EXTINF:-1,TELEMADRID FHD
+http://landiptv.live:8080/live/marco/polo/78567.m3u8
+#EXTINF:-1,Telemax HD
+http://landiptv.live:8080/live/marco/polo/114742.m3u8
+#EXTINF:-1,TEN
+http://landiptv.live:8080/live/marco/polo/119361.m3u8
+#EXTINF:-1,TNT FHD
+http://landiptv.live:8080/live/marco/polo/78569.m3u8
+#EXTINF:-1,TOROS HD
+http://landiptv.live:8080/live/marco/polo/99560.m3u8
+#EXTINF:-1,TV Galicia
+http://landiptv.live:8080/live/marco/polo/81380.m3u8
+#EXTINF:-1,TV3 24H HD
+http://landiptv.live:8080/live/marco/polo/107611.m3u8
+#EXTINF:-1,TV3 Catalynia HD
+http://landiptv.live:8080/live/marco/polo/70896.m3u8
+#EXTINF:-1,TVE 24H
+http://landiptv.live:8080/live/marco/polo/146441.m3u8
+#EXTINF:-1,TVE Internacional
+http://landiptv.live:8080/live/marco/polo/141513.m3u8
+#EXTINF:-1,TVE LA 1 HD
+http://landiptv.live:8080/live/marco/polo/70898.m3u8
+#EXTINF:-1,TVE LA 2 HD
+http://landiptv.live:8080/live/marco/polo/70897.m3u8
+#EXTINF:-1,Univision Deportes HD
+http://landiptv.live:8080/live/marco/polo/68463.m3u8
+#EXTINF:-1,Univision New York HD
+http://landiptv.live:8080/live/marco/polo/68689.m3u8
+#EXTINF:-1,Univision West
+http://landiptv.live:8080/live/marco/polo/116154.m3u8
+#EXTINF:-1,Vamos FHD
+http://landiptv.live:8080/live/marco/polo/141391.m3u8
+#EXTINF:-1,VH1
+http://landiptv.live:8080/live/marco/polo/101044.m3u8
+#EXTINF:-1,WARNER BROS HD
+http://landiptv.live:8080/live/marco/polo/184557.m3u8
+#EXTINF:-1,Xtra HD
+http://landiptv.live:8080/live/marco/polo/99561.m3u8

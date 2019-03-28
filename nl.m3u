@@ -1,209 +1,283 @@
 #EXTM3U
-#EXTINF:-1,NPO 1 HD
-http://194.88.107.101:6204/marwan/123/9541
-#EXTINF:-1,NPO 2 HD
-http://194.88.107.101:6204/marwan/123/9539
-#EXTINF:-1,NPO 3 HD
-http://194.88.107.101:6204/marwan/123/9538
-#EXTINF:-1,RTL 4 FHD
-http://194.88.107.101:6204/marwan/123/9534
-#EXTINF:-1,RTL 5 FHD
-http://194.88.107.101:6204/marwan/123/9533
-#EXTINF:-1,SBS6 HD
-http://194.88.107.101:6204/marwan/123/9526
-#EXTINF:-1,RTL 7 FHD
-http://194.88.107.101:6204/marwan/123/9532
-#EXTINF:-1,Veronica Disney XD Full HD
-http://194.88.107.101:6204/marwan/123/11191
-#EXTINF:-1,RTL 8 FHD
-http://194.88.107.101:6204/marwan/123/9531
-#EXTINF:-1,NET 5 HD
-http://194.88.107.101:6204/marwan/123/9545
-#EXTINF:-1,Fox Channel HD
-http://194.88.107.101:6204/marwan/123/9562
-#EXTINF:-1,SBS 9
-http://194.88.107.101:6204/marwan/123/9527
-#EXTINF:-1,RTL Z
-http://194.88.107.101:6204/marwan/123/9528
-#EXTINF:-1,Comedy Central HD
-http://194.88.107.101:6204/marwan/123/9577
-#EXTINF:-1,Discovery Showcase HD
-http://194.88.107.101:6204/marwan/123/9574
-#EXTINF:-1,National Geographic HD NL
-http://194.88.107.101:6204/marwan/123/11056
-#EXTINF:-1,Spike NL
-http://194.88.107.101:6204/marwan/123/11009
-#EXTINF:-1,Film1 Premiere HD
-http://194.88.107.101:6204/marwan/123/9565
-#EXTINF:-1,Film1 Family HD
-http://194.88.107.101:6204/marwan/123/9566
-#EXTINF:-1,Film1 Action HD
-http://194.88.107.101:6204/marwan/123/9567
-#EXTINF:-1,Film1 Drama HD
-http://194.88.107.101:6204/marwan/123/9564
-#EXTINF:-1,EuroSport 1 HD
-http://194.88.107.101:6204/marwan/123/9570
-#EXTINF:-1,EuroSport 2 HD
-http://194.88.107.101:6204/marwan/123/9569
-#EXTINF:-1,Fox Sport 1 HD
-http://194.88.107.101:6204/marwan/123/9561
-#EXTINF:-1,Fox Sport 2 HD
-http://194.88.107.101:6204/marwan/123/9560
-#EXTINF:-1,Fox Sport 4 HD
-http://194.88.107.101:6204/marwan/123/9558
-#EXTINF:-1,Ziggo Sport Select HD
-http://194.88.107.101:6204/marwan/123/9518
-#EXTINF:-1,Ziggo Sport Voetbal
-http://194.88.107.101:6204/marwan/123/9517
-#EXTINF:-1,Ziggo Sport Golf
-http://194.88.107.101:6204/marwan/123/9520
-#EXTINF:-1,EDGE Sport HD NL
-http://194.88.107.101:6204/marwan/123/11062
-#EXTINF:-1,Motors TV
-http://194.88.107.101:6204/marwan/123/9547
-#EXTINF:-1,Disney Channel
-http://194.88.107.101:6204/marwan/123/9573
-#EXTINF:-1,Nick Toons
-http://194.88.107.101:6204/marwan/123/9543
-#EXTINF:-1,Nick JR.
-http://194.88.107.101:6204/marwan/123/9544
-#EXTINF:-1,Boomerang
-http://194.88.107.101:6204/marwan/123/9580
-#EXTINF:-1,Discovery Channel
-http://194.88.107.101:6204/marwan/123/9575
-#EXTINF:-1,TLC
-http://194.88.107.101:6204/marwan/123/9525
-#EXTINF:-1,Nat Geo Wild HD
-http://194.88.107.101:6204/marwan/123/9546
-#EXTINF:-1,Animal Planet
-http://194.88.107.101:6204/marwan/123/9582
-#EXTINF:-1,History HD DUT
-http://194.88.107.101:6204/marwan/123/9552
-#EXTINF:-1,Investigation Discovery
-http://194.88.107.101:6204/marwan/123/9550
-#EXTINF:-1,RTL Crime HD
-http://194.88.107.101:6204/marwan/123/9530
+#EXTINF:-1,100%NL
+http://landiptv.live:8080/live/marco/polo/198195.m3u8
+#EXTINF:-1,192 TV
+http://landiptv.live:8080/live/marco/polo/207323.m3u8
 #EXTINF:-1,192TV
-http://194.88.107.101:6204/marwan/123/9584
-#EXTINF:-1,ONS NL
-http://194.88.107.101:6204/marwan/123/11013
+http://landiptv.live:8080/live/marco/polo/74953.m3u8
+#EXTINF:-1,24 Kitchen
+http://landiptv.live:8080/live/marco/polo/160206.m3u8
+#EXTINF:-1,538 TV HD
+http://landiptv.live:8080/live/marco/polo/196613.m3u8
+#EXTINF:-1,ANIMAL PLANET HD
+http://landiptv.live:8080/live/marco/polo/158131.m3u8
+#EXTINF:-1,ARD HD
+http://landiptv.live:8080/live/marco/polo/97320.m3u8
+#EXTINF:-1,AT5
+http://landiptv.live:8080/live/marco/polo/133206.m3u8
+#EXTINF:-1,BABY TV HD
+http://landiptv.live:8080/live/marco/polo/157767.m3u8
+#EXTINF:-1,BBC FIRST HD
+http://landiptv.live:8080/live/marco/polo/97321.m3u8
+#EXTINF:-1,Boomerang HD
+http://landiptv.live:8080/live/marco/polo/158132.m3u8
+#EXTINF:-1,Cartoon Network HD
+http://landiptv.live:8080/live/marco/polo/157768.m3u8
+#EXTINF:-1,Comedy Central Extra
+http://landiptv.live:8080/live/marco/polo/75003.m3u8
+#EXTINF:-1,Comedy Central Family
+http://landiptv.live:8080/live/marco/polo/75004.m3u8
+#EXTINF:-1,Comedy Central HD
+http://landiptv.live:8080/live/marco/polo/74960.m3u8
+#EXTINF:-1,Crime & Investigation HD
+http://landiptv.live:8080/live/marco/polo/75005.m3u8
+#EXTINF:-1,DANCE TRIPPIN HD
+http://landiptv.live:8080/live/marco/polo/97318.m3u8
+#EXTINF:-1,deventerrtv
+http://landiptv.live:8080/live/marco/polo/196615.m3u8
+#EXTINF:-1,Discovery Channel FHD
+http://landiptv.live:8080/live/marco/polo/74961.m3u8
+#EXTINF:-1,Discovery Science FHD
+http://landiptv.live:8080/live/marco/polo/93824.m3u8
+#EXTINF:-1,DISCOVERY SHOWCASE FHD
+http://landiptv.live:8080/live/marco/polo/175816.m3u8
+#EXTINF:-1,Discovery World HD
+http://landiptv.live:8080/live/marco/polo/93823.m3u8
+#EXTINF:-1,Disney Channel
+http://landiptv.live:8080/live/marco/polo/75008.m3u8
+#EXTINF:-1,Disney Junior
+http://landiptv.live:8080/live/marco/polo/157769.m3u8
+#EXTINF:-1,Disney XD HD
+http://landiptv.live:8080/live/marco/polo/115845.m3u8
+#EXTINF:-1,Djazz TV
+http://landiptv.live:8080/live/marco/polo/160213.m3u8
+#EXTINF:-1,DUCK TV
+http://landiptv.live:8080/live/marco/polo/130798.m3u8
+#EXTINF:-1,E! HD
+http://landiptv.live:8080/live/marco/polo/89194.m3u8
+#EXTINF:-1,EDGE Sport TV
+http://landiptv.live:8080/live/marco/polo/130799.m3u8
+#EXTINF:-1,EUROSPORT 1 FHD
+http://landiptv.live:8080/live/marco/polo/74964.m3u8
+#EXTINF:-1,EUROSPORT 2 HD
+http://landiptv.live:8080/live/marco/polo/158140.m3u8
+#EXTINF:-1,Extreme Sports Channel
+http://landiptv.live:8080/live/marco/polo/64236.m3u8
+#EXTINF:-1,FASHION TV HD
+http://landiptv.live:8080/live/marco/polo/97324.m3u8
+#EXTINF:-1,Film 1 SPOTLIGHT
+http://landiptv.live:8080/live/marco/polo/133807.m3u8
+#EXTINF:-1,Film Action HD
+http://landiptv.live:8080/live/marco/polo/133163.m3u8
+#EXTINF:-1,Film Action VIASAT
+http://landiptv.live:8080/live/marco/polo/87642.m3u8
+#EXTINF:-1,Film Drama HD
+http://landiptv.live:8080/live/marco/polo/75011.m3u8
+#EXTINF:-1,Film Family HD
+http://landiptv.live:8080/live/marco/polo/196609.m3u8
+#EXTINF:-1,Film Premiere FHD
+http://landiptv.live:8080/live/marco/polo/87645.m3u8
+#EXTINF:-1,Film1 Family FHD
+http://landiptv.live:8080/live/marco/polo/74966.m3u8
+#EXTINF:-1,Fine Living HD
+http://landiptv.live:8080/live/marco/polo/127860.m3u8
+#EXTINF:-1,Food Network FHD
+http://landiptv.live:8080/live/marco/polo/103196.m3u8
+#EXTINF:-1,Fox Channel HD
+http://landiptv.live:8080/live/marco/polo/133145.m3u8
+#EXTINF:-1,FOX SPORT 1 HD
+http://landiptv.live:8080/live/marco/polo/65203.m3u8
+#EXTINF:-1,FOX SPORT 2 HD
+http://landiptv.live:8080/live/marco/polo/65202.m3u8
+#EXTINF:-1,FOX SPORT 3 HD
+http://landiptv.live:8080/live/marco/polo/64221.m3u8
+#EXTINF:-1,FOX SPORT 4 HD
+http://landiptv.live:8080/live/marco/polo/65200.m3u8
+#EXTINF:-1,FOX SPORT 5 HD
+http://landiptv.live:8080/live/marco/polo/65199.m3u8
+#EXTINF:-1,FOX SPORT 6 HD
+http://landiptv.live:8080/live/marco/polo/133170.m3u8
+#EXTINF:-1,FOX SPORTS 1 EREDIVISIE HD
+http://landiptv.live:8080/live/marco/polo/197760.m3u8
+#EXTINF:-1,FOX SPORTS 2 INTERNATIONAL
+http://landiptv.live:8080/live/marco/polo/93527.m3u8
+#EXTINF:-1,FOX SPORTS 3 EREDIVISIE
+http://landiptv.live:8080/live/marco/polo/93526.m3u8
+#EXTINF:-1,FOX SPORTS 4 INTERNATIONAL
+http://landiptv.live:8080/live/marco/polo/93525.m3u8
+#EXTINF:-1,FOX SPORTS 5 EREDIVISIE HD
+http://landiptv.live:8080/live/marco/polo/93524.m3u8
+#EXTINF:-1,FOX SPORTS 6 INTERNATIONAL
+http://landiptv.live:8080/live/marco/polo/106249.m3u8
+#EXTINF:-1,FOX SPORTS EDL 1 HD
+http://landiptv.live:8080/live/marco/polo/96865.m3u8
+#EXTINF:-1,FOX SPORTS EDL 3 HD
+http://landiptv.live:8080/live/marco/polo/96866.m3u8
+#EXTINF:-1,Golf HD
+http://landiptv.live:8080/live/marco/polo/64232.m3u8
+#EXTINF:-1,HBO 1 HD
+http://landiptv.live:8080/live/marco/polo/87653.m3u8
+#EXTINF:-1,HBO 2 HD
+http://landiptv.live:8080/live/marco/polo/64224.m3u8
+#EXTINF:-1,HBO 3 HD
+http://landiptv.live:8080/live/marco/polo/64222.m3u8
+#EXTINF:-1,History Chanel HD
+http://landiptv.live:8080/live/marco/polo/158146.m3u8
+#EXTINF:-1,Horse & Country TV HD
+http://landiptv.live:8080/live/marco/polo/118931.m3u8
+#EXTINF:-1,Investigation Disvovery FHD
+http://landiptv.live:8080/live/marco/polo/74971.m3u8
+#EXTINF:-1,Jim Jam
+http://landiptv.live:8080/live/marco/polo/163582.m3u8
+#EXTINF:-1,Ketnet Junior
+http://landiptv.live:8080/live/marco/polo/136195.m3u8
+#EXTINF:-1,L1mburg
+http://landiptv.live:8080/live/marco/polo/93843.m3u8
+#EXTINF:-1,Mezzo
+http://landiptv.live:8080/live/marco/polo/93820.m3u8
+#EXTINF:-1,Motors TV(FUEL)
+http://landiptv.live:8080/live/marco/polo/96870.m3u8
+#EXTINF:-1,MTV
+http://landiptv.live:8080/live/marco/polo/192756.m3u8
+#EXTINF:-1,MTV Brand New HD
+http://landiptv.live:8080/live/marco/polo/97316.m3u8
+#EXTINF:-1,MTV LIVE HD
+http://landiptv.live:8080/live/marco/polo/93818.m3u8
+#EXTINF:-1,Mtv Music
+http://landiptv.live:8080/live/marco/polo/137493.m3u8
+#EXTINF:-1,NAT GEO HD
+http://landiptv.live:8080/live/marco/polo/74978.m3u8
+#EXTINF:-1,NAT GEO WILD HD
+http://landiptv.live:8080/live/marco/polo/158148.m3u8
+#EXTINF:-1,NET 5 HD
+http://landiptv.live:8080/live/marco/polo/133143.m3u8
+#EXTINF:-1,Nick Hits
+http://landiptv.live:8080/live/marco/polo/135737.m3u8
+#EXTINF:-1,Nick Junior HD
+http://landiptv.live:8080/live/marco/polo/133198.m3u8
+#EXTINF:-1,Nick Music HD
+http://landiptv.live:8080/live/marco/polo/74981.m3u8
+#EXTINF:-1,Nick toons HD
+http://landiptv.live:8080/live/marco/polo/158917.m3u8
+#EXTINF:-1,Nickelodeon HD
+http://landiptv.live:8080/live/marco/polo/133199.m3u8
+#EXTINF:-1,NPO 1 HD
+http://landiptv.live:8080/live/marco/polo/133133.m3u8
+#EXTINF:-1,NPO 2 HD
+http://landiptv.live:8080/live/marco/polo/133134.m3u8
+#EXTINF:-1,NPO 3 HD
+http://landiptv.live:8080/live/marco/polo/133135.m3u8
+#EXTINF:-1,NPO CULTURA
+http://landiptv.live:8080/live/marco/polo/175521.m3u8
+#EXTINF:-1,NPO EXTRA
+http://landiptv.live:8080/live/marco/polo/158151.m3u8
+#EXTINF:-1,Npo Nieuws
+http://landiptv.live:8080/live/marco/polo/136186.m3u8
 #EXTINF:-1,NPO Politiek
-http://194.88.107.101:6204/marwan/123/9536
-#EXTINF:-1,NPO Zapp Xtra/NPO Humor TV
-http://194.88.107.101:6204/marwan/123/9535
-#EXTINF:-1,E!
-http://194.88.107.101:6204/marwan/123/9571
-#EXTINF:-1,The Q You HD NL
-http://194.88.107.101:6204/marwan/123/11008
-#EXTINF:-1,Duck TV
-http://194.88.107.101:6204/marwan/123/9572
-#EXTINF:-1,Baby TV
-http://194.88.107.101:6204/marwan/123/9581
-#EXTINF:-1,RTL Telekids FHD
-http://194.88.107.101:6204/marwan/123/13531
-#EXTINF:-1,RTL Lounge
-http://194.88.107.101:6204/marwan/123/9529
-#EXTINF:-1,24 Kitchen HD
-http://194.88.107.101:6204/marwan/123/9583
-#EXTINF:-1,Ketnet HD
-http://194.88.107.101:6204/marwan/123/9548
-#EXTINF:-1,MTV NL
-http://194.88.107.101:6204/marwan/123/11057
-#EXTINF:-1,Omroep Brabant NL
-http://194.88.107.101:6204/marwan/123/11019
-#EXTINF:-1,Omroep Zeeland NL
-http://194.88.107.101:6204/marwan/123/11015
-#EXTINF:-1,AT 5 NL
-http://194.88.107.101:6204/marwan/123/11024
-#EXTINF:-1,Omroep Flevoland NL
-http://194.88.107.101:6204/marwan/123/11018
-#EXTINF:-1,Omroep Gelderland NL
-http://194.88.107.101:6204/marwan/123/11017
-#EXTINF:-1,RTV Drenthe NL
-http://194.88.107.101:6204/marwan/123/11012
-#EXTINF:-1,RTV Oost NL
-http://194.88.107.101:6204/marwan/123/11010
-#EXTINF:-1,RTV Noord NL
-http://194.88.107.101:6204/marwan/123/11011
-#EXTINF:-1,Omrop Fryslan NL
-http://194.88.107.101:6204/marwan/123/11014
+http://landiptv.live:8080/live/marco/polo/158889.m3u8
+#EXTINF:-1,NPO Zapp Xtra
+http://landiptv.live:8080/live/marco/polo/113762.m3u8
+#EXTINF:-1,OMROEP BRABANT HD
+http://landiptv.live:8080/live/marco/polo/196619.m3u8
+#EXTINF:-1,OMROEP Fryslân
+http://landiptv.live:8080/live/marco/polo/93851.m3u8
+#EXTINF:-1,OMROEP Gelderland HD
+http://landiptv.live:8080/live/marco/polo/74987.m3u8
+#EXTINF:-1,OMROEP West
+http://landiptv.live:8080/live/marco/polo/74999.m3u8
+#EXTINF:-1,OMROEP ZeeLand HD
+http://landiptv.live:8080/live/marco/polo/93850.m3u8
+#EXTINF:-1,ONS
+http://landiptv.live:8080/live/marco/polo/139328.m3u8
+#EXTINF:-1,Pebble TV HD
+http://landiptv.live:8080/live/marco/polo/96877.m3u8
+#EXTINF:-1,RTL 4 HD
+http://landiptv.live:8080/live/marco/polo/133136.m3u8
+#EXTINF:-1,RTL 5 HD
+http://landiptv.live:8080/live/marco/polo/133137.m3u8
+#EXTINF:-1,RTL 7 HD
+http://landiptv.live:8080/live/marco/polo/133139.m3u8
+#EXTINF:-1,RTL 8 HD
+http://landiptv.live:8080/live/marco/polo/133140.m3u8
+#EXTINF:-1,RTL Crime HD
+http://landiptv.live:8080/live/marco/polo/133148.m3u8
+#EXTINF:-1,RTL Lounge HD
+http://landiptv.live:8080/live/marco/polo/158891.m3u8
 #EXTINF:-1,RTL Telekids HD
-http://194.88.107.101:6204/marwan/123/13530
-#EXTINF:-1,RTL Telekids
-http://194.88.107.101:6204/marwan/123/11051
-#EXTINF:-1,NPO 101
-http://194.88.107.101:6204/marwan/123/9540
-#EXTINF:-1,NPO HUMOR
-http://194.88.107.101:6204/marwan/123/9537
-#EXTINF:-1,NPO Best/Zapp Xtra NL
-http://194.88.107.101:6204/marwan/123/11055
-#EXTINF:-1,NPO Cultura NL
-http://194.88.107.101:6204/marwan/123/11054
-#EXTINF:-1,NPO Humor TV NL
-http://194.88.107.101:6204/marwan/123/11053
-#EXTINF:-1,NPO Politiek NL
-http://194.88.107.101:6204/marwan/123/11052
-#EXTINF:-1,Omroep West NL
-http://194.88.107.101:6204/marwan/123/11016
-#EXTINF:-1,RTV Dordrecht NL
-http://194.88.107.101:6204/marwan/123/11050
-#EXTINF:-1,RTV Purmerend NL
-http://194.88.107.101:6204/marwan/123/11049
-#EXTINF:-1,RTV Rijnmond NL
-http://194.88.107.101:6204/marwan/123/11048
-#EXTINF:-1,RTV Slingeland NL
-http://194.88.107.101:6204/marwan/123/11047
-#EXTINF:-1,RTV Slos NL
-http://194.88.107.101:6204/marwan/123/11046
-#EXTINF:-1,RTV Totaal NL
-http://194.88.107.101:6204/marwan/123/11045
-#EXTINF:-1,RTV Utrecht NL
-http://194.88.107.101:6204/marwan/123/11044
-#EXTINF:-1,MTV Hits NL
-http://194.88.107.101:6204/marwan/123/11059
-#EXTINF:-1,MTV Music 24 NL
-http://194.88.107.101:6204/marwan/123/11058
-#EXTINF:-1,iConcerts HD
-http://194.88.107.101:6204/marwan/123/9551
-#EXTINF:-1,Nick Music NL
-http://194.88.107.101:6204/marwan/123/11021
-#EXTINF:-1,Comedy Central Eextra
-http://194.88.107.101:6204/marwan/123/9578
-#EXTINF:-1,Crime & Investigation
-http://194.88.107.101:6204/marwan/123/9576
-#EXTINF:-1,Look TV
-http://194.88.107.101:6204/marwan/123/9553
-#EXTINF:-1,L1 TV NL
-http://194.88.107.101:6204/marwan/123/11022
-#EXTINF:-1,TV 538 NL
-http://194.88.107.101:6204/marwan/123/11007
-#EXTINF:-1,WOS NL
-http://194.88.107.101:6204/marwan/123/11006
-#EXTINF:-1,BBC Entertainment NL
-http://194.88.107.101:6204/marwan/123/11066
-#EXTINF:-1,EDE TV NL
-http://194.88.107.101:6204/marwan/123/11063
-#EXTINF:-1,Feel Good TV NL
-http://194.88.107.101:6204/marwan/123/11061
-#EXTINF:-1,Klipkar TV NL
-http://194.88.107.101:6204/marwan/123/11060
-#EXTINF:-1,Salto 1 NL
-http://194.88.107.101:6204/marwan/123/11043
-#EXTINF:-1,Salto 2 NL
-http://194.88.107.101:6204/marwan/123/11042
-#EXTINF:-1,Slam! NL
-http://194.88.107.101:6204/marwan/123/11041
-#EXTINF:-1,Slotstad RTV NL
-http://194.88.107.101:6204/marwan/123/11040
-#EXTINF:-1,Viceland HD NL
-http://194.88.107.101:6204/marwan/123/11038
+http://landiptv.live:8080/live/marco/polo/75020.m3u8
+#EXTINF:-1,RTL Z HD
+http://landiptv.live:8080/live/marco/polo/75009.m3u8
+#EXTINF:-1,RTV 7
+http://landiptv.live:8080/live/marco/polo/98031.m3u8
+#EXTINF:-1,RTV Drenthe HD
+http://landiptv.live:8080/live/marco/polo/74992.m3u8
+#EXTINF:-1,RTV Noord
+http://landiptv.live:8080/live/marco/polo/93844.m3u8
+#EXTINF:-1,RTV OOST
+http://landiptv.live:8080/live/marco/polo/89212.m3u8
+#EXTINF:-1,RTV Rijnmond
+http://landiptv.live:8080/live/marco/polo/127927.m3u8
+#EXTINF:-1,RTV Utrecht
+http://landiptv.live:8080/live/marco/polo/136239.m3u8
+#EXTINF:-1,SBS 6 FHD
+http://landiptv.live:8080/live/marco/polo/74993.m3u8
+#EXTINF:-1,SBS 9 HD
+http://landiptv.live:8080/live/marco/polo/74994.m3u8
+#EXTINF:-1,Shorts TV FHD
+http://landiptv.live:8080/live/marco/polo/75021.m3u8
+#EXTINF:-1,Spike HD
+http://landiptv.live:8080/live/marco/polo/133146.m3u8
+#EXTINF:-1,Sport 1 Voetbal
+http://landiptv.live:8080/live/marco/polo/93105.m3u8
+#EXTINF:-1,Sport1 Golf
+http://landiptv.live:8080/live/marco/polo/93102.m3u8
+#EXTINF:-1,Sport1 Racing
+http://landiptv.live:8080/live/marco/polo/93103.m3u8
+#EXTINF:-1,Sport1 Select
+http://landiptv.live:8080/live/marco/polo/93104.m3u8
+#EXTINF:-1,Stingray Lite TV
+http://landiptv.live:8080/live/marco/polo/127886.m3u8
+#EXTINF:-1,Syfy
+http://landiptv.live:8080/live/marco/polo/75022.m3u8
+#EXTINF:-1,TELEKIDS!
+http://landiptv.live:8080/live/marco/polo/207324.m3u8
+#EXTINF:-1,TLC HD
+http://landiptv.live:8080/live/marco/polo/133157.m3u8
+#EXTINF:-1,TRAVEL HD
+http://landiptv.live:8080/live/marco/polo/207368.m3u8
+#EXTINF:-1,TV 538
+http://landiptv.live:8080/live/marco/polo/75023.m3u8
 #EXTINF:-1,TV Oranje
-http://194.88.107.101:6204/marwan/123/9524
-#EXTINF:-1,JimJam
-http://194.88.107.101:6204/marwan/123/9549
-#EXTINF:-1,Disney Junior NL
-http://194.88.107.101:6204/marwan/123/11064
-#EXTINF:-1,Disney Channel NL
-http://194.88.107.101:6204/marwan/123/11065
-#EXTINF:-1,Veronica/DisneyXD
-http://194.88.107.101:6204/marwan/123/9523
+http://landiptv.live:8080/live/marco/polo/158158.m3u8
+#EXTINF:-1,Veronica TV/DISNEY XD HD
+http://landiptv.live:8080/live/marco/polo/87663.m3u8
+#EXTINF:-1,VH1 CLASSIC
+http://landiptv.live:8080/live/marco/polo/97331.m3u8
+#EXTINF:-1,Viceland FHD
+http://landiptv.live:8080/live/marco/polo/97317.m3u8
+#EXTINF:-1,XITE HD
+http://landiptv.live:8080/live/marco/polo/133189.m3u8
+#EXTINF:-1,ZDF HD
+http://landiptv.live:8080/live/marco/polo/97319.m3u8
+#EXTINF:-1,Ziggo Docu
+http://landiptv.live:8080/live/marco/polo/142796.m3u8
+#EXTINF:-1,Ziggo Extra 1
+http://landiptv.live:8080/live/marco/polo/146540.m3u8
+#EXTINF:-1,Ziggo Extra 2
+http://landiptv.live:8080/live/marco/polo/208015.m3u8
+#EXTINF:-1,Ziggo Select
+http://landiptv.live:8080/live/marco/polo/111045.m3u8
+#EXTINF:-1,Ziggo Sport DOCU HD
+http://landiptv.live:8080/live/marco/polo/106528.m3u8
+#EXTINF:-1,Ziggo Sport EXTRA HD
+http://landiptv.live:8080/live/marco/polo/133177.m3u8
+#EXTINF:-1,Ziggo Sport GOLF HD
+http://landiptv.live:8080/live/marco/polo/111044.m3u8
+#EXTINF:-1,Ziggo Sport Racing HD
+http://landiptv.live:8080/live/marco/polo/65189.m3u8
+#EXTINF:-1,Ziggo Sport Select FHD
+http://landiptv.live:8080/live/marco/polo/126486.m3u8
+#EXTINF:-1,Ziggo Sport VOETBAL HD
+http://landiptv.live:8080/live/marco/polo/65193.m3u8
+#EXTINF:-1,Ziggo TV
+http://landiptv.live:8080/live/marco/polo/135742.m3u8
